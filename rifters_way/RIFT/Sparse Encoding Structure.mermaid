@@ -1,0 +1,10 @@
+graph LR
+    x[Symbol x] --> S[Sparse Encoding]
+    
+    subgraph SparseEncoding
+        EL[E<sub>L</sub>(x)]
+        ER[E<sub>R</sub>(x)]
+    end
+    
+    EL --> Pair["S(x) = (E<sub>L</sub>(x), E<sub>R</sub>(x))"]
+    ER --> Pair

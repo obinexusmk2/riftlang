@@ -1,0 +1,12 @@
+graph TD
+    u["E<sub>L</sub>(x) = u"] --> T["T: {0,1}* × {0,1}* → {0,1}*"]
+    v["E<sub>R</sub>(x) = v"] --> T
+    
+    T -->|Coherence Axiom| I["I(x) = T(u, v)"]
+    
+    T --> Check{u = v?}
+    Check -->|Yes| Direct[Output u]
+    Check -->|No| Transform[Apply f ∈ F]
+    
+    Transform -->|lim k→∞ f⁽ᵏ⁾(u,v)| Converge[Convergence]
+    Converge --> I

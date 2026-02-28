@@ -1,0 +1,12 @@
+graph TD
+    subgraph "Epsilon Symbol ε ∉ Σ"
+        EL["E<sub>L</sub>(x) = ε"]
+        ER["E<sub>R</sub>(x) = y"]
+    end
+    
+    EL --> T["T(ε, y) = y"]
+    ER --> T
+    
+    T --> Output["Output y"]
+    
+    Note["Nil preservation axiom: Never drop zeros, ε is placeholder not deletion"]

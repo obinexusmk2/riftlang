@@ -1,0 +1,11 @@
+graph TB
+    Σ["Σ = {0,1,2,...,9,A,B,C,D,E,F}"]
+    
+    Σ --> EL["E<sub>L</sub>: Σ → {0,1}*"]
+    Σ --> ER["E<sub>R</sub>: Σ → {0,1}*"]
+    
+    EL --> xL["x<sub>L</sub> = E<sub>L</sub>(x)"]
+    ER --> xR["x<sub>R</sub> = E<sub>R</sub>(x)"]
+    
+    xL --> R["R = (Σ, E<sub>L</sub>, E<sub>R</sub>)"]
+    xR --> R

@@ -1,0 +1,8 @@
+flowchart TD
+    Input[Input Stream] --> Dual[Dual Encoding]
+    Dual --> Sparse[Sparse Encoding]
+    Sparse --> Recon[Reconciliation via T]
+    Recon --> Axis{Need Axis Shift?}
+    Axis -->|Yes| Shift[Axis Shift Φ]
+    Shift --> Recon
+    Axis -->|No| Output[Reconciled Identity Stream]

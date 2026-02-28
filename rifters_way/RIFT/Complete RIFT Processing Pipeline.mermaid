@@ -1,0 +1,22 @@
+flowchart TD
+    Input[Input Stream] --> Encoding
+    
+    subgraph Encoding[Dual Encoding]
+        EL[E<sub>L</sub> Encoding]
+        ER[E<sub>R</sub> Encoding]
+    end
+    
+    Encoding --> Sparse[Sparse Encoding S(x)]
+    Sparse --> Conflict{Check E<sub>L</sub> = E<sub>R</sub>?}
+    
+    Conflict -->|Yes| Output[Output I(x)]
+    Conflict -->|No| Transform[Apply f ∈ F]
+    
+    Transform --> Check{Converged?}
+    Check -->|Yes| Output
+    Check -->|No| AxisShift[Axis Shift Φ]
+    
+    AxisShift --> ReEncode[Re-encode in new basis]
+    ReEncode --> Transform
+    
+    Output --> Final[Reconciled Identity Stream]

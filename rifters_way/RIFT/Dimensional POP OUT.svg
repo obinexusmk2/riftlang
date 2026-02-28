@@ -1,0 +1,5 @@
+graph LR
+    M[Original Matrix M] --> P[Change of Basis P]
+    P --> Pinv[Inverse P⁻¹]
+    Pinv --> Mprime[New Matrix M' = P⁻¹MP]
+    Mprime --> Rprime[New Rift Space R']

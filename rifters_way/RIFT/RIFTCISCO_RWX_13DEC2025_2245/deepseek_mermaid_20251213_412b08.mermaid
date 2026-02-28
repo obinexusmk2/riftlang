@@ -1,0 +1,26 @@
+sequenceDiagram
+    participant A as Entity A
+    participant Channel as Shared Channel (2x2 ε Matrix)
+    participant B as Entity B
+    
+    Note over A,B: Session Start: A_start / B_start = εε
+    
+    A->>Channel: CREATE (0101) → Channel State: εε → 01
+    Note over Channel: A writes "W" (01010110)<br/>Binary: 01010110<br/>Hex: 56
+    
+    Channel->>B: NOTIFY (Read Ready)
+    B->>Channel: READ → Reads "W" (01010110)
+    
+    B->>Channel: UPDATE → Write "e" (01100101)
+    Note over Channel: Channel State: 01 → 11<br/>"We" = 57 65 (hex)
+    
+    A->>Channel: READ → Reads "We"
+    
+    Note over A,B: Message Complete: "Welcome"
+    
+    A->>Channel: DELETE → Write εε
+    Channel->>B: NOTIFY (Session End)
+    
+    B->>Channel: CONFIRM → Write εε
+    
+    Note over A,B: Channel Reset: εε<br/>80 bytes shared space cleared

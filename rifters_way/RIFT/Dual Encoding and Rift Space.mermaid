@@ -1,0 +1,13 @@
+graph TD
+    subgraph "Alphabet Σ"
+        Σ[0,1,2,...,9,A,B,C,D,E,F]
+    end
+
+    Σ --> EL[Left Encoding EL]
+    Σ --> ER[Right Encoding ER]
+
+    EL --> EL_out[Bitstring for L]
+    ER --> ER_out[Bitstring for R]
+
+    EL_out --> RiftSpace[Rift Space R = (Σ, EL, ER)]
+    ER_out --> RiftSpace

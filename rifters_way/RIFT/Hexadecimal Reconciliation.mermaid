@@ -1,0 +1,6 @@
+graph LR
+    x[Example: x = 'A'] --> EL[EL('A') = 1010]
+    x --> ER[ER('A') = 0101]
+    EL --> T[Apply T: if mismatch, use transformations]
+    ER --> T
+    T --> I[I('A') = 1010 (after applying polarization π)]
