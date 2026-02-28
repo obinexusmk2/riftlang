@@ -1,0 +1,86 @@
+// node-rift/src/governance.rift
+// Node.js binding governance policy for RiftLang
+// JavaScript/TypeScript with classical mode
+
+!govern classic {
+  token_memory: {
+    alignment: fixed(4096),
+    access: [CREATE, READ, UPDATE, DELETE],
+    phase: deterministic
+  },
+  
+  token_type: {
+    inference: dynamic,  /* JavaScript is dynamically typed */
+    checking: lazy,
+    casting: implicit
+  },
+  
+  token_value: {
+    binding: immediate,
+    resolution: eager,
+    validation: runtime
+  },
+  
+  policy_enforcement: {
+    timing: immediate,
+    violation: error,
+    recovery: none
+  }
+}
+
+// Memory span for JavaScript object allocation
+align span<row> {
+  direction: right -> left,
+  bytes: 4096,
+  type: expandable,
+  open: true
+}
+
+// Node.js binding role
+role NodeRiftBinding {
+  permissions: [CREATE, READ, UPDATE, DELETE],
+  scope: module,
+  trace: enabled
+}
+
+// JavaScript-specific token types
+type JSObject = {
+  prototype: chain,
+  properties: dynamic,
+  memory: aligned(8)
+}
+
+type JSFunction = {
+  closure: enabled,
+  async: optional,
+  memory: aligned(8)
+}
+
+type JSPromise = {
+  state: pending | fulfilled | rejected,
+  chaining: enabled,
+  memory: aligned(8)
+}
+
+// Pattern matching for JavaScript code generation
+pattern "const {{name}} = {{value}}" -> "rift.const('{{name}}', {{value}})" {
+  priority: 100,
+  governed: true
+}
+
+pattern "function {{name}}\\(\\)" -> "rift.function('{{name}}', function()" {
+  priority: 90,
+  governed: true
+}
+
+pattern "async {{fn}}" -> "rift.async({{fn}})" {
+  priority: 85,
+  governed: true
+}
+
+// Memory policy for Node.js runtime
+policy_fn on js_memory_space {
+  default_access: [READ, WRITE],
+  reassert_lock: after every operation,
+  v8_integration: enabled
+}

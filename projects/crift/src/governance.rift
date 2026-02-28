@@ -1,0 +1,87 @@
+// crift/src/governance.rift
+// C binding governance policy for RiftLang
+// Native memory alignment with classical mode
+
+!govern classic {
+  token_memory: {
+    alignment: fixed(4096),
+    access: [CREATE, READ, UPDATE, DELETE],
+    phase: deterministic
+  },
+  
+  token_type: {
+    inference: static,
+    checking: eager,
+    casting: explicit
+  },
+  
+  token_value: {
+    binding: immediate,
+    resolution: eager,
+    validation: static
+  },
+  
+  policy_enforcement: {
+    timing: immediate,
+    violation: error,
+    recovery: none
+  }
+}
+
+// Memory span for C struct alignment
+align span<fixed> {
+  direction: right -> left,
+  bytes: 4096,
+  type: continuous,
+  open: false
+}
+
+// C binding role
+role CRiftBinding {
+  permissions: [CREATE, READ, UPDATE, DELETE],
+  scope: translation_unit,
+  trace: enabled
+}
+
+// C-specific token types
+type CInt = {
+  bit_width: 32,
+  signed: true,
+  memory: aligned(4)
+}
+
+type CLong = {
+  bit_width: 64,
+  signed: true,
+  memory: aligned(8)
+}
+
+type CPointer = {
+  bit_width: 64,
+  signed: false,
+  memory: aligned(8)
+}
+
+type CStruct = {
+  layout: sequential,
+  padding: auto,
+  memory: aligned(8)
+}
+
+// Pattern matching for C code generation
+pattern "{{type}} {{name}};" -> "RIFT_TOKEN_{{type}} {{name}};" {
+  priority: 100,
+  governed: true
+}
+
+pattern "struct {{name}}" -> "rift_struct_{{name}}" {
+  priority: 90,
+  governed: true
+}
+
+// Memory policy for C runtime
+policy_fn on c_memory_space {
+  default_access: [READ, WRITE],
+  reassert_lock: after every operation,
+  use_after_free: detect
+}

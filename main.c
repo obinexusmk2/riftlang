@@ -636,7 +636,14 @@ static TransformResult* transform_source(
         "    g_policy_ctx->result_matrix = g_policy_matrix;\n"
         "}\n\n"
     );
-    
+
+    /* Emit main() entry point */
+    transform_append(result,
+        "int main(int argc, char* argv[]) {\n"
+        "    (void)argc; (void)argv;\n"
+        "    rift_init_policy();\n\n"
+    );
+
     /* Process line by line */
     const char* line_start = source;
     uint32_t line_num = 0;
@@ -703,10 +710,20 @@ static TransformResult* transform_source(
         line_start = line_end;
         if (*line_start == '\n') line_start++;
     }
-    
+
+    /* Close main() with cleanup */
+    transform_append(result,
+        "\n"
+        "    /* Policy cleanup */\n"
+        "    rift_policy_context_destroy(g_policy_ctx);\n"
+        "    rift_result_matrix_destroy(g_policy_matrix);\n"
+        "    return 0;\n"
+        "}\n"
+    );
+
     result->lines_processed = line_num;
     result->processing_time_ms = rift_get_time_ms() - start_time;
-    
+
     return result;
 }
 
@@ -855,7 +872,7 @@ static bool compile_rift_file(RiftCliOptions* opts) {
         const char* cc = getenv("CC") ? getenv("CC") : "gcc";
         
         snprintf(compile_cmd, sizeof(compile_cmd),
-            "%s -o %s %s -O%d -lm %s",
+            "%s -o %s %s -I. -L./bin -lriftlang -O%d -lm -lpthread %s",
             cc,
             "a.out",  /* Default output name */
             out_filename,

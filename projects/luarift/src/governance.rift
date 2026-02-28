@@ -1,0 +1,81 @@
+// luarift/src/governance.rift
+// Lua binding governance policy for RiftLang
+// Lightweight scripting with classical mode
+
+!govern classic {
+  token_memory: {
+    alignment: fixed(4096),
+    access: [CREATE, READ, UPDATE, DELETE],
+    phase: deterministic
+  },
+  
+  token_type: {
+    inference: dynamic,  /* Lua is dynamically typed */
+    checking: lazy,
+    casting: implicit
+  },
+  
+  token_value: {
+    binding: immediate,
+    resolution: eager,
+    validation: runtime
+  },
+  
+  policy_enforcement: {
+    timing: immediate,
+    violation: error,
+    recovery: none
+  }
+}
+
+// Memory span for Lua table allocation
+align span<row> {
+  direction: right -> left,
+  bytes: 4096,
+  type: expandable,
+  open: true
+}
+
+// Lua binding role
+role LuaRiftBinding {
+  permissions: [CREATE, READ, UPDATE, DELETE],
+  scope: global,
+  trace: enabled
+}
+
+// Lua-specific token types
+type LuaTable = {
+  layout: hash_map,
+  metatable: optional,
+  memory: aligned(8)
+}
+
+type LuaFunction = {
+  upvalues: dynamic,
+  bytecode: managed,
+  memory: aligned(8)
+}
+
+type LuaString = {
+  interned: true,
+  encoding: utf8,
+  memory: aligned(1)
+}
+
+// Pattern matching for Lua code generation
+pattern "local {{name}} = {{value}}" -> "rift_local('{{name}}', {{value}})" {
+  priority: 100,
+  governed: true
+}
+
+pattern "function {{name}}\\(\\)" -> "rift_function('{{name}}', function()" {
+  priority: 90,
+  governed: true
+}
+
+// Memory policy for Lua runtime
+policy_fn on lua_memory_space {
+  default_access: [READ, WRITE],
+  reassert_lock: after every operation,
+  gc_integration: enabled
+}

@@ -1,0 +1,103 @@
+// go/src/governance.rift
+// Go binding governance policy for RiftLang
+// Native goroutine-safe with classical mode
+
+!govern classic {
+  token_memory: {
+    alignment: fixed(4096),
+    access: [CREATE, READ, UPDATE, DELETE],
+    phase: deterministic
+  },
+  
+  token_type: {
+    inference: static,
+    checking: eager,
+    casting: explicit
+  },
+  
+  token_value: {
+    binding: immediate,
+    resolution: eager,
+    validation: static
+  },
+  
+  policy_enforcement: {
+    timing: immediate,
+    violation: error,
+    recovery: none
+  }
+}
+
+// Memory span for Go allocation
+align span<fixed> {
+  direction: right -> left,
+  bytes: 4096,
+  type: continuous,
+  open: true
+}
+
+// Go binding role
+role GoRiftBinding {
+  permissions: [CREATE, READ, UPDATE, DELETE],
+  scope: package,
+  trace: enabled
+}
+
+// Go-specific token types
+type GoInt = {
+  bit_width: 64,
+  signed: true,
+  memory: aligned(8)
+}
+
+type GoFloat = {
+  bit_width: 64,
+  signed: true,
+  memory: aligned(8)
+}
+
+type GoString = {
+  immutable: true,
+  encoding: utf8,
+  memory: aligned(1)
+}
+
+type GoSlice = {
+  backing: array,
+  expandable: true,
+  memory: aligned(8)
+}
+
+type GoMap = {
+  hash: go_runtime,
+  memory: aligned(8)
+}
+
+type GoChan = {
+  buffered: optional,
+  goroutine_safe: true,
+  memory: aligned(8)
+}
+
+// Pattern matching for Go code generation
+pattern "var {{name}} {{type}}" -> "riftVar{{type}}('{{name}}')" {
+  priority: 100,
+  governed: true
+}
+
+pattern "func {{name}}\\(\\)" -> "riftFunc('{{name}}', func()" {
+  priority: 90,
+  governed: true
+}
+
+pattern "go {{fn}}\\(\\)" -> "riftGo(riftFunc('{{fn}}', func()" {
+  priority: 85,
+  governed: true
+}
+
+// Memory policy for Go runtime
+policy_fn on go_memory_space {
+  default_access: [READ, WRITE],
+  reassert_lock: after every operation,
+  gc_integration: enabled
+}

@@ -1,0 +1,81 @@
+// go/src/quantum_bridge.rift
+// Quantum mode support for Go bindings
+// Enables quantum concepts in Go through Rift runtime
+
+!govern quantum {
+  token_memory: {
+    alignment: dynamic(8),
+    access: [CREATE, READ, UPDATE, DELETE, SUPERPOSE, ENTANGLE],
+    phase: probabilistic
+  },
+  
+  token_type: {
+    inference: dynamic,
+    checking: lazy,
+    casting: implicit
+  },
+  
+  token_value: {
+    binding: deferred,
+    resolution: context_dependent,
+    validation: entropy_threshold(0.25)
+  },
+  
+  policy_enforcement: {
+    timing: deferred,
+    violation: warning,
+    recovery: auto_collapse
+  }
+}
+
+// Quantum memory span for Go
+align span<superposed> {
+  direction: right -> left,
+  bytes: 64,
+  type: distributed,
+  open: true
+}
+
+// Quantum Go types
+type QGoInt = {
+  parent: GoInt,
+  bit_width: 64,
+  superposition: enabled,
+  memory: aligned(8)
+}
+
+type QGoChan = {
+  parent: GoChan,
+  superposition: enabled,
+  memory: aligned(8)
+}
+
+// Entanglement registry for Go
+entanglement_registry GoEntanglementRegistry {
+  max_pairs: 2048,
+  auto_collapse: on_observation,
+  entropy_threshold: 0.25
+}
+
+// Quantum patterns for Go
+pattern "quantum.Superpose\\({{...}}\\)" -> "rift.Superpose({{...}})" {
+  priority: 150,
+  governed: true
+}
+
+pattern "quantum.Entangle\\({{a}}, {{b}}\\)" -> "rift.Entangle({{a}}, {{b}})" {
+  priority: 140,
+  governed: true
+}
+
+pattern "quantum.Collapse\\({{value}}\\)" -> "rift.Collapse({{value}})" {
+  priority: 130,
+  governed: true
+}
+
+// Collapse trigger
+collapse_trigger on QGoInt {
+  condition: entropy > 0.25,
+  action: auto_collapse,
+  notify: go_runtime
+}

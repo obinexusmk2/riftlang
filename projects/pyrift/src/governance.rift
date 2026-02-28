@@ -1,0 +1,89 @@
+// pyrift/src/governance.rift
+// Python binding governance policy for RiftLang
+// Memory-first declaration with classical mode enforcement
+
+!govern classic {
+  token_memory: {
+    alignment: fixed(4096),
+    access: [CREATE, READ, UPDATE, DELETE],
+    phase: deterministic
+  },
+  
+  token_type: {
+    inference: static,
+    checking: eager,
+    casting: explicit
+  },
+  
+  token_value: {
+    binding: immediate,
+    resolution: eager,
+    validation: static
+  },
+  
+  policy_enforcement: {
+    timing: immediate,
+    violation: error,
+    recovery: none
+  }
+}
+
+// Memory span declaration for Python object wrapper
+align span<fixed> {
+  direction: right -> left,
+  bytes: 4096,
+  type: continuous,
+  open: true
+}
+
+// Python binding role definition
+role PyRiftBinding {
+  permissions: [CREATE, READ, UPDATE, DELETE],
+  scope: module,
+  trace: enabled
+}
+
+// Token type definitions for Python interop
+type PyObject = {
+  bit_width: 64,
+  signed: false,
+  memory: aligned(8)
+}
+
+type PyInt = {
+  parent: PyObject,
+  bit_width: 64,
+  signed: true,
+  memory: aligned(8)
+}
+
+type PyFloat = {
+  parent: PyObject,
+  bit_width: 64,
+  signed: true,
+  memory: aligned(8)
+}
+
+type PyString = {
+  parent: PyObject,
+  encoding: utf8,
+  memory: aligned(1)
+}
+
+// Pattern matching rules for Python code generation
+pattern "def {{name}}\\(\\)" -> "def {{name}}(self):" {
+  priority: 100,
+  governed: true
+}
+
+pattern "class {{name}}" -> "class {{name}}(RiftObject):" {
+  priority: 90,
+  governed: true
+}
+
+// Policy function for memory management
+policy_fn on py_memory_space {
+  default_access: [READ, WRITE],
+  reassert_lock: after every operation,
+  gc_hint: enabled
+}

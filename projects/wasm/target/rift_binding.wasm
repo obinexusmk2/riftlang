@@ -1,0 +1,34 @@
+;; wasm/target/rift_binding.wasm
+;; Binary WebAssembly module for RiftLang binding
+;; This is a placeholder - actual binary would be compiled from .wat
+;; 
+;; Magic number: 0x00 0x61 0x73 0x6D ("\0asm")
+;; Version: 0x01 0x00 0x00 0x00
+;;
+;; To compile the .wat file to binary:
+;;   wat2wasm rift_binding.wat -o rift_binding.wasm
+;;
+;; Or use the WebAssembly Binary Toolkit (wabt):
+;;   wat2wasm rift_binding.wat
+;;
+;; The resulting binary will contain:
+;; - Type section with function signatures
+;; - Import section for host functions
+;; - Function section with internal functions
+;; - Memory section (imported from host)
+;; - Global section with constants
+;; - Export section for public API
+;; - Code section with function bodies
+;; - Data section (if any)
+;;
+;; Key exports:
+;; - rift_token_create: Create a new Rift token
+;; - rift_token_destroy: Destroy a Rift token
+;; - rift_token_validate: Validate a token
+;; - rift_token_lock: Lock a token for thread safety
+;; - rift_token_unlock: Unlock a token
+;; - rift_span_create: Create a memory span
+;; - rift_span_destroy: Destroy a memory span
+;; - rift_token_superpose: Put token in superposition
+;; - rift_token_entangle: Entangle two tokens
+;; - rift_token_collapse: Collapse superposed token

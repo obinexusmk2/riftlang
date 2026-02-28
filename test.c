@@ -15,4 +15,14 @@ static void rift_init_policy(void) {
     g_policy_ctx->result_matrix = g_policy_matrix;
 }
 
+int main(int argc, char* argv[]) {
+    (void)argc; (void)argv;
+    rift_init_policy();
+
     /* RIFT: Classical mode enabled */
+
+    /* Policy cleanup */
+    rift_policy_context_destroy(g_policy_ctx);
+    rift_result_matrix_destroy(g_policy_matrix);
+    return 0;
+}

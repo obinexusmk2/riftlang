@@ -1,0 +1,81 @@
+// crift/src/quantum_bridge.rift
+// Quantum mode support for C bindings
+// Enables quantum operations in C through Rift runtime
+
+!govern quantum {
+  token_memory: {
+    alignment: dynamic(8),
+    access: [CREATE, READ, UPDATE, DELETE, SUPERPOSE, ENTANGLE],
+    phase: probabilistic
+  },
+  
+  token_type: {
+    inference: dynamic,
+    checking: lazy,
+    casting: implicit
+  },
+  
+  token_value: {
+    binding: deferred,
+    resolution: context_dependent,
+    validation: entropy_threshold(0.25)
+  },
+  
+  policy_enforcement: {
+    timing: deferred,
+    violation: warning,
+    recovery: auto_collapse
+  }
+}
+
+// Quantum memory span for C
+align span<superposed> {
+  direction: right -> left,
+  bytes: 64,
+  type: distributed,
+  open: true
+}
+
+// Quantum C types
+type QCInt = {
+  parent: CInt,
+  bit_width: 32,
+  superposition: enabled,
+  memory: aligned(8)
+}
+
+type QCPointer = {
+  parent: CPointer,
+  superposition: enabled,
+  memory: aligned(8)
+}
+
+// Entanglement registry
+entanglement_registry CEntanglementRegistry {
+  max_pairs: 2048,
+  auto_collapse: on_observation,
+  entropy_threshold: 0.25
+}
+
+// Quantum patterns for C
+pattern "quantum_{{type}} {{name}}" -> "rift_qtoken_t {{name}}" {
+  priority: 150,
+  governed: true
+}
+
+pattern "entangle\\({{a}}, {{b}}\\)" -> "rift_entangle({{a}}, {{b}})" {
+  priority: 140,
+  governed: true
+}
+
+pattern "collapse\\({{token}}\\)" -> "rift_collapse({{token}})" {
+  priority: 130,
+  governed: true
+}
+
+// Collapse trigger
+collapse_trigger on QCInt {
+  condition: entropy > 0.25,
+  action: auto_collapse,
+  notify: c_runtime
+}

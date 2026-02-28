@@ -1,0 +1,98 @@
+// wasm/src/governance.rift
+// WebAssembly binding governance policy for RiftLang
+// Linear memory with classical mode
+
+!govern classic {
+  token_memory: {
+    alignment: fixed(4096),
+    access: [CREATE, READ, UPDATE, DELETE],
+    phase: deterministic
+  },
+  
+  token_type: {
+    inference: static,
+    checking: eager,
+    casting: explicit
+  },
+  
+  token_value: {
+    binding: immediate,
+    resolution: eager,
+    validation: static
+  },
+  
+  policy_enforcement: {
+    timing: immediate,
+    violation: error,
+    recovery: none
+  }
+}
+
+// Memory span for WASM linear memory
+align span<fixed> {
+  direction: right -> left,
+  bytes: 65536,  // 64KB WASM page
+  type: continuous,
+  open: true
+}
+
+// WASM binding role
+role WasmRiftBinding {
+  permissions: [CREATE, READ, UPDATE, DELETE],
+  scope: module,
+  trace: enabled
+}
+
+// WASM-specific token types
+type WasmI32 = {
+  bit_width: 32,
+  signed: true,
+  memory: aligned(4)
+}
+
+type WasmI64 = {
+  bit_width: 64,
+  signed: true,
+  memory: aligned(8)
+}
+
+type WasmF32 = {
+  bit_width: 32,
+  signed: true,
+  memory: aligned(4)
+}
+
+type WasmF64 = {
+  bit_width: 64,
+  signed: true,
+  memory: aligned(8)
+}
+
+type WasmMemory = {
+  pages: dynamic,
+  max_pages: optional,
+  memory: aligned(65536)
+}
+
+// Pattern matching for WASM text format
+pattern "\\(module" -> "(module $rift_module" {
+  priority: 100,
+  governed: true
+}
+
+pattern "\\(func {{name}}" -> "(func $rift_{{name}}" {
+  priority: 90,
+  governed: true
+}
+
+pattern "\\(memory {{pages}}" -> "(memory $rift_memory {{pages}})" {
+  priority: 80,
+  governed: true
+}
+
+// Memory policy for WASM runtime
+policy_fn on wasm_memory_space {
+  default_access: [READ, WRITE],
+  reassert_lock: after every operation,
+  bounds_check: enabled
+}

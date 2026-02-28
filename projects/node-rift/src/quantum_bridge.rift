@@ -1,0 +1,81 @@
+// node-rift/src/quantum_bridge.rift
+// Quantum mode support for Node.js bindings
+// Enables quantum concepts in JavaScript/TypeScript
+
+!govern quantum {
+  token_memory: {
+    alignment: dynamic(8),
+    access: [CREATE, READ, UPDATE, DELETE, SUPERPOSE, ENTANGLE],
+    phase: probabilistic
+  },
+  
+  token_type: {
+    inference: dynamic,
+    checking: lazy,
+    casting: implicit
+  },
+  
+  token_value: {
+    binding: deferred,
+    resolution: context_dependent,
+    validation: entropy_threshold(0.25)
+  },
+  
+  policy_enforcement: {
+    timing: deferred,
+    violation: warning,
+    recovery: auto_collapse
+  }
+}
+
+// Quantum memory span for Node.js
+align span<superposed> {
+  direction: right -> left,
+  bytes: 64,
+  type: distributed,
+  open: true
+}
+
+// Quantum JavaScript types
+type QJSObject = {
+  parent: JSObject,
+  superposition: enabled,
+  memory: aligned(8)
+}
+
+type QJSPromise = {
+  parent: JSPromise,
+  superposition: enabled,
+  collapse: on_await,
+  memory: aligned(8)
+}
+
+// Entanglement registry for Node.js
+entanglement_registry NodeEntanglementRegistry {
+  max_pairs: 1024,
+  auto_collapse: on_observation,
+  entropy_threshold: 0.25
+}
+
+// Quantum patterns for JavaScript
+pattern "Quantum.superpose\\({{...}}\\)" -> "rift.superpose({{...}})" {
+  priority: 150,
+  governed: true
+}
+
+pattern "Quantum.entangle\\({{a}}, {{b}}\\)" -> "rift.entangle({{a}}, {{b}})" {
+  priority: 140,
+  governed: true
+}
+
+pattern "await Quantum.collapse\\({{promise}}\\)" -> "await rift.collapse({{promise}})" {
+  priority: 130,
+  governed: true
+}
+
+// Collapse trigger
+collapse_trigger on QJSPromise {
+  condition: entropy > 0.25,
+  action: auto_collapse,
+  notify: node_runtime
+}
