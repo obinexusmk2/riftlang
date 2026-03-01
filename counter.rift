@@ -1,0 +1,27 @@
+/* counter.rift */
+
+!govern classical
+
+align span<fixed> {
+    bytes: 4096,
+    type: continuous
+}
+
+type Counter = {
+    value: INT,
+    step: INT
+}
+
+counter := 0
+max_count := 100
+
+policy_fn on counter_memory {
+    default_access: [READ, WRITE],
+    reassert_lock: after every operation
+}
+
+while (counter < max_count) {
+    counter := counter + 1
+}
+
+validate(counter)

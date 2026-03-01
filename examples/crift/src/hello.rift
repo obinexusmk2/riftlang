@@ -1,0 +1,29 @@
+/* hello.rift - Classical mode example */
+
+!govern classical
+
+/* Memory-first declaration */
+align span<row> {
+    direction: right -> left,
+    bytes: 4096,
+    type: continuous,
+    open: true
+}
+
+/* Type declaration */
+type Message = {
+    content: STRING,
+    length: INT
+}
+
+/* Classical assignment (immediate binding) */
+msg := "Hello, Constitutional Computing!"
+
+/* Policy enforcement */
+policy_fn on message_memory {
+    default_access: [READ, WRITE],
+    reassert_lock: after every operation
+}
+
+/* Output */
+print(msg);
