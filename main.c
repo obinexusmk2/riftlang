@@ -563,6 +563,31 @@ typedef struct {
     double processing_time_ms;
 } TransformResult;
 
+static const char* trim_left(const char* s) {
+    while (*s == ' ' || *s == '\t' || *s == '\r') s++;
+    return s;
+}
+
+static void trim_right(char* s) {
+    size_t len = strlen(s);
+    while (len > 0 && (s[len - 1] == ' ' || s[len - 1] == '\t' || s[len - 1] == '\r')) {
+        s[--len] = '\0';
+    }
+}
+
+static bool starts_with(const char* s, const char* prefix) {
+    return strncmp(s, prefix, strlen(prefix)) == 0;
+}
+
+static bool var_is_declared(char declared[][64], size_t count, const char* var) {
+    for (size_t i = 0; i < count; i++) {
+        if (strcmp(declared[i], var) == 0) {
+            return true;
+        }
+    }
+    return false;
+}
+
 static bool transform_append(TransformResult* result, const char* text) {
     size_t len = strlen(text);
     
@@ -647,6 +672,14 @@ static TransformResult* transform_source(
     /* Process line by line */
     const char* line_start = source;
     uint32_t line_num = 0;
+    bool in_align_span = false;
+    bool in_type_block = false;
+    bool in_policy_block = false;
+    char span_macro[64] = "RIFT_SPAN_FIXED";
+    int span_bytes = 4096;
+    char current_type[64] = {0};
+    char declared_vars[256][64] = {{0}};
+    size_t declared_count = 0;
     
     while (*line_start) {
         /* Find end of line */
@@ -660,13 +693,165 @@ static TransformResult* transform_source(
         if (line_len >= sizeof(line)) line_len = sizeof(line) - 1;
         strncpy(line, line_start, line_len);
         line[line_len] = '\0';
+        trim_right(line);
+        const char* trimmed = trim_left(line);
         
         line_num++;
         
         /* Skip empty lines but preserve them */
-        bool is_empty = (strspn(line, " \t\r") == strlen(line));
+        bool is_empty = (strspn(trimmed, " \t\r") == strlen(trimmed));
         if (is_empty) {
             transform_append(result, "\n");
+            line_start = line_end;
+            if (*line_start == '\n') line_start++;
+            continue;
+        }
+
+        /* Preserve C-style comments as-is */
+        if (starts_with(trimmed, "/*") || starts_with(trimmed, "//")) {
+            transform_append(result, "    ");
+            transform_append(result, trimmed);
+            transform_append(result, "\n");
+            result->patterns_matched++;
+            line_start = line_end;
+            if (*line_start == '\n') line_start++;
+            continue;
+        }
+
+        /* Collapse align span block into a complete memory declaration */
+        if (!in_align_span && starts_with(trimmed, "align span<")) {
+            in_align_span = true;
+            span_bytes = 4096;
+            if (strstr(trimmed, "<fixed>")) strcpy(span_macro, "RIFT_SPAN_FIXED");
+            else if (strstr(trimmed, "<row>")) strcpy(span_macro, "RIFT_SPAN_ROW");
+            else if (strstr(trimmed, "<continuous>")) strcpy(span_macro, "RIFT_SPAN_CONTINUOUS");
+            else if (strstr(trimmed, "<superposed>")) strcpy(span_macro, "RIFT_SPAN_SUPERPOSED");
+            else if (strstr(trimmed, "<entangled>")) strcpy(span_macro, "RIFT_SPAN_ENTANGLED");
+
+            line_start = line_end;
+            if (*line_start == '\n') line_start++;
+            continue;
+        }
+
+        if (in_align_span) {
+            int parsed = 0;
+            if (sscanf(trimmed, "bytes: %d", &parsed) == 1) {
+                span_bytes = parsed;
+            }
+            if (starts_with(trimmed, "}")) {
+                char mem_decl[160];
+                snprintf(mem_decl, sizeof(mem_decl), "    RIFT_DECLARE_MEMORY(span, %s, %d);\n", span_macro, span_bytes);
+                transform_append(result, mem_decl);
+                result->patterns_matched++;
+                in_align_span = false;
+            }
+
+            line_start = line_end;
+            if (*line_start == '\n') line_start++;
+            continue;
+        }
+
+        /* Convert type blocks to C structs */
+        if (!in_type_block && starts_with(trimmed, "type ") && strchr(trimmed, '=')) {
+            if (sscanf(trimmed, "type %63s =", current_type) == 1) {
+                char* brace = strchr(current_type, '{');
+                if (brace) *brace = '\0';
+                transform_append(result, "    typedef struct {\n");
+                in_type_block = true;
+                result->patterns_matched++;
+                line_start = line_end;
+                if (*line_start == '\n') line_start++;
+                continue;
+            }
+        }
+
+        if (in_type_block) {
+            if (starts_with(trimmed, "}")) {
+                char type_close[128];
+                snprintf(type_close, sizeof(type_close), "    } %s;\n", current_type);
+                transform_append(result, type_close);
+                in_type_block = false;
+            } else {
+                char field[64] = {0};
+                char rift_type[64] = {0};
+                if (sscanf(trimmed, "%63[^:]: %63[^,]", field, rift_type) == 2) {
+                    const char* ctype = strcmp(rift_type, "FLOAT") == 0 ? "double" : "int32_t";
+                    char field_decl[160];
+                    snprintf(field_decl, sizeof(field_decl), "        %s %s;\n", ctype, field);
+                    transform_append(result, field_decl);
+                }
+            }
+
+            result->patterns_matched++;
+            line_start = line_end;
+            if (*line_start == '\n') line_start++;
+            continue;
+        }
+
+        /* Policy block is metadata; keep as comments */
+        if (!in_policy_block && starts_with(trimmed, "policy_fn on ")) {
+            in_policy_block = true;
+            transform_append(result, "    /* policy_fn block omitted in C output */\n");
+            result->patterns_matched++;
+            line_start = line_end;
+            if (*line_start == '\n') line_start++;
+            continue;
+        }
+
+        if (in_policy_block) {
+            if (starts_with(trimmed, "}")) {
+                in_policy_block = false;
+            }
+            line_start = line_end;
+            if (*line_start == '\n') line_start++;
+            continue;
+        }
+
+        /* Handle validation call with initialized matrix variable */
+        if (starts_with(trimmed, "validate(")) {
+            transform_append(result, "    (void)rift_policy_validate(g_policy_matrix, true, true);\n");
+            result->patterns_matched++;
+            line_start = line_end;
+            if (*line_start == '\n') line_start++;
+            continue;
+        }
+
+        /* Preserve control flow / block delimiters */
+        if (starts_with(trimmed, "while ") || starts_with(trimmed, "if ") || starts_with(trimmed, "for ") ||
+            strcmp(trimmed, "{") == 0 || strcmp(trimmed, "}") == 0 || strcmp(trimmed, "}") == 0 ||
+            starts_with(trimmed, "} else")) {
+            transform_append(result, "    ");
+            transform_append(result, trimmed);
+            transform_append(result, "\n");
+            result->patterns_matched++;
+            line_start = line_end;
+            if (*line_start == '\n') line_start++;
+            continue;
+        }
+
+        /* Convert ':=' assignments to valid C statements with first-use declaration */
+        const char* assign = strstr(trimmed, ":=");
+        if (assign) {
+            char var_name[64] = {0};
+            char expr[512] = {0};
+            size_t var_len = (size_t)(assign - trimmed);
+            if (var_len >= sizeof(var_name)) var_len = sizeof(var_name) - 1;
+            strncpy(var_name, trimmed, var_len);
+            var_name[var_len] = '\0';
+            strncpy(expr, assign + 2, sizeof(expr) - 1);
+            trim_right(var_name);
+            trim_right(expr);
+            const char* expr_trimmed = trim_left(expr);
+
+            char statement[700];
+            if (!var_is_declared(declared_vars, declared_count, var_name) && declared_count < 256) {
+                strcpy(declared_vars[declared_count++], var_name);
+                snprintf(statement, sizeof(statement), "    int %s = %s;\n", var_name, expr_trimmed);
+            } else {
+                snprintf(statement, sizeof(statement), "    %s = %s;\n", var_name, expr_trimmed);
+            }
+            transform_append(result, statement);
+            result->patterns_matched++;
             line_start = line_end;
             if (*line_start == '\n') line_start++;
             continue;
@@ -694,9 +879,9 @@ static TransformResult* transform_source(
         } else {
             /* No pattern match - preserve as comment if not whitespace */
             if (opts->preserve_comments) {
-                transform_append(result, "    /* UNMATCHED: ");
+                transform_append(result, "    // UNMATCHED: ");
                 transform_append(result, line);
-                transform_append(result, " */\n");
+                transform_append(result, "\n");
             }
             
             result->patterns_failed++;

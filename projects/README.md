@@ -272,3 +272,25 @@ go build ./go/target/
 ## License
 
 Constitutional Computing Framework - OBINexus
+
+## Quick Start: Counter Example (Classical)
+
+If you are building a simple `counter.rift` program in any project, prefer this flow:
+
+```bash
+cd /path/to/riftlang
+./bin/riftlang -m classical -o counter.c counter.rift
+gcc -o counter counter.c -I. -L./bin -lriftlang -lm -lpthread
+./counter
+```
+
+### Common compile errors and fixes
+
+- `expected expression before '/' token`:
+  usually caused by malformed comment emission in generated C. Keep comments in valid `/* ... */` or `// ...` form.
+- `unterminated argument list invoking macro "RIFT_DECLARE_MEMORY"`:
+  usually caused by partial `align span<...> { ... }` translation. Ensure the whole span block is closed and translated to one complete `RIFT_DECLARE_MEMORY(...);` line.
+- `expected declaration or statement at end of input`:
+  usually caused by broken block translation (for example truncated `while (...)` lines). Verify control-flow lines are emitted in full.
+
+The current compiler emits safer C output for these cases by collapsing memory blocks, preserving control-flow lines, and converting `:=` assignments into valid C declarations/assignments.
