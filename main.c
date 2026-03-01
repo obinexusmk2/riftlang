@@ -28,6 +28,7 @@
 #endif
 
 #include "riftlang.h"
+#include "rift_codec.h"
 
 /* ============================================================================
  * CLI Configuration & Constants
@@ -58,6 +59,25 @@ typedef struct {
     int optimization_level;         /* 0-3 optimization */
     bool quiet;                     /* Suppress non-error output (-q) */
 } RiftCliOptions;
+
+/* ============================================================================
+ * Target Language Selection
+ * RiftTargetLanguage is defined in riftlang.h (moved there for codec sharing)
+ * ============================================================================ */
+
+/* Detect target language from output file extension */
+static RiftTargetLanguage rift_detect_target(const char* filename) {
+    if (!filename) return RIFT_TARGET_C;
+    const char* ext = strrchr(filename, '.');
+    if (!ext) return RIFT_TARGET_C;
+    if (strcmp(ext, ".js") == 0 || strcmp(ext, ".cjs") == 0 || strcmp(ext, ".mjs") == 0)
+        return RIFT_TARGET_JS;
+    if (strcmp(ext, ".go") == 0)  return RIFT_TARGET_GO;
+    if (strcmp(ext, ".lua") == 0) return RIFT_TARGET_LUA;
+    if (strcmp(ext, ".py") == 0)  return RIFT_TARGET_PYTHON;
+    if (strcmp(ext, ".wat") == 0 || strcmp(ext, ".wasm") == 0) return RIFT_TARGET_WAT;
+    return RIFT_TARGET_C;
+}
 
 /* ============================================================================
  * Pattern Transformation Rules
@@ -291,6 +311,170 @@ static RiftTransformRule g_transform_rules[] = {
 };
 
 /* ============================================================================
+ * Language-Specific Transform Rules (non-C targets)
+ * ============================================================================ */
+
+/* --- JavaScript / Node.js (node-riftlang) --- */
+static RiftTransformRule g_js_rules[] = {
+    { "js_govern",    "^[[:space:]]*!govern[[:space:]]+[a-z]+",
+      "// RIFT: classical mode", 1, true, RIFT_MODE_CLASSICAL },
+    { "js_span",      "^[[:space:]]*align[[:space:]]+span<[a-z]+>",
+      "// rift: memory span", 10, true, RIFT_MODE_CLASSICAL },
+    { "js_span_attr", "^[[:space:]]*(bytes|type):[[:space:]]*[^,}]+",
+      "", 11, true, RIFT_MODE_CLASSICAL },
+    { "js_type_def",  "^[[:space:]]*type[[:space:]]+([A-Za-z_][A-Za-z0-9_]*)[[:space:]]*=",
+      "// type: \\1", 20, true, RIFT_MODE_CLASSICAL },
+    { "js_type_field","^[[:space:]]*([a-z_]+):[[:space:]]*[A-Z]+",
+      "", 21, true, RIFT_MODE_CLASSICAL },
+    { "js_assign",    "([a-zA-Z_][a-zA-Z0-9_]*)[[:space:]]*:=[[:space:]]*([^;]+)",
+      "let \\1 = \\2;", 30, true, RIFT_MODE_CLASSICAL },
+    { "js_policy",    "^[[:space:]]*policy_fn[[:space:]]+on[[:space:]]+([a-z_]+)",
+      "// policy: \\1", 40, true, RIFT_MODE_CLASSICAL },
+    { "js_policy_attr","^[[:space:]]*(default_access|reassert_lock):[[:space:]]*[^\n]+",
+      "", 41, true, RIFT_MODE_CLASSICAL },
+    { "js_validate",  "^[[:space:]]*validate[[:space:]]*\\(([^)]+)\\)",
+      "rift.validate('\\1');", 42, true, RIFT_MODE_CLASSICAL },
+    { "js_while",     "^[[:space:]]*while[[:space:]]*\\(",
+      "while (", 100, true, RIFT_MODE_CLASSICAL },
+    { "js_if",        "^[[:space:]]*if[[:space:]]*\\(",
+      "if (", 100, true, RIFT_MODE_CLASSICAL },
+    { "js_for",       "^[[:space:]]*for[[:space:]]*\\(",
+      "for (", 100, true, RIFT_MODE_CLASSICAL },
+    { "js_block_open","^[[:space:]]*\\{",  "{",  200, true, RIFT_MODE_CLASSICAL },
+    { "js_block_close","^[[:space:]]*\\}", "}",  200, true, RIFT_MODE_CLASSICAL },
+    { "js_comment_sl","^[[:space:]]*//(.*)$", "//\\1", 1000, true, RIFT_MODE_CLASSICAL },
+    { "js_comment_ms","^[[:space:]]*/\\*",   "/*",   1000, true, RIFT_MODE_CLASSICAL },
+    { "js_comment_me","\\*/[[:space:]]*$",   "*/",   1000, true, RIFT_MODE_CLASSICAL },
+    { NULL, NULL, NULL, 0, false, RIFT_MODE_CLASSICAL }
+};
+
+/* --- Python (pyriftlang) --- */
+static RiftTransformRule g_py_rules[] = {
+    { "py_govern",    "^[[:space:]]*!govern[[:space:]]+[a-z]+",
+      "# RIFT: classical mode", 1, true, RIFT_MODE_CLASSICAL },
+    { "py_span",      "^[[:space:]]*align[[:space:]]+span<[a-z]+>",
+      "# rift: memory span", 10, true, RIFT_MODE_CLASSICAL },
+    { "py_span_attr", "^[[:space:]]*(bytes|type):[[:space:]]*[^,}]+",
+      "", 11, true, RIFT_MODE_CLASSICAL },
+    { "py_type_def",  "^[[:space:]]*type[[:space:]]+([A-Za-z_][A-Za-z0-9_]*)[[:space:]]*=",
+      "# type: \\1", 20, true, RIFT_MODE_CLASSICAL },
+    { "py_type_field","^[[:space:]]*([a-z_]+):[[:space:]]*[A-Z]+",
+      "", 21, true, RIFT_MODE_CLASSICAL },
+    { "py_assign",    "([a-zA-Z_][a-zA-Z0-9_]*)[[:space:]]*:=[[:space:]]*([^;]+)",
+      "\\1 = \\2", 30, true, RIFT_MODE_CLASSICAL },
+    { "py_policy",    "^[[:space:]]*policy_fn[[:space:]]+on[[:space:]]+([a-z_]+)",
+      "# policy: \\1", 40, true, RIFT_MODE_CLASSICAL },
+    { "py_policy_attr","^[[:space:]]*(default_access|reassert_lock):[[:space:]]*[^\n]+",
+      "", 41, true, RIFT_MODE_CLASSICAL },
+    { "py_validate",  "^[[:space:]]*validate[[:space:]]*\\(([^)]+)\\)",
+      "rift.validate(\\1)", 42, true, RIFT_MODE_CLASSICAL },
+    { "py_while",     "^[[:space:]]*while[[:space:]]*\\(([^)]+)\\)[[:space:]]*\\{",
+      "while \\1:", 100, true, RIFT_MODE_CLASSICAL },
+    { "py_if",        "^[[:space:]]*if[[:space:]]*\\(([^)]+)\\)[[:space:]]*\\{",
+      "if \\1:", 100, true, RIFT_MODE_CLASSICAL },
+    { "py_block_close","^[[:space:]]*\\}", "", 200, true, RIFT_MODE_CLASSICAL },
+    { "py_comment_sl","^[[:space:]]*//(.*)$", "#\\1", 1000, true, RIFT_MODE_CLASSICAL },
+    { "py_comment_ms","^[[:space:]]*/\\*",    "\"\"\"", 1000, true, RIFT_MODE_CLASSICAL },
+    { "py_comment_me","\\*/[[:space:]]*$",    "\"\"\"", 1000, true, RIFT_MODE_CLASSICAL },
+    { NULL, NULL, NULL, 0, false, RIFT_MODE_CLASSICAL }
+};
+
+/* --- Go (go-riftlang) --- */
+static RiftTransformRule g_go_rules[] = {
+    { "go_govern",    "^[[:space:]]*!govern[[:space:]]+[a-z]+",
+      "// RIFT: classical mode", 1, true, RIFT_MODE_CLASSICAL },
+    { "go_span",      "^[[:space:]]*align[[:space:]]+span<[a-z]+>",
+      "// rift: memory span", 10, true, RIFT_MODE_CLASSICAL },
+    { "go_span_attr", "^[[:space:]]*(bytes|type):[[:space:]]*[^,}]+",
+      "", 11, true, RIFT_MODE_CLASSICAL },
+    { "go_type_def",  "^[[:space:]]*type[[:space:]]+([A-Za-z_][A-Za-z0-9_]*)[[:space:]]*=",
+      "type \\1 struct {", 20, true, RIFT_MODE_CLASSICAL },
+    { "go_type_field","^[[:space:]]*([a-z_]+):[[:space:]]*INT",
+      "\\1 int32", 21, true, RIFT_MODE_CLASSICAL },
+    { "go_assign",    "([a-zA-Z_][a-zA-Z0-9_]*)[[:space:]]*:=[[:space:]]*([^;]+)",
+      "\\1 := \\2", 30, true, RIFT_MODE_CLASSICAL },
+    { "go_policy",    "^[[:space:]]*policy_fn[[:space:]]+on[[:space:]]+([a-z_]+)",
+      "// policy: \\1", 40, true, RIFT_MODE_CLASSICAL },
+    { "go_policy_attr","^[[:space:]]*(default_access|reassert_lock):[[:space:]]*[^\n]+",
+      "", 41, true, RIFT_MODE_CLASSICAL },
+    { "go_validate",  "^[[:space:]]*validate[[:space:]]*\\(([^)]+)\\)",
+      "rift.Validate(\\1)", 42, true, RIFT_MODE_CLASSICAL },
+    { "go_while",     "^[[:space:]]*while[[:space:]]*\\(([^)]+)\\)[[:space:]]*\\{",
+      "for \\1 {", 100, true, RIFT_MODE_CLASSICAL },
+    { "go_if",        "^[[:space:]]*if[[:space:]]*\\(",
+      "if (", 100, true, RIFT_MODE_CLASSICAL },
+    { "go_for",       "^[[:space:]]*for[[:space:]]*\\(",
+      "for (", 100, true, RIFT_MODE_CLASSICAL },
+    { "go_block_open","^[[:space:]]*\\{",   "{", 200, true, RIFT_MODE_CLASSICAL },
+    { "go_block_close","^[[:space:]]*\\}",  "}", 200, true, RIFT_MODE_CLASSICAL },
+    { "go_comment_sl","^[[:space:]]*//(.*)$","//\\1", 1000, true, RIFT_MODE_CLASSICAL },
+    { "go_comment_ms","^[[:space:]]*/\\*",   "/*",   1000, true, RIFT_MODE_CLASSICAL },
+    { "go_comment_me","\\*/[[:space:]]*$",   "*/",   1000, true, RIFT_MODE_CLASSICAL },
+    { NULL, NULL, NULL, 0, false, RIFT_MODE_CLASSICAL }
+};
+
+/* --- Lua (lua-riftlang) --- */
+static RiftTransformRule g_lua_rules[] = {
+    { "lua_govern",    "^[[:space:]]*!govern[[:space:]]+[a-z]+",
+      "-- RIFT: classical mode", 1, true, RIFT_MODE_CLASSICAL },
+    { "lua_span",      "^[[:space:]]*align[[:space:]]+span<[a-z]+>",
+      "-- rift: memory span", 10, true, RIFT_MODE_CLASSICAL },
+    { "lua_span_attr", "^[[:space:]]*(bytes|type):[[:space:]]*[^,}]+",
+      "", 11, true, RIFT_MODE_CLASSICAL },
+    { "lua_type_def",  "^[[:space:]]*type[[:space:]]+([A-Za-z_][A-Za-z0-9_]*)[[:space:]]*=",
+      "-- type: \\1", 20, true, RIFT_MODE_CLASSICAL },
+    { "lua_type_field","^[[:space:]]*([a-z_]+):[[:space:]]*[A-Z]+",
+      "", 21, true, RIFT_MODE_CLASSICAL },
+    { "lua_assign",    "([a-zA-Z_][a-zA-Z0-9_]*)[[:space:]]*:=[[:space:]]*([^;]+)",
+      "local \\1 = \\2", 30, true, RIFT_MODE_CLASSICAL },
+    { "lua_policy",    "^[[:space:]]*policy_fn[[:space:]]+on[[:space:]]+([a-z_]+)",
+      "-- policy: \\1", 40, true, RIFT_MODE_CLASSICAL },
+    { "lua_policy_attr","^[[:space:]]*(default_access|reassert_lock):[[:space:]]*[^\n]+",
+      "", 41, true, RIFT_MODE_CLASSICAL },
+    { "lua_validate",  "^[[:space:]]*validate[[:space:]]*\\(([^)]+)\\)",
+      "rift.validate(\\1)", 42, true, RIFT_MODE_CLASSICAL },
+    { "lua_while",     "^[[:space:]]*while[[:space:]]*\\(([^)]+)\\)[[:space:]]*\\{",
+      "while \\1 do", 100, true, RIFT_MODE_CLASSICAL },
+    { "lua_if",        "^[[:space:]]*if[[:space:]]*\\(([^)]+)\\)[[:space:]]*\\{",
+      "if \\1 then", 100, true, RIFT_MODE_CLASSICAL },
+    { "lua_block_open","^[[:space:]]*\\{",  "", 200, true, RIFT_MODE_CLASSICAL },
+    { "lua_block_close","^[[:space:]]*\\}", "end", 200, true, RIFT_MODE_CLASSICAL },
+    { "lua_comment_sl","^[[:space:]]*//(.*)$","--\\1", 1000, true, RIFT_MODE_CLASSICAL },
+    { "lua_comment_ms","^[[:space:]]*/\\*",   "--[[", 1000, true, RIFT_MODE_CLASSICAL },
+    { "lua_comment_me","\\*/[[:space:]]*$",   "]]",   1000, true, RIFT_MODE_CLASSICAL },
+    { NULL, NULL, NULL, 0, false, RIFT_MODE_CLASSICAL }
+};
+
+/* --- WebAssembly Text (wat2wasm) --- */
+static RiftTransformRule g_wat_rules[] = {
+    { "wat_govern",   "^[[:space:]]*!govern[[:space:]]+[a-z]+",
+      ";; RIFT: classical mode", 1, true, RIFT_MODE_CLASSICAL },
+    { "wat_span",     "^[[:space:]]*align[[:space:]]+span<[a-z]+>",
+      ";; rift: memory span", 10, true, RIFT_MODE_CLASSICAL },
+    { "wat_span_attr","^[[:space:]]*(bytes|type):[[:space:]]*[^,}]+",
+      "", 11, true, RIFT_MODE_CLASSICAL },
+    { "wat_type_def", "^[[:space:]]*type[[:space:]]+([A-Za-z_][A-Za-z0-9_]*)[[:space:]]*=",
+      ";; type: \\1", 20, true, RIFT_MODE_CLASSICAL },
+    { "wat_type_field","^[[:space:]]*([a-z_]+):[[:space:]]*[A-Z]+",
+      "", 21, true, RIFT_MODE_CLASSICAL },
+    { "wat_assign_i", "([a-zA-Z_][a-zA-Z0-9_]*)[[:space:]]*:=[[:space:]]*([0-9]+)",
+      "(local.set $\\1 (i32.const \\2))", 30, true, RIFT_MODE_CLASSICAL },
+    { "wat_policy",   "^[[:space:]]*policy_fn[[:space:]]+on[[:space:]]+([a-z_]+)",
+      ";; policy: \\1", 40, true, RIFT_MODE_CLASSICAL },
+    { "wat_policy_attr","^[[:space:]]*(default_access|reassert_lock):[[:space:]]*[^\n]+",
+      "", 41, true, RIFT_MODE_CLASSICAL },
+    { "wat_validate", "^[[:space:]]*validate[[:space:]]*\\(([^)]+)\\)",
+      "(call $rift_validate)", 42, true, RIFT_MODE_CLASSICAL },
+    { "wat_while",    "^[[:space:]]*while[[:space:]]*\\([^)]+\\)[[:space:]]*\\{",
+      "(block (loop", 100, true, RIFT_MODE_CLASSICAL },
+    { "wat_block_close","^[[:space:]]*\\}", "))", 200, true, RIFT_MODE_CLASSICAL },
+    { "wat_comment_sl","^[[:space:]]*//(.*)$",";; \\1", 1000, true, RIFT_MODE_CLASSICAL },
+    { "wat_comment_ms","^[[:space:]]*/\\*",   ";; ",   1000, true, RIFT_MODE_CLASSICAL },
+    { "wat_comment_me","\\*/[[:space:]]*$",   "",      1000, true, RIFT_MODE_CLASSICAL },
+    { NULL, NULL, NULL, 0, false, RIFT_MODE_CLASSICAL }
+};
+
+/* ============================================================================
  * Command Line Interface
  * ============================================================================ */
 
@@ -321,11 +505,15 @@ static void print_usage(const char* program) {
     printf("  -q, --quiet               Suppress non-error output\n");
     printf("  -h, --help                Show this help message\n");
     printf("\nExamples:\n");
-    printf("  %s program.rift                    # Compile to program.c\n", program);
-    printf("  %s -m quantum -O2 algo.rift          # Quantum mode, optimized\n", program);
-    printf("  %s -o lib.dll -c -v code.rift       # Compile to DLL, verbose\n", program);
-    printf("  %s -a --emit-ast-json test.rift     # Show AST + emit JSON\n", program);
-    printf("\n");
+    printf("  %s program.rift                      # Compile to program.c\n", program);
+    printf("  %s -m quantum -O2 algo.rift           # Quantum mode, optimized\n", program);
+    printf("  %s counter.rift -o counter.js         # JavaScript (node-riftlang)\n", program);
+    printf("  %s counter.rift -o counter.py         # Python (pyriftlang)\n", program);
+    printf("  %s counter.rift -o counter.go         # Go (go-riftlang)\n", program);
+    printf("  %s counter.rift -o counter.lua        # Lua (lua-riftlang)\n", program);
+    printf("  %s counter.rift -o counter.wat        # WebAssembly (wat2wasm)\n", program);
+    printf("  %s -a --emit-ast-json test.rift       # Show AST + emit JSON\n", program);
+    printf("\nOutput target is auto-detected from the output file extension.\n");
     printf("Constitutional Computing: Respect the scope. Respect the architecture.\n");
 }
 
@@ -335,7 +523,8 @@ static bool parse_args(int argc, char* argv[], RiftCliOptions* opts) {
     opts->policy_threshold = 0.85;
     opts->optimization_level = 1;
     opts->preserve_comments = true;
-    
+
+    int positional_count = 0;
     for (int i = 1; i < argc; i++) {
         if (strcmp(argv[i], "-h") == 0 || strcmp(argv[i], "--help") == 0) {
             print_usage(argv[0]);
@@ -414,7 +603,12 @@ static bool parse_args(int argc, char* argv[], RiftCliOptions* opts) {
             }
         }
         else if (argv[i][0] != '-') {
-            opts->input_file = argv[i];
+            if (positional_count == 0) {
+                opts->input_file = argv[i];
+            } else if (positional_count == 1 && !opts->output_file) {
+                opts->output_file = argv[i];
+            }
+            positional_count++;
         }
         else {
             fprintf(stderr, "Error: Unknown option '%s'\n", argv[i]);
@@ -913,6 +1107,320 @@ static TransformResult* transform_source(
 }
 
 /* ============================================================================
+ * Binding Output Emitter (non-C targets)
+ * ============================================================================ */
+
+static bool emit_binding_output(
+    const char* source,
+    size_t source_size,
+    const char* out_filename,
+    RiftTargetLanguage target,
+    RiftCliOptions* opts
+) {
+    (void)source_size;
+
+    FILE* out = fopen(out_filename, "w");
+    if (!out) {
+        fprintf(stderr, "Error: Cannot create '%s': %s\n", out_filename, strerror(errno));
+        return false;
+    }
+
+    const char* mode_str =
+        opts->mode == RIFT_MODE_CLASSICAL ? "classical" :
+        opts->mode == RIFT_MODE_QUANTUM   ? "quantum"   : "hybrid";
+
+    /* Write language-specific binding header */
+    switch (target) {
+        case RIFT_TARGET_JS:
+            fprintf(out,
+                "'use strict';\n"
+                "/* Generated by RIFTLang v" RIFT_VERSION " - %s mode */\n"
+                "const rift = require('./bindings/node-riftlang/rift_binding.cjs');\n\n",
+                mode_str);
+            break;
+        case RIFT_TARGET_PYTHON:
+            fprintf(out,
+                "# -*- coding: utf-8 -*-\n"
+                "# Generated by RIFTLang v" RIFT_VERSION " - %s mode\n"
+                "import sys, os\n"
+                "sys.path.insert(0, os.path.join(os.path.dirname("
+                "os.path.abspath(__file__)), 'bindings', 'pyriftlang'))\n"
+                "from rift_binding import *\n\n",
+                mode_str);
+            break;
+        case RIFT_TARGET_GO:
+            fprintf(out,
+                "// Generated by RIFTLang v" RIFT_VERSION " - %s mode\n"
+                "package main\n\nimport \"fmt\"\n\nfunc main() {\n",
+                mode_str);
+            break;
+        case RIFT_TARGET_LUA:
+            fprintf(out,
+                "-- Generated by RIFTLang v" RIFT_VERSION " - %s mode\n"
+                "local rift = dofile('bindings/lua-riftlang/rift_binding.lua')\n\n",
+                mode_str);
+            break;
+        case RIFT_TARGET_WAT:
+            fprintf(out,
+                ";; Generated by RIFTLang v" RIFT_VERSION " - %s mode\n"
+                "(module\n"
+                "  (import \"rift\" \"validate\""
+                " (func $rift_validate (param i32) (result i32)))\n"
+                "  (memory (export \"memory\") 1)\n"
+                "  (func $main (export \"main\")\n",
+                mode_str);
+            break;
+        default:
+            break;
+    }
+
+    /* Comment prefix for unrecognised lines */
+    const char* cpfx =
+        (target == RIFT_TARGET_LUA || target == RIFT_TARGET_WAT) ? "--" :
+        (target == RIFT_TARGET_PYTHON) ? "#" : "//";
+
+    /* State */
+    int skip_depth   = 0;
+    int indent_level = 0;
+    const char* p = source;
+
+    while (*p) {
+        /* Extract one line */
+        const char* nl = strchr(p, '\n');
+        if (!nl) nl = p + strlen(p);
+        size_t len = (size_t)(nl - p);
+
+        char line[RIFT_MAX_LINE_LENGTH];
+        if (len >= sizeof(line)) len = sizeof(line) - 1;
+        strncpy(line, p, len);
+        line[len] = '\0';
+
+        const char* trimmed = trim_left(line);
+        bool is_empty = (*trimmed == '\0');
+
+        p = nl;
+        if (*p == '\n') p++;
+
+        if (is_empty) {
+            fprintf(out, "\n");
+            continue;
+        }
+
+        /* Inside a skipped block – look for closing } */
+        if (skip_depth > 0) {
+            if (strcmp(trimmed, "}") == 0 || starts_with(trimmed, "}")) {
+                skip_depth--;
+            }
+            continue;
+        }
+
+        /* Detect multi-line blocks to skip */
+        if (starts_with(trimmed, "align span<")) {
+            fprintf(out, "%s rift: memory span\n", cpfx);
+            if (strstr(trimmed, "{")) skip_depth = 1;
+            continue;
+        }
+        if (starts_with(trimmed, "type ") && strstr(trimmed, "=")) {
+            char type_name[64] = {0};
+            const char* tn_start = trimmed + 5;
+            size_t tn_len = 0;
+            while (tn_start[tn_len] && tn_start[tn_len] != ' ' &&
+                   tn_start[tn_len] != '=' && tn_start[tn_len] != '{') {
+                tn_len++;
+            }
+            if (tn_len >= sizeof(type_name)) tn_len = sizeof(type_name) - 1;
+            strncpy(type_name, tn_start, tn_len);
+            fprintf(out, "%s type: %s\n", cpfx, type_name);
+            if (strstr(trimmed, "{")) skip_depth = 1;
+            continue;
+        }
+        if (starts_with(trimmed, "policy_fn ")) {
+            fprintf(out, "%s policy omitted\n", cpfx);
+            skip_depth = 1;
+            continue;
+        }
+
+        /* Governance directive */
+        if (starts_with(trimmed, "!govern")) {
+            fprintf(out, "%s RIFT: %s mode\n", cpfx,
+                strstr(trimmed, "classical") ? "classical" :
+                strstr(trimmed, "quantum")   ? "quantum"   : "hybrid");
+            continue;
+        }
+
+        /* C-style comments */
+        if (starts_with(trimmed, "/*") || starts_with(trimmed, "//")) {
+            const char* ctext = trimmed + 2;
+            while (*ctext == ' ') ctext++;
+            char ctmp[512];
+            strncpy(ctmp, ctext, sizeof(ctmp) - 1);
+            ctmp[sizeof(ctmp) - 1] = '\0';
+            char* star = strstr(ctmp, "*/");
+            if (star) *star = '\0';
+            trim_right(ctmp);
+            if (*ctmp) fprintf(out, "%s %s\n", cpfx, ctmp);
+            continue;
+        }
+
+        /* while loop open (e.g. "while (cond) {") */
+        if (starts_with(trimmed, "while ") || starts_with(trimmed, "while(")) {
+            const char* cs = strchr(trimmed, '(');
+            char cond[256] = {0};
+            if (cs) {
+                cs++;
+                const char* ce = strrchr(trimmed, ')');
+                if (ce && ce > cs) {
+                    size_t cl = (size_t)(ce - cs);
+                    if (cl >= sizeof(cond)) cl = sizeof(cond) - 1;
+                    strncpy(cond, cs, cl);
+                }
+            }
+            switch (target) {
+                case RIFT_TARGET_JS:
+                    fprintf(out, "while (%s) {\n", cond);
+                    indent_level++;
+                    break;
+                case RIFT_TARGET_PYTHON:
+                    fprintf(out, "while %s:\n", cond);
+                    indent_level++;
+                    break;
+                case RIFT_TARGET_GO:
+                    fprintf(out, "\tfor %s {\n", cond);
+                    indent_level++;
+                    break;
+                case RIFT_TARGET_LUA:
+                    fprintf(out, "while %s do\n", cond);
+                    indent_level++;
+                    break;
+                case RIFT_TARGET_WAT:
+                    fprintf(out, "    (block (loop\n");
+                    indent_level++;
+                    break;
+                default: break;
+            }
+            continue;
+        }
+
+        /* Standalone { */
+        if (strcmp(trimmed, "{") == 0) {
+            if (target != RIFT_TARGET_PYTHON) indent_level++;
+            continue;
+        }
+
+        /* Standalone } */
+        if (strcmp(trimmed, "}") == 0) {
+            if (indent_level > 0) indent_level--;
+            switch (target) {
+                case RIFT_TARGET_JS:     fprintf(out, "}\n");     break;
+                case RIFT_TARGET_GO:     fprintf(out, "\t}\n");   break;
+                case RIFT_TARGET_LUA:    fprintf(out, "end\n");   break;
+                case RIFT_TARGET_WAT:    fprintf(out, "    ))\n");break;
+                case RIFT_TARGET_PYTHON: break;
+                default: break;
+            }
+            continue;
+        }
+
+        /* validate() call */
+        if (starts_with(trimmed, "validate(")) {
+            char arg[64] = {0};
+            sscanf(trimmed + 9, "%63[^)]", arg);
+            switch (target) {
+                case RIFT_TARGET_JS:
+                    fprintf(out, "rift.validate('%s');\n", arg);
+                    break;
+                case RIFT_TARGET_PYTHON:
+                    fprintf(out, "rift.validate(%s)\n", arg);
+                    break;
+                case RIFT_TARGET_GO:
+                    fprintf(out, "\t_ = rift.Validate(%s)\n", arg);
+                    break;
+                case RIFT_TARGET_LUA:
+                    fprintf(out, "rift.validate(%s)\n", arg);
+                    break;
+                case RIFT_TARGET_WAT:
+                    fprintf(out, "    (call $rift_validate (local.get $%s))\n", arg);
+                    break;
+                default: break;
+            }
+            continue;
+        }
+
+        /* := assignment */
+        const char* ceq = strstr(trimmed, ":=");
+        if (ceq) {
+            char var_name[64] = {0};
+            char expr[512]    = {0};
+            size_t vlen = (size_t)(ceq - trimmed);
+            if (vlen >= sizeof(var_name)) vlen = sizeof(var_name) - 1;
+            strncpy(var_name, trimmed, vlen);
+            trim_right(var_name);
+            const char* expr_raw = trim_left(ceq + 2);
+            strncpy(expr, expr_raw, sizeof(expr) - 1);
+            trim_right(expr);
+
+            /* Indent for nested context */
+            const char* ind = (indent_level > 0) ? "    " : "";
+            switch (target) {
+                case RIFT_TARGET_JS:
+                    fprintf(out, "%s%s%s = %s;\n", ind,
+                        (indent_level == 0 ? "let " : ""), var_name, expr);
+                    break;
+                case RIFT_TARGET_PYTHON:
+                    fprintf(out, "%s%s = %s\n", ind, var_name, expr);
+                    break;
+                case RIFT_TARGET_GO:
+                    fprintf(out, "\t%s%s %s %s\n", ind,
+                        var_name,
+                        (indent_level == 0 ? ":=" : "="),
+                        expr);
+                    break;
+                case RIFT_TARGET_LUA:
+                    fprintf(out, "%s%s%s = %s\n", ind,
+                        (indent_level == 0 ? "local " : ""), var_name, expr);
+                    break;
+                case RIFT_TARGET_WAT:
+                    fprintf(out, "    (local $%s i32)\n"
+                                 "    (local.set $%s (i32.const %s))\n",
+                        var_name, var_name, expr);
+                    break;
+                default: break;
+            }
+            continue;
+        }
+
+        /* Fallback: emit as comment */
+        fprintf(out, "%s %s\n", cpfx, trimmed);
+    }
+
+    /* Closing tokens */
+    if (target == RIFT_TARGET_GO) {
+        fprintf(out, "\t_ = fmt.Sprintf  // suppress unused import\n}\n");
+    } else if (target == RIFT_TARGET_WAT) {
+        fprintf(out, "  )\n)\n");
+    }
+
+    fclose(out);
+
+    if (!opts->quiet) {
+        printf("[RIFTLang] Output written to: %s\n", out_filename);
+    }
+
+    const char* run_hint =
+        (target == RIFT_TARGET_JS)     ? "node" :
+        (target == RIFT_TARGET_PYTHON) ? "python3" :
+        (target == RIFT_TARGET_GO)     ? "go run" :
+        (target == RIFT_TARGET_LUA)    ? "lua" :
+        (target == RIFT_TARGET_WAT)    ? "wat2wasm" : "";
+
+    if (!opts->quiet && *run_hint) {
+        printf("[RIFTLang] Run with: %s %s\n", run_hint, out_filename);
+    }
+
+    return true;
+}
+
+/* ============================================================================
  * Compilation Pipeline
  * ============================================================================ */
 
@@ -940,29 +1448,90 @@ static bool compile_rift_file(RiftCliOptions* opts) {
     if (!source) {
         return false;
     }
-    
+
     if (opts->verbose) {
         printf("[RIFTLang] Read %zu bytes from %s\n", source_size, opts->input_file);
     }
-    
+
+    /* Determine output filename early (needed for target detection) */
+    char out_filename[256];
+    out_filename[sizeof(out_filename) - 1] = '\0';
+    if (opts->output_file) {
+        strncpy(out_filename, opts->output_file, sizeof(out_filename) - 1);
+    } else {
+        strncpy(out_filename, opts->input_file, sizeof(out_filename) - 1);
+        char* dot = strrchr(out_filename, '.');
+        if (dot) {
+            strcpy(dot, ".c");
+        } else {
+            strncat(out_filename, ".c", sizeof(out_filename) - strlen(out_filename) - 1);
+        }
+    }
+
+    /* Detect target language from output extension */
+    RiftTargetLanguage target = rift_detect_target(out_filename);
+
+    if (target != RIFT_TARGET_C) {
+        /* Non-C binding path: link → CIR → codec emit (linkable-then-fileformat) */
+        if (opts->verbose) {
+            const char* tname =
+                target == RIFT_TARGET_JS     ? "JavaScript" :
+                target == RIFT_TARGET_PYTHON ? "Python"     :
+                target == RIFT_TARGET_GO     ? "Go"         :
+                target == RIFT_TARGET_LUA    ? "Lua"        : "WAT";
+            printf("[RIFTLang] Target language: %s (link+codec path)\n", tname);
+        }
+        RiftCIRProgram* prog = rift_link(source, opts->mode);
+        free(source);
+        if (!prog) {
+            fprintf(stderr, "Error: CIR linker allocation failed\n");
+            return false;
+        }
+        if (!prog->consensus_ok) {
+            fprintf(stderr, "Error: Consensus validation failed: %s\n", prog->error_msg);
+            rift_cir_program_free(prog);
+            return false;
+        }
+        FILE* out_fp = fopen(out_filename, "w");
+        if (!out_fp) {
+            fprintf(stderr, "Error: Cannot create '%s': %s\n", out_filename, strerror(errno));
+            rift_cir_program_free(prog);
+            return false;
+        }
+        bool ok = rift_codec_emit(prog, out_fp, target);
+        fclose(out_fp);
+        rift_cir_program_free(prog);
+        if (!opts->quiet && ok) {
+            const char* run_hint =
+                (target == RIFT_TARGET_JS)     ? "node" :
+                (target == RIFT_TARGET_PYTHON) ? "python3" :
+                (target == RIFT_TARGET_GO)     ? "go run" :
+                (target == RIFT_TARGET_LUA)    ? "lua" : "wat2wasm";
+            printf("[RIFTLang] Output written to: %s\n", out_filename);
+            printf("[RIFTLang] Run with: %s %s\n", run_hint, out_filename);
+        }
+        return ok;
+    }
+
+    /* C target: existing pipeline */
     /* Initialize pattern engine */
     RiftPatternEngine* engine = initialize_transform_engine(opts->mode, opts->verbose);
     if (!engine) {
         free(source);
         return false;
     }
-    
-    /* Transform source */
+
+    /* Transform source to C */
     TransformResult* result = transform_source(engine, source, opts);
-    
+
     rift_pattern_engine_destroy(engine);
     free(source);
-    
+
     if (!result || !result->output) {
         fprintf(stderr, "Error: Transformation failed\n");
         return false;
     }
-    
+
     if (opts->verbose) {
         printf("\n[RIFTLang] Transformation complete:\n");
         printf("  Lines processed: %d\n", result->lines_processed);
@@ -970,21 +1539,6 @@ static bool compile_rift_file(RiftCliOptions* opts) {
         printf("  Patterns failed: %d\n", result->patterns_failed);
         printf("  Time: %.2f ms\n", result->processing_time_ms);
         printf("  Output size: %zu bytes\n", result->output_size);
-    }
-    
-    /* Determine output filename */
-    char out_filename[256];
-    if (opts->output_file) {
-        strncpy(out_filename, opts->output_file, sizeof(out_filename) - 1);
-    } else {
-        /* Generate default output name */
-        strncpy(out_filename, opts->input_file, sizeof(out_filename) - 1);
-        char* dot = strrchr(out_filename, '.');
-        if (dot) {
-            strcpy(dot, ".c");
-        } else {
-            strcat(out_filename, ".c");
-        }
     }
     
     /* Write output if not dry run */
@@ -1055,25 +1609,34 @@ static bool compile_rift_file(RiftCliOptions* opts) {
         
         char compile_cmd[512];
         const char* cc = getenv("CC") ? getenv("CC") : "gcc";
-        
+
+        /* Derive exe name from input file base (strip directory and extension) */
+        char exe_name[256];
+        const char* base = strrchr(opts->input_file, '/');
+        base = base ? base + 1 : opts->input_file;
+        strncpy(exe_name, base, sizeof(exe_name) - 1);
+        exe_name[sizeof(exe_name) - 1] = '\0';
+        char* exe_dot = strrchr(exe_name, '.');
+        if (exe_dot) *exe_dot = '\0';
+
         snprintf(compile_cmd, sizeof(compile_cmd),
             "%s -o %s %s -I. -L./bin -lriftlang -O%d -lm -lpthread %s",
             cc,
-            "a.out",  /* Default output name */
+            exe_name,
             out_filename,
             opts->optimization_level,
             opts->verbose ? "-v" : ""
         );
-        
+
         if (opts->verbose) {
             printf("[RIFTLang] Compile command: %s\n", compile_cmd);
         }
-        
+
         int ret = system(compile_cmd);
         if (ret != 0) {
             fprintf(stderr, "Warning: C compiler returned non-zero exit code\n");
         } else if (!opts->quiet) {
-            printf("[RIFTLang] Compilation successful -> a.out\n");
+            printf("[RIFTLang] Compilation successful -> %s\n", exe_name);
         }
     }
     

@@ -340,6 +340,14 @@ function async_(fn) {
     return token;
 }
 
+/**
+ * Validate and display a governed value.
+ * Called from generated .js output as: rift.validate('varname')
+ */
+function validate(nameOrValue) {
+    console.log(`rift.validate: ${nameOrValue}`);
+}
+
 // ============================================================================
 // Module Exports
 // ============================================================================
@@ -365,5 +373,8 @@ module.exports = {
     withToken,
     const: const_,
     function: function_,
-    async: async_
+    async: async_,
+
+    // Governance validation
+    validate,
 };

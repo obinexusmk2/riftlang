@@ -57,7 +57,8 @@ double rift_get_time_ms(void) {
  */
 static bool rift_regex_compile(regex_t* regex, const char* pattern, bool anchored, bool extended) {
     if (!regex || !pattern) return false;
-    
+    (void)extended;
+
     int flags = REG_EXTENDED;
     if (anchored) {
         flags |= REG_NEWLINE;
@@ -251,19 +252,17 @@ RIFT_API bool rift_token_validate(RiftToken* token) {
             }
             break;
             
-        case RIFT_TOKEN_ENTANGLED:
-            /* Entangled tokens need links */
-            if (RIFT_TOKEN_IS_ENTANGLED(token)) {
-                if (!token->entangled_with || token->entanglement_count == 0) {
-                    return false;
-                }
-            }
-            break;
-            
         default:
             break;
     }
-    
+
+    /* Entangled tokens need links (validation bit, not a token type enum value) */
+    if (RIFT_TOKEN_IS_ENTANGLED(token)) {
+        if (!token->entangled_with || token->entanglement_count == 0) {
+            return false;
+        }
+    }
+
     /* Mark as governed */
     RIFT_SET_BIT(token, RIFT_TOKEN_GOVERNED);
     return true;
@@ -1217,7 +1216,8 @@ RIFT_API void rift_ast_print(RiftAstNode* root, int indent) {
 RIFT_API char* rift_ast_serialize(RiftAstNode* root, RiftSerialOptions* options, size_t* output_size) {
     /* TODO: Full JSON and binary serialization implementation */
     /* This stub returns a minimal valid JSON object */
-    
+    (void)options;
+
     if (!root || !output_size) return NULL;
     
     const char* stub = "{\"ast\":\"stub\",\"version\":1}";

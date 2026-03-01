@@ -12,10 +12,10 @@ OBJ_DIR         := build
 BIN_DIR         := bin
 
 # Source files (in current directory)
-SOURCES         := riftlang.c main.c
-HEADERS         := riftlang.h
+SOURCES         := riftlang.c rift_codec.c main.c
+HEADERS         := riftlang.h rift_codec.h
 
-OBJECTS         := $(OBJ_DIR)/riftlang.o $(OBJ_DIR)/main.o
+OBJECTS         := $(OBJ_DIR)/riftlang.o $(OBJ_DIR)/rift_codec.o $(OBJ_DIR)/main.o
 
 # -----------------------------------------------------------------------------
 # Platform Detection
@@ -111,8 +111,13 @@ $(OBJ_DIR)/riftlang.o: riftlang.c riftlang.h | $(OBJ_DIR)
 	@echo CC riftlang.c
 	$(CC) $(CFLAGS) -c $< -o $@
 
+# Compile rift_codec.c - linkable-then-fileformat polyglot codec
+$(OBJ_DIR)/rift_codec.o: rift_codec.c rift_codec.h riftlang.h | $(OBJ_DIR)
+	@echo CC rift_codec.c
+	$(CC) $(CFLAGS) -c $< -o $@
+
 # Compile main.c - CRITICAL: Define RIFTLANG_OPEN_MAIN
-$(OBJ_DIR)/main.o: main.c riftlang.h | $(OBJ_DIR)
+$(OBJ_DIR)/main.o: main.c riftlang.h rift_codec.h | $(OBJ_DIR)
 	@echo CC main.c
 	$(CC) $(CFLAGS) -DRIFTLANG_OPEN_MAIN=1 -c $< -o $@
 

@@ -189,6 +189,20 @@ typedef enum {
 } RiftExecutionMode;
 
 /**
+ * Target Language Enumeration
+ * Defines the output language for polyglot codec emission.
+ * Detected from output file extension by rift_detect_target().
+ */
+typedef enum {
+    RIFT_TARGET_C = 0,   /* Default: emit C and invoke gcc */
+    RIFT_TARGET_JS,      /* JavaScript via node-riftlang   */
+    RIFT_TARGET_GO,      /* Go via go-riftlang             */
+    RIFT_TARGET_LUA,     /* Lua via lua-riftlang           */
+    RIFT_TARGET_PYTHON,  /* Python via pyriftlang          */
+    RIFT_TARGET_WAT,     /* WebAssembly text via wat2wasm  */
+} RiftTargetLanguage;
+
+/**
  * Memory Span Type Enumeration
  * Defines memory allocation patterns
  */

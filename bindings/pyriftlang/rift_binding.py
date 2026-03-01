@@ -205,7 +205,7 @@ def rift_superpose(states: List[Any]) -> RiftToken:
         alignment=RIFT_QUANTUM_ALIGNMENT
     )
     token = RiftToken("QPyObject", memory)
-    
+
     # Create child tokens for each state
     state_tokens = []
     for state in states:
@@ -213,6 +213,14 @@ def rift_superpose(states: List[Any]) -> RiftToken:
         state_token = RiftToken("PyObject", state_memory)
         state_token.value = state
         state_tokens.append(state_token)
-    
+
     token.superpose(state_tokens)
     return token
+
+
+def validate(value: Any) -> None:
+    """Validate and display a governed value.
+
+    Called from generated .py output as: rift.validate(varname)
+    """
+    print(f"rift.validate: {value}")
