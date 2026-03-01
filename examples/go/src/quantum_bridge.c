@@ -19,86 +19,81 @@ int main(int argc, char* argv[]) {
     (void)argc; (void)argv;
     rift_init_policy();
 
-    /*\1 */
-    /*\1 */
-    /*\1 */
+    // go/src/quantum_bridge.rift
+    // Quantum mode support for Go bindings
+    // Enables quantum concepts in Go through Rift runtime
 
-    /* UNMATCHED: !govern quantum { */
-    /* UNMATCHED:   token_memory: { */
-    /* UNMATCHED:     alignment: dynamic(8), */
-    /* UNMATCHED:     access: [CREATE, READ, UPDATE, DELETE, SUPERPOSE, ENTANGLE], */
-    /* UNMATCHED:     phase: probabilistic */
+    // UNMATCHED: !govern quantum {
+    // UNMATCHED:   token_memory: {
+    // UNMATCHED:     alignment: dynamic(8),
+    // UNMATCHED:     access: [CREATE, READ, UPDATE, DELETE, SUPERPOSE, ENTANGLE],
+    // UNMATCHED:     phase: probabilistic
     }
 
-    /* UNMATCHED:   token_type: { */
-    /* UNMATCHED:     inference: dynamic, */
-    /* UNMATCHED:     checking: lazy, */
-    /* UNMATCHED:     casting: implicit */
+    // UNMATCHED:   token_type: {
+    // UNMATCHED:     inference: dynamic,
+    // UNMATCHED:     checking: lazy,
+    // UNMATCHED:     casting: implicit
     }
 
-    /* UNMATCHED:   token_value: { */
-    /* UNMATCHED:     binding: deferred, */
-    /* UNMATCHED:     resolution: context_dependent, */
-    /* UNMATCHED:     validation: entropy_threshold(0.25) */
+    // UNMATCHED:   token_value: {
+    // UNMATCHED:     binding: deferred,
+    // UNMATCHED:     resolution: context_dependent,
+    // UNMATCHED:     validation: entropy_threshold(0.25)
     }
 
-    /* UNMATCHED:   policy_enforcement: { */
-    /* UNMATCHED:     timing: deferred, */
-    /* UNMATCHED:     violation: warning, */
-    /* UNMATCHED:     recovery: auto_collapse */
+    // UNMATCHED:   policy_enforcement: {
+    // UNMATCHED:     timing: deferred,
+    // UNMATCHED:     violation: warning,
+    // UNMATCHED:     recovery: auto_collapse
     }
     }
 
-    /*\1 */
-    /* UNMATCHED: align span<superposed> { */
-    /* UNMATCHED:   direction: right -> left, */
-    /* UNMATCHED:   bytes: 64, */
-    /* UNMATCHED:   type: distributed, */
-    /* UNMATCHED:   open: true */
+    // Quantum memory span for Go
+    RIFT_DECLARE_MEMORY(span, RIFT_SPAN_SUPERPOSED, 64);
+
+    // Quantum Go types
+    typedef struct {
+        int32_t parent;
+        int32_t bit_width;
+        int32_t superposition;
+        int32_t memory;
+    } QGoInt;
+
+    typedef struct {
+        int32_t parent;
+        int32_t superposition;
+        int32_t memory;
+    } QGoChan;
+
+    // Entanglement registry for Go
+    // UNMATCHED: entanglement_registry GoEntanglementRegistry {
+    // UNMATCHED:   max_pairs: 2048,
+    // UNMATCHED:   auto_collapse: on_observation,
+    // UNMATCHED:   entropy_threshold: 0.25
     }
 
-    /*\1 */
-    /* RIFT type: \1 */ typedef struct {
-    /* UNMATCHED:   parent: GoInt, */
-    /* UNMATCHED:   bit_width: 64, */
-    /* UNMATCHED:   superposition: enabled, */
-    /* UNMATCHED:   memory: aligned(8) */
+    // Quantum patterns for Go
+    // UNMATCHED: pattern "quantum.Superpose\\({{...}}\\)" -> "rift.Superpose({{...}})" {
+    // UNMATCHED:   priority: 150,
+    // UNMATCHED:   governed: true
     }
 
-    /* RIFT type: \1 */ typedef struct {
-    /* UNMATCHED:   parent: GoChan, */
-    /* UNMATCHED:   superposition: enabled, */
-    /* UNMATCHED:   memory: aligned(8) */
+    // UNMATCHED: pattern "quantum.Entangle\\({{a}}, {{b}}\\)" -> "rift.Entangle({{a}}, {{b}})" {
+    // UNMATCHED:   priority: 140,
+    // UNMATCHED:   governed: true
     }
 
-    /*\1 */
-    /* UNMATCHED: entanglement_registry GoEntanglementRegistry { */
-    /* UNMATCHED:   max_pairs: 2048, */
-    /* UNMATCHED:   auto_collapse: on_observation, */
-    /* UNMATCHED:   entropy_threshold: 0.25 */
+    // UNMATCHED: pattern "quantum.Collapse\\({{value}}\\)" -> "rift.Collapse({{value}})" {
+    // UNMATCHED:   priority: 130,
+    // UNMATCHED:   governed: true
     }
 
-    /*\1 */
-    /* UNMATCHED: pattern "quantum.Superpose\\({{...}}\\)" -> "rift.Superpose({{...}})" { */
-    /* UNMATCHED:   priority: 150, */
-    /* UNMATCHED:   governed: true */
-    }
-
-    /* UNMATCHED: pattern "quantum.Entangle\\({{a}}, {{b}}\\)" -> "rift.Entangle({{a}}, {{b}})" { */
-    /* UNMATCHED:   priority: 140, */
-    /* UNMATCHED:   governed: true */
-    }
-
-    /* UNMATCHED: pattern "quantum.Collapse\\({{value}}\\)" -> "rift.Collapse({{value}})" { */
-    /* UNMATCHED:   priority: 130, */
-    /* UNMATCHED:   governed: true */
-    }
-
-    /*\1 */
-    /* UNMATCHED: collapse_trigger on QGoInt { */
-    /* UNMATCHED:   condition: entropy > 0.25, */
-    /* UNMATCHED:   action: auto_collapse, */
-    /* UNMATCHED:   notify: go_runtime */
+    // Collapse trigger
+    // UNMATCHED: collapse_trigger on QGoInt {
+    // UNMATCHED:   condition: entropy > 0.25,
+    // UNMATCHED:   action: auto_collapse,
+    // UNMATCHED:   notify: go_runtime
     }
 
     /* Policy cleanup */

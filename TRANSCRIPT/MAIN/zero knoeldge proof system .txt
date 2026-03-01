@@ -1,0 +1,219 @@
+ok hoow does a zzero kwndolproof sytm work
+ello everyone, my name is
+0:04
+Namdi and I am the founder of OB Nexus
+0:08
+and it's and services. Um, so I want to
+0:12
+then I want to just show you a tool I'm
+0:14
+working on. I need to I've been working
+0:16
+on called Node Zero. Node Zero is a ZKP
+0:19
+implementation of zero knowledge proof
+0:23
+system. Uh uh but but uh unlike vision
+0:27
+systems it's uh it's not it's unoff
+0:31
+systems it's um it's not z it doesn't
+0:34
+use zest or either z but it's not it's
+0:39
+not really a z algorithm it's or it's
+0:42
+it's it's a it's it own package uh node
+0:45
+zero it's its own zero knowledge proof
+0:47
+system uh but uh it doesn't it has no uh
+0:52
+you have to trust in the system because
+0:53
+it has setup system uh involved in the
+0:56
+whole audio.
+0:58
+uh two entities Alice and Bob can talk
+1:00
+to each other without any uh overhead uh
+1:03
+of the uh zero pro system getting hacked
+1:06
+or getting intercepted or anything
+1:08
+because uh in traditional ZKP systems we
+1:11
+have a setup
+1:12
+system trust system that is secured but
+1:16
+if the if the system gets hacked uh
+1:19
+through some unknown creative creative
+1:21
+algorithms anything uh then we all our
+1:24
+messages all our messages are really all
+1:26
+information is really disclosed Um so
+1:29
+Alice and B try to communicate and
+1:33
+um talk to talk to each other network
+1:35
+insecure network uh with with a self
+1:37
+system uh if if system gets hacked
+1:40
+uh or anyone can get access to self
+1:42
+system they know everything that's going
+1:44
+on. So that's the problem with the
+1:46
+traditional alg system it's a although
+1:49
+trans system using blockchain technology
+1:51
+everywhere it's a it's a it's a problem
+1:53
+that solved using the code written in
+1:57
+tight crypto nodejs um so I want to say
+2:00
+to I want to say to you that uh individ
+2:03
+can get it uh get the u right now at the
+2:06
+paid store/ob nexus you can get it uh
+2:10
+individ can buy it uh too but don't get
+2:14
+for more proof My worker formal proof uh
+2:16
+to to get the package to get the photo
+2:18
+with the proof uh my worker proof to
+2:20
+check it yourself that see it works in
+2:21
+theory and practice you can go to um you
+2:24
+can go to the business you have to buy a
+2:26
+business you have to have a business and
+2:27
+buy it any can get a tool um it's
+2:29
+cheaper to get a tool just get the tool
+2:31
+uh you can use for authentication
+2:32
+authorization or for blockchain security
+2:35
+or blockchain uh CKP proof uh or even
+2:38
+but you can't you will not u you can
+2:40
+consume an API through JavaScript or
+2:42
+TypeScript uh but you can you will not
+2:44
+get a youn get a regressor mathematical
+2:46
+proof that shows how it works in the
+2:48
+theoretical aspect. Um uh so that is
+2:52
+what that's just how I work that's how
+2:54
+I've solved that problem. Uh so it's a
+2:57
+ZKP is a ZKP works say I want to prove
+3:00
+to someone I to prove to Bob
+3:03
+identity that it's her Alice. uh one way
+3:06
+of doing that is like a it's not to
+3:09
+show to show a proof uh of that her
+3:13
+before sending any identity information.
+3:15
+So so if if I believe the proof if Bob
+3:17
+believes the proof then uh we have
+3:19
+converation uh we might proof now. So
+3:22
+that's what the Zik my information ZKP
+3:25
+uh is. Okay. Um so without further uh
+3:29
+ado uh let me show you how to use the um
+3:33
+the code.
+3:34
+Okay, let me show you how how to use the
+3:37
+off. No, let me show you how to use the
+3:39
+package.
+
+
+https://www.youtube.com/watch?v=geFPJzj5DEQ&t=4s
+
+https://www.youtube.com/watch?v=ldFTKy1HumE&t=1387s
+
+nd that's the Bob handshake. All right, succeeded. So,
+23:5123 minutes, 51 secondsbecause so this is a proof now. So now now now now uh Bob can Bob now can ser the message
+23:5923 minutes, 59 secondsbecause proof is not successful and now we can finally send a proof. Uh so the proof we send a proof uh now now we send a proof. Uh we can now have a proofer.
+24:1024 minutes, 10 secondsThis is the file for Alice. So Alice Alice do and this is the proof. We got Alice,
+24:2024 minutes, 20 secondsBob. You see I said and then search for Alice and then now prove that now prove that it came from proven that Alice Bob
+24:2824 minutes, 28 secondshas now proven himself using Alice using the proof and it's his handshake he made with Bob and now they can communicate uh
+24:3724 minutes, 37 secondstogether and send images messages. Now you can al derive and remove a file people from the network too. And that's
+24:4424 minutes, 44 secondsMP0 client uh help. So that is the MP calendar and
+24:5424 minutes, 54 secondsthat's how it works. Uh so but the package it's a package.
+
+University of Houston
+The University of Houston is a public research university in Houston, Texas, United States. It was established in 1927 as Houston Junior College, a coeducational institution and one of multiple junior colleges formed in the first decades of the 20th century.
+...more
+24:5924 minutes, 59 secondsYes. One second. Yes. So and that's how it how
+25:0725 minutes, 7 secondsworks. the package works and so Alice and Bob have now proven themselves now I can start establish secure communication and uh start sending sending keep
+25:1525 minutes, 15 secondssending message so that can be from that input file can now be sent to Bob and they can start having conversations the data is now safe and secure okay doesn't
+25:2425 minutes, 24 secondsmatter what file it is can send a file system too uh this is a big major cuz you know you know because some governments are trying to uh decipher
+25:3325 minutes, 33 secondspeople information uh no zero uh it has a it has quantum uh so application in blockchain. So first in blockchain where
+25:4025 minutes, 40 secondsyou have zero key proof systems uh that are this one offers no setup that's no zero and if you get a business one you get you get formal
+25:4825 minutes, 48 secondsproof also uh if you have a if you have a a file system online file system uh and you want to transfer your files uh
+25:5525 minutes, 55 secondsyou you want to intercept with the back door the network you need and you have a Z system you have trust in the system so the user can also get their files the
+26:0426 minutes, 4 secondsfolders on the service maybe maybe Google service or Google drive service I don't know what you use can imple uh
+26:1126 minutes, 11 secondsencrypted setup system with the ZK proof um the business proof plan the proof proof provided in the document and
+26:1826 minutes, 18 secondsfinally and finally you can um you can do uh like you can equip data any data on a system and only the end user will be able to get it on the file system the
+26:2726 minutes, 27 secondsfile server and the final one is um it's a secure customer system uh so you can secure it can secure a file
+26:3626 minutes, 36 secondsfolder encrypt any data uh with the system and you can only know information on the system. And then the last one is
+26:4226 minutes, 42 secondsum yes it's quantum resilience. uh give you some um some primitive uh like SH3 algorithm for the for the P
+26:5226 minutes, 52 secondsfor for the vacation on the occasion which is high school quantum security properties um or you can use SH56 if you're so on blockchain quantum security
+27:0127 minutes, 1 seconduse the SH 23 primitive you can um you get set up on a quantum system
+27:0827 minutes, 8 secondswith the zero proof for for for security purposes. So you can do a lot of this with a proof document but the play you
+27:1527 minutes, 15 secondscan use this anal package so you can import the the node zero node zero into your own source code and consume it for
+27:2327 minutes, 23 secondsyour own maybe express app or any application you need axios server I don't know what you want to use it for use it for a lot of things a lot of
+27:3127 minutes, 31 secondsthings to secure yourself and your people on your and your um and your clients and your data has applications
+27:3927 minutes, 39 secondstoo on a real network it's it's production ready. You can use it now. Uh and use it to secure yourself on a
+
+University of Houston
+The University of Houston is a public research university in Houston, Texas, United States. It was established in 1927 as Houston Junior College, a coeducational institution and one of multiple junior colleges formed in the first decades of the 20th century.
+...more
+27:4627 minutes, 46 secondsnetwork. Um and that is uh the the that is node zero in a nutshell. Uh in a
+27:5327 minutes, 53 secondsvideo uh that is using a client to use API from in the library to consume it at complete zero. You import it into your
+28:0228 minutes, 2 secondsown package and just consume it API and make your own applications too. Uh that's end goal of everything. So it's really it's not really it solves a lot
+28:1028 minutes, 10 secondsof problems. uh and you get trusted in our system. So, thank you for watching. Uh help me like like my videos,
+28:1828 minutes, 18 secondssubscribe and share and all the best.
+28:2028 minutes, 20 secondsGoodbye. Thank you very much. Uh and thank you for watching this video. Uh if you like if you like the content um you learn something new, subscribe uh share
+28:2828 minutes, 28 secondsand um so other can uh understand uh and share my videos so other can understand a bit better about what I'm trying to do
+28:3528 minutes, 35 secondsand grow my channel. Thank you very much uh and take care. Until next time. Uh,
+28:4228 minutes, 42 secondsuntil next time. Goodbye for now.
+
+how do zkp proof work and why is it usefyul in blockchain?

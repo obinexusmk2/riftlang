@@ -1,0 +1,2415 @@
+1
+00:00:00,970 --> 00:00:06,270
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.) Okay, Namdi, this video is on PLP, Ontological Bayesian Intelligence
+
+2
+00:00:06,270 --> 00:00:06,870
+System.
+
+3
+00:00:07,010 --> 00:00:10,090
+So, I've got this video ready, but I think I
+
+4
+00:00:10,090 --> 00:00:10,490
+lost it.
+
+5
+00:00:11,110 --> 00:00:12,810
+So, what is PLP?
+
+6
+00:00:12,910 --> 00:00:18,670
+PSP stands for Phenomenological Lensing Principle or Phenomenological Lensing
+
+7
+00:00:18,670 --> 00:00:19,130
+Protocol.
+
+8
+00:00:19,830 --> 00:00:22,690
+It really means Ontological Bayesian Intelligence Infrastructure.
+
+9
+00:00:22,810 --> 00:00:25,870
+Like, you know, my PhD is on Ontological Bayesian Infra
+
+10
+00:00:25,870 --> 00:00:28,850
+-intelligence, but, you know, that means small stuff.
+
+11
+00:00:28,850 --> 00:00:32,370
+So, the term Ontological, the nature of knowing yourself, you
+
+12
+00:00:32,370 --> 00:00:34,610
+know, know yourself, to know who you are, you know,
+
+13
+00:00:34,990 --> 00:00:35,930
+your BFN history.
+
+14
+00:00:36,330 --> 00:00:40,770
+Ontological, who, what, why, when, why, you know, how to
+
+15
+00:00:40,770 --> 00:00:41,530
+build your stuff.
+
+16
+00:00:41,770 --> 00:00:45,450
+So, Ontological means, like, role, like, you know, I know
+
+17
+00:00:45,450 --> 00:00:47,090
+my goal, I know my purpose, I know what to
+
+18
+00:00:47,090 --> 00:00:47,510
+do next.
+
+19
+00:00:49,150 --> 00:00:53,290
+Now, the Bayesian means, like, probability of it, Bayesian inference,
+
+20
+00:00:53,450 --> 00:00:55,670
+like, you know, half and half on the Bayesian graph.
+
+21
+00:00:55,670 --> 00:00:57,670
+The thing about Bayesian is, you know, you have to
+
+22
+00:00:57,670 --> 00:00:59,950
+get the probability of range, you know, like, you know,
+
+23
+00:01:00,270 --> 00:01:06,690
+something can be 0.5 to 0.9, but that's
+
+24
+00:01:06,690 --> 00:01:09,370
+when the function is coherent and the function works and
+
+25
+00:01:09,370 --> 00:01:09,790
+the thing works.
+
+26
+00:01:10,290 --> 00:01:11,370
+That's Bayesian inference.
+
+27
+00:01:12,030 --> 00:01:16,170
+Intelligence, AI intelligence, smart devices, things that don't need
+
+28
+00:01:16,170 --> 00:01:21,670
+consciousness, model, you know, my lead architect and system architect.
+
+29
+00:01:22,650 --> 00:01:24,970
+Ontological or Bayesian reasoning, probability.
+
+30
+00:01:25,650 --> 00:01:28,410
+Rhetorical or reasoning, like, you know, for AI systems, you
+
+31
+00:01:28,410 --> 00:01:30,890
+know, you can use that to ensure an AI makes
+
+32
+00:01:30,890 --> 00:01:33,330
+the right decision based in real time, you know, when
+
+33
+00:01:33,330 --> 00:01:34,650
+something is an edge case.
+
+34
+00:01:35,310 --> 00:01:38,590
+The rhetoric means, like, you know, my rhetorical reasoning, like,
+
+35
+00:01:38,630 --> 00:01:41,630
+you know, it's just talk, but it means something, it
+
+36
+00:01:41,630 --> 00:01:43,710
+has some grounding, but, you know, it's not practical.
+
+37
+00:01:44,090 --> 00:01:46,950
+Maybe practical, yes, it can be practical, definitely, but, you
+
+38
+00:01:46,950 --> 00:01:48,910
+know, it's something like an edge case we haven't really
+
+39
+00:01:48,910 --> 00:01:51,490
+encountered, you know, it has to absorb that, you know,
+
+40
+00:01:51,570 --> 00:01:52,070
+by itself.
+
+41
+00:01:52,170 --> 00:01:58,650
+That's what the rhetoric reasoning, rationale, like, you know, the
+
+42
+00:01:58,650 --> 00:01:59,750
+rationale behind doing that.
+
+43
+00:01:59,930 --> 00:02:01,630
+So I changed the rationale, you know.
+
+44
+00:02:01,910 --> 00:02:03,630
+The goal is to define a suppose of this ABC.
+
+45
+00:02:03,970 --> 00:02:07,169
+Okay, now, the goal of this is to have a
+
+46
+00:02:07,169 --> 00:02:09,330
+dual model, observer to consumer.
+
+47
+00:02:09,630 --> 00:02:12,410
+Now, remember, guys, the observer model is just what, you
+
+48
+00:02:12,410 --> 00:02:13,810
+know, it bubbles up errors.
+
+49
+00:02:13,910 --> 00:02:15,550
+It doesn't propagate any errors downstream.
+
+50
+00:02:16,150 --> 00:02:17,970
+It bubbles up the source code error.
+
+51
+00:02:17,970 --> 00:02:20,810
+And the event loop is witnessing all the time for
+
+52
+00:02:20,810 --> 00:02:24,510
+the state change, based on local maximum and local minima.
+
+53
+00:02:25,830 --> 00:02:29,310
+So when a programme observes its state, it's really observing
+
+54
+00:02:29,310 --> 00:02:32,870
+the local minima, the changes it does, and what it
+
+55
+00:02:32,870 --> 00:02:34,270
+does, what's going to change, what's not going to change,
+
+56
+00:02:34,370 --> 00:02:35,750
+you know, and then it changes what's going to change.
+
+57
+00:02:35,890 --> 00:02:38,630
+It's like a, it's just witnesses, and that's called witnessing.
+
+58
+00:02:38,890 --> 00:02:42,150
+So when it witnesses, the time-preserved portfolio time, that
+
+59
+00:02:42,150 --> 00:02:43,730
+acts as a factor of four of the time.
+
+60
+00:02:44,210 --> 00:02:45,750
+Because the other thing, you know, the factor of four
+
+61
+00:02:45,750 --> 00:02:50,730
+is just a standard testing, but the 4.5 is
+
+62
+00:02:50,730 --> 00:02:51,910
+just the other one.
+
+63
+00:02:52,190 --> 00:02:55,250
+So, this is like, this is what we interpret.
+
+64
+00:02:56,050 --> 00:03:01,250
+The PhD on direct instruction, direct simulation systems, which are
+
+65
+00:03:01,250 --> 00:03:03,570
+treated in the same thing, observer to consumer.
+
+66
+00:03:03,910 --> 00:03:06,690
+Observer to consumer in quantum systems, you know, you can't
+
+67
+00:03:06,690 --> 00:03:08,630
+really observe, when you want to change in a quantum
+
+68
+00:03:08,630 --> 00:03:11,210
+state, oh, no, no, no, no, no, no, no, no,
+
+69
+00:03:11,210 --> 00:03:12,150
+no, no, no, no, no, no, no, no, no, no,
+
+70
+00:03:12,150 --> 00:03:12,250
+no, no, no, no, no, no.
+
+71
+00:03:14,250 --> 00:03:16,270
+So basically there's an ad there, let me just pause
+
+72
+00:03:16,270 --> 00:03:16,670
+it.
+
+73
+00:03:16,810 --> 00:03:21,230
+So you don't want to have an interpreter state, you
+
+74
+00:03:21,230 --> 00:03:23,850
+know, mangled or wrangled or all that stuff.
+
+75
+00:03:24,010 --> 00:03:27,710
+So basically, OBS interpreter, any Python or Python, any polyglot
+
+76
+00:03:27,710 --> 00:03:31,230
+interpreter must cohere, like you know, it must be working
+
+77
+00:03:31,230 --> 00:03:38,370
+with the Gussie manuscript, the Gussie language polyglot manuscript.
+
+78
+00:03:38,970 --> 00:03:42,070
+Now, the manuscripts aren't really defined properly, but you know,
+
+79
+00:03:42,130 --> 00:03:45,130
+we need an explanation for interpreter, because interpreter for Python,
+
+80
+00:03:45,430 --> 00:03:47,210
+doesn't really differ from interpreter for Lua, etc.
+
+81
+00:03:47,450 --> 00:03:49,790
+So the goal of this is to observe that the
+
+82
+00:03:49,790 --> 00:03:52,990
+interpreter, a photocard system, is a song for the interpreter
+
+83
+00:03:52,990 --> 00:03:57,430
+to Lua system, via a Gussie lang polyglot manuscript, .gsm
+
+84
+00:03:57,430 --> 00:03:59,810
+files, .gs files for Gussie lang.
+
+85
+00:04:00,590 --> 00:04:04,530
+Now, the Gussie lang files are just polyglot files, it's
+
+86
+00:04:04,530 --> 00:04:06,970
+just like a polyglot.
+
+87
+00:04:06,970 --> 00:04:08,930
+So the goal of this is to have the .gs
+
+88
+00:04:08,930 --> 00:04:15,350
+files, .gsm files, which is the interpreter layer.
+
+89
+00:04:15,450 --> 00:04:17,930
+So let me give you an example, so Python can
+
+90
+00:04:17,930 --> 00:04:22,390
+define something called bi-weekly, once in every two weeks,
+
+91
+00:04:23,490 --> 00:04:26,750
+you know, once every two weeks, or once, you know,
+
+92
+00:04:27,030 --> 00:04:30,170
+is it once of every two weeks, or once bi
+
+93
+00:04:30,170 --> 00:04:33,730
+-weekly, so ambiguity in the term bi-weekly, or bi
+
+94
+00:04:33,730 --> 00:04:39,010
+-daily, let's say it's bi-weekly, once in two weeks,
+
+95
+00:04:39,710 --> 00:04:42,010
+you know, something happens in one week, every two weeks,
+
+96
+00:04:42,750 --> 00:04:47,430
+one in, in, but then it's off, one off, one,
+
+97
+00:04:47,550 --> 00:04:50,010
+every time, once off two weeks, you know, that's the
+
+98
+00:04:50,010 --> 00:04:50,270
+thing.
+
+99
+00:04:50,630 --> 00:04:53,330
+So every once a week, you skip two weeks, you
+
+100
+00:04:53,330 --> 00:04:54,530
+don't do it for two weeks.
+
+101
+00:04:54,870 --> 00:04:57,250
+Every one in the two weeks, you know, the interpretation
+
+102
+00:04:57,250 --> 00:04:59,070
+is on or off, you know, it's like an in
+
+103
+00:04:59,070 --> 00:05:01,790
+or off loop, you know, that's the bi-weekly or
+
+104
+00:05:01,790 --> 00:05:03,050
+bi-daily interpretation.
+
+105
+00:05:03,050 --> 00:05:06,010
+So Python might interpret this one way, and then Luam
+
+106
+00:05:06,010 --> 00:05:07,550
+has to go the other way, you know, based on
+
+107
+00:05:07,550 --> 00:05:10,450
+whatever the standard specification is, because these are interpreted
+
+108
+00:05:10,450 --> 00:05:13,950
+languages, not compiled, that execute as you run it, they're
+
+109
+00:05:13,950 --> 00:05:17,650
+not compiled, they have a runtime to add byte-byte
+
+110
+00:05:17,650 --> 00:05:19,510
+in the real world, and as I'm saying, the goal
+
+111
+00:05:19,510 --> 00:05:21,750
+of this is just to have a system that understands
+
+112
+00:05:21,750 --> 00:05:24,010
+this concept, and can infer from the new and better
+
+113
+00:05:24,010 --> 00:05:28,930
+three AVL nodes, three AVL red-black animation, which red
+
+114
+00:05:28,930 --> 00:05:31,130
+-black animation is just a standard algorithm I'm using to
+
+115
+00:05:31,130 --> 00:05:34,290
+animate all the red redundant nodes from a system that
+
+116
+00:05:34,290 --> 00:05:36,910
+needs black batteries, you know, and as I say, no,
+
+117
+00:05:37,290 --> 00:05:40,050
+the red-black animation is just a standard for it.
+
+118
+00:05:40,270 --> 00:05:43,370
+Now, for the quantum computers, you're going to understand that
+
+119
+00:05:43,370 --> 00:05:47,570
+the observer-consumer model had another hook attached.
+
+120
+00:05:47,990 --> 00:05:51,410
+So for example, if you observe, you know, the observer,
+
+121
+00:05:51,650 --> 00:05:53,710
+you can't observe a state and change something in quantum
+
+122
+00:05:53,710 --> 00:05:55,890
+computing, you only observe something in concepts in a quantum
+
+123
+00:05:55,890 --> 00:05:58,690
+system, so you have to ensure that you can act
+
+124
+00:05:58,690 --> 00:06:01,330
+before you can, you know, consume.
+
+125
+00:06:01,890 --> 00:06:06,010
+So for example, if I'm observing, I can have a
+
+126
+00:06:06,010 --> 00:06:09,830
+pre-observed model, pre-observed, you know, something like a
+
+127
+00:06:09,830 --> 00:06:11,910
+pre-event, a bubble, an event loop, that witnesses.
+
+128
+00:06:12,190 --> 00:06:17,730
+So when an event pre-happens before another event, that's
+
+129
+00:06:17,730 --> 00:06:21,050
+the duality that acts on that event, because the system
+
+130
+00:06:21,050 --> 00:06:23,010
+needs the next state of that information.
+
+131
+00:06:23,010 --> 00:06:26,710
+So you can create the information, you can get the
+
+132
+00:06:26,710 --> 00:06:29,970
+information you need before you ever observe, or you can
+
+133
+00:06:29,970 --> 00:06:33,630
+get the observation, you run the code, act, consume, before
+
+134
+00:06:33,630 --> 00:06:36,450
+the function caller, callee, uses it.
+
+135
+00:06:37,010 --> 00:06:40,110
+Now we've got, so we've got a matrix, 0, 0,
+
+136
+00:06:40,250 --> 00:06:42,770
+1, 2, 3, in, off, so you've got like an
+
+137
+00:06:42,770 --> 00:06:47,290
+in, off, if you just remember, for in loop, for
+
+138
+00:06:47,290 --> 00:06:49,570
+off loop, you know, these are just standard loops for
+
+139
+00:06:49,570 --> 00:06:51,090
+the interpretation layer.
+
+140
+00:06:51,090 --> 00:06:54,850
+You can try to understand this more formally, you know,
+
+141
+00:06:54,870 --> 00:06:58,590
+to ensure that the system understands the concept and can
+
+142
+00:06:58,590 --> 00:07:02,570
+resolve itself based on the aviary rotation for that set
+
+143
+00:07:02,570 --> 00:07:04,110
+structure, the bi-query key.
+
+144
+00:07:07,290 --> 00:07:08,990
+We are a bi-DAG.
+
+145
+00:07:09,310 --> 00:07:13,210
+Okay, now, very important, the bi-DAG stands for bi
+
+146
+00:07:13,210 --> 00:07:16,350
+-directional DAG, it's like, it's a bit of the things
+
+147
+00:07:16,350 --> 00:07:17,670
+that are interpreted by most of the context.
+
+148
+00:07:17,670 --> 00:07:20,670
+So everything that's interpreted has two states, you know, it
+
+149
+00:07:20,670 --> 00:07:22,470
+can be either one state or the other state, so
+
+150
+00:07:22,470 --> 00:07:24,850
+it's kind of weird to, you have to rotate to
+
+151
+00:07:24,850 --> 00:07:26,390
+ensure that the system is flexible.
+
+152
+00:07:27,150 --> 00:07:30,330
+So the thing about the bi-interpreter, or the bi
+
+153
+00:07:30,330 --> 00:07:35,310
+-interpreter, is that they have a bi-directional, bi-directional
+
+154
+00:07:35,310 --> 00:07:37,650
+interpretation, it can mean one thing to one system, and
+
+155
+00:07:37,650 --> 00:07:40,430
+another thing to another system, but you know, that's what's
+
+156
+00:07:40,430 --> 00:07:41,210
+quite humorous about it.
+
+157
+00:07:41,370 --> 00:07:43,030
+It reminds me of AI host solutioning system.
+
+158
+00:07:43,490 --> 00:07:45,570
+You can stop an AI host system with this framework
+
+159
+00:07:45,570 --> 00:07:45,830
+too.
+
+160
+00:07:45,830 --> 00:07:46,930
+This one's important.
+
+161
+00:07:47,190 --> 00:07:51,730
+So if you go to github.com slash o-g
+
+162
+00:07:51,730 --> 00:07:55,310
+-h-e, drive, or like a drive, you know, I
+
+163
+00:07:55,310 --> 00:07:57,450
+think that means like a web drive, yeah, so it's
+
+164
+00:07:57,450 --> 00:07:59,870
+an Apple web drive, but you know, that web drive
+
+165
+00:07:59,870 --> 00:08:00,970
+is for the AI system.
+
+166
+00:08:01,130 --> 00:08:03,210
+So you get like a very important item.
+
+167
+00:08:03,410 --> 00:08:07,430
+So basically, how this interpretation stops the AI from working
+
+168
+00:08:07,430 --> 00:08:09,130
+incoherently is this.
+
+169
+00:08:09,130 --> 00:08:11,390
+So remember those things you did at school?
+
+170
+00:08:13,190 --> 00:08:20,850
+20 equals 8, 25 equals
+
+171
+00:08:20,850 --> 00:08:30,590
+10, and 6 equals 3.
+
+172
+00:08:31,309 --> 00:08:33,809
+What is 5 equals 1?
+
+173
+00:08:34,590 --> 00:08:36,429
+So this is just another implementation.
+
+174
+00:08:36,630 --> 00:08:40,809
+This is called my anti-AI hallucination system.
+
+175
+00:08:41,110 --> 00:08:44,950
+So basically, this 10, this is a system of linear
+
+176
+00:08:44,950 --> 00:08:47,070
+equations, but you know, the goal is for you to
+
+177
+00:08:47,070 --> 00:08:48,430
+understand what's happening here.
+
+178
+00:08:48,490 --> 00:08:51,990
+So you see 8 equals, 20 equals 8.
+
+179
+00:08:52,130 --> 00:08:53,070
+This is 25.
+
+180
+00:08:53,310 --> 00:08:55,170
+This is just one system of linear equations, but you
+
+181
+00:08:55,170 --> 00:08:57,070
+know, it's like a puzzle really.
+
+182
+00:08:57,250 --> 00:08:57,670
+It's a puzzle.
+
+183
+00:08:57,790 --> 00:08:59,550
+It's like one of those puzzles that gives you, so
+
+184
+00:08:59,550 --> 00:09:03,130
+20 equals 8 means one system's 20 is one system's
+
+185
+00:09:03,130 --> 00:09:03,950
+8, you know, another one's 8.
+
+186
+00:09:04,390 --> 00:09:06,470
+So there's a layer between, when you have an 8
+
+187
+00:09:06,470 --> 00:09:08,810
+in a Python file, you know, or number 8, you
+
+188
+00:09:08,810 --> 00:09:10,030
+know, what is 8 made of?
+
+189
+00:09:10,150 --> 00:09:12,230
+That's 20 in like a Lua, or C.
+
+190
+00:09:12,810 --> 00:09:16,750
+20 in Lua, because Lua is an interpretive language.
+
+191
+00:09:17,030 --> 00:09:20,210
+So when you have 25 in Lua, you have 10
+
+192
+00:09:20,210 --> 00:09:20,830
+in Python.
+
+193
+00:09:21,050 --> 00:09:23,530
+When you have 6 in Lua, you have 3.
+
+194
+00:09:24,090 --> 00:09:26,690
+And then when you have 5 in Python, Lua, you
+
+195
+00:09:26,690 --> 00:09:27,570
+have X.
+
+196
+00:09:27,810 --> 00:09:28,530
+But what is X?
+
+197
+00:09:29,470 --> 00:09:30,070
+We don't know X.
+
+198
+00:09:30,070 --> 00:09:32,570
+The goal of this thing is to ensure that the
+
+199
+00:09:32,570 --> 00:09:35,530
+AI or systems that are active never hallucinate or make
+
+200
+00:09:35,530 --> 00:09:38,950
+up their own interpretation of that assisted.
+
+201
+00:09:39,210 --> 00:09:45,330
+It must resolve the bi-directional, bi-directional directed side
+
+202
+00:09:45,330 --> 00:09:49,830
+-click graph with open access derivational tracing system to trace
+
+203
+00:09:49,830 --> 00:09:53,890
+all the sequences and the series of function calls.
+
+204
+00:09:54,330 --> 00:09:57,910
+Recursively, not imprecursively, but you know, it's resolving a circular
+
+205
+00:09:57,910 --> 00:10:02,790
+dependency to ensure that every dependency has a telemetry ID,
+
+206
+00:10:03,170 --> 00:10:06,150
+which is called a unique user ID, for that local
+
+207
+00:10:06,150 --> 00:10:10,430
+scope, local maximum scope, local minimum scope, based on what
+
+208
+00:10:10,430 --> 00:10:11,170
+is allowed to execute.
+
+209
+00:10:11,650 --> 00:10:13,630
+Now, this puzzle can be geometric as well.
+
+210
+00:10:13,830 --> 00:10:14,890
+It can be like a square.
+
+211
+00:10:16,310 --> 00:10:18,870
+This is like a cube, or it can be a
+
+212
+00:10:18,870 --> 00:10:19,470
+mathematical geometry.
+
+213
+00:10:19,910 --> 00:10:25,430
+This represents two acres, you know, two land, you know,
+
+214
+00:10:25,470 --> 00:10:25,830
+two land.
+
+215
+00:10:25,830 --> 00:10:29,650
+You know, this is like an example.
+
+216
+00:10:29,750 --> 00:10:31,370
+These are auxiliary constructions, you know.
+
+217
+00:10:31,590 --> 00:10:35,390
+They geometrically are things you make to solve the problem,
+
+218
+00:10:35,470 --> 00:10:35,710
+you know.
+
+219
+00:10:36,070 --> 00:10:40,170
+And this puzzle is just either geometric or algebraic puzzles,
+
+220
+00:10:40,290 --> 00:10:40,870
+which I call them.
+
+221
+00:10:40,970 --> 00:10:46,530
+They are geometric or algebraic.
+
+222
+00:10:47,330 --> 00:10:49,330
+Because, you know, they can be in the form of
+
+223
+00:10:49,330 --> 00:10:51,710
+a graph, a diagram like this, or it can be
+
+224
+00:10:51,710 --> 00:10:52,630
+a form of anything else.
+
+225
+00:10:53,390 --> 00:10:55,290
+Okay, Namdi, 3, 2, 1, pause.
+
+226
+00:10:56,290 --> 00:10:57,930
+Namdi, 3, 2, 1, take a picture.
+
+227
+00:10:58,430 --> 00:11:00,530
+Okay, so this is a puzzle here.
+
+228
+00:11:00,650 --> 00:11:01,410
+It can be a puzzle here.
+
+229
+00:11:01,530 --> 00:11:03,950
+But the thing about this number system is, you know,
+
+230
+00:11:04,070 --> 00:11:05,790
+this number system is non-universal.
+
+231
+00:11:06,070 --> 00:11:08,030
+We've never seen the number...
+
+232
+00:11:08,670 --> 00:11:09,910
+What is universal concepts?
+
+233
+00:11:10,210 --> 00:11:11,450
+You know, it's a concept we use.
+
+234
+00:11:11,650 --> 00:11:14,410
+We've never seen an actual number 9, because the number
+
+235
+00:11:14,410 --> 00:11:16,930
+9 in French, we've never seen the number 9 in
+
+236
+00:11:16,930 --> 00:11:17,190
+French.
+
+237
+00:11:17,690 --> 00:11:20,170
+A, B, C, D, F, G, that's it.
+
+238
+00:11:20,390 --> 00:11:23,070
+But, you know, we've only seen the number 3 in
+
+239
+00:11:23,070 --> 00:11:25,930
+real life, walking about, you know, Hi, I'm number 3.
+
+240
+00:11:26,630 --> 00:11:29,070
+But, you know, I'm the only number 3.
+
+241
+00:11:29,810 --> 00:11:32,210
+You haven't seen the number 1, 2, 3.
+
+242
+00:11:32,430 --> 00:11:33,050
+You haven't seen 3.
+
+243
+00:11:34,370 --> 00:11:37,690
+The number 3, you know, 3 in French, you know,
+
+244
+00:11:37,990 --> 00:11:40,510
+the spelt in French way, you know, walking about, it's
+
+245
+00:11:40,510 --> 00:11:41,550
+not an actual concept.
+
+246
+00:11:42,030 --> 00:11:42,730
+That's what I'm saying.
+
+247
+00:11:43,030 --> 00:11:45,670
+This system must remain coherent by the way they're modelled.
+
+248
+00:11:46,490 --> 00:11:48,990
+And this is why the PLP is the mother of
+
+249
+00:11:48,990 --> 00:11:50,290
+the pathological Bayesian infrastructure.
+
+250
+00:11:50,710 --> 00:11:54,030
+So, my goal is to ensure this works coherently.
+
+251
+00:11:54,510 --> 00:11:57,230
+I can try to say that, you know, this is
+
+252
+00:11:57,230 --> 00:11:59,030
+just a puzzle, yes, but you know, this can mean
+
+253
+00:11:59,030 --> 00:12:02,870
+a geometric alignment or a system, it's for anti-AI
+
+254
+00:12:02,870 --> 00:12:03,210
+isolation.
+
+255
+00:12:03,750 --> 00:12:06,050
+So I'm going to try to anti-AI, how do
+
+256
+00:12:06,050 --> 00:12:08,350
+you say, so the AI cannot isolate and interpret via
+
+257
+00:12:08,350 --> 00:12:08,950
+interpretation.
+
+258
+00:12:11,010 --> 00:12:12,210
+Too much interpretation.
+
+259
+00:12:14,530 --> 00:12:19,670
+So, basically, the ten of others is to remove a
+
+260
+00:12:19,670 --> 00:12:23,970
+vector bi-weekly, bi-daily, ensure it's a bi-DAG,
+
+261
+00:12:24,610 --> 00:12:26,830
+bi-organised digital trading system bag.
+
+262
+00:12:27,410 --> 00:12:29,690
+The sequence of instructions or sequence of series of steps,
+
+263
+00:12:30,130 --> 00:12:32,530
+a sequence is just a non-alternate series, but you
+
+264
+00:12:32,530 --> 00:12:35,410
+know, a series is what can alternate, can split between
+
+265
+00:12:35,410 --> 00:12:37,470
+interpretation based on context.
+
+266
+00:12:38,430 --> 00:12:39,450
+Which is context switching?
+
+267
+00:12:40,510 --> 00:12:42,110
+But you know, context switching, not code switching.
+
+268
+00:12:42,590 --> 00:12:44,670
+Because, you know, switching context is based on the user's
+
+269
+00:12:44,670 --> 00:12:45,390
+needs, you know, inputs.
+
+270
+00:12:46,890 --> 00:12:48,950
+Now, this is part of the Functor Frameworks.
+
+271
+00:12:50,890 --> 00:12:53,330
+Now, Functor Frameworks is very important for this, because those
+
+272
+00:12:53,330 --> 00:12:54,430
+are the mappings for the system.
+
+273
+00:12:54,850 --> 00:12:57,370
+If everything is a functor in an infrastructure, then you
+
+274
+00:12:57,370 --> 00:12:59,290
+can evolve it easier and seamlessly.
+
+275
+00:12:59,530 --> 00:13:01,930
+There's no need to slap a new component in it,
+
+276
+00:13:01,930 --> 00:13:03,030
+a new component.
+
+277
+00:13:04,650 --> 00:13:08,690
+Phenomenology-Phenomenal Protocol, consumer to observer, you know, it can
+
+278
+00:13:08,690 --> 00:13:10,590
+be resolved like that, it can go from observer to
+
+279
+00:13:10,590 --> 00:13:13,690
+consumer, consumer to observer, observer to consumer, in any way,
+
+280
+00:13:13,790 --> 00:13:15,950
+shape you want, but the goal is to resolve the
+
+281
+00:13:15,950 --> 00:13:17,190
+state of mind.
+
+282
+00:13:19,630 --> 00:13:20,170
+Functor...
+
+283
+00:13:21,610 --> 00:13:25,170
+So, PLP, Objective of PLP Framework.
+
+284
+00:13:25,630 --> 00:13:29,030
+Now, PLP stands for, just like example here, you can
+
+285
+00:13:29,030 --> 00:13:30,070
+see this, PLP.
+
+286
+00:13:30,450 --> 00:13:33,490
+So basically, the PLP stands for Phenomenology Learning Principle.
+
+287
+00:13:34,070 --> 00:13:36,890
+HOLE, now, HOLE stands for Homogeneous, or HOME.
+
+288
+00:13:37,370 --> 00:13:38,550
+I call it HOM, Homogeneous.
+
+289
+00:13:39,030 --> 00:13:41,370
+Now, you see this data 0, 0 here, this one
+
+290
+00:13:41,370 --> 00:13:41,830
+is uniform.
+
+291
+00:13:42,630 --> 00:13:45,010
+It goes like, 0, 0, so this is an input
+
+292
+00:13:45,010 --> 00:13:45,970
+to the matrix, 0, 0.
+
+293
+00:13:46,330 --> 00:13:47,730
+Now if you get another matrix, you get 0, 0,
+
+294
+00:13:47,850 --> 00:13:49,030
+you get the same matrix, 0, 0, you get 1,
+
+295
+00:13:49,090 --> 00:13:50,590
+1, you get 1, 1, same, you know, same.
+
+296
+00:13:50,890 --> 00:13:53,310
+And this is a PLP, here, here's just data, but
+
+297
+00:13:53,310 --> 00:13:55,330
+you know, it can be, it can be anything, but
+
+298
+00:13:55,330 --> 00:13:56,390
+it's just a standard form of it.
+
+299
+00:13:56,670 --> 00:13:59,390
+Now, anything that's input to this matrix is the input.
+
+300
+00:13:59,470 --> 00:14:02,650
+It can be in a vector form, sparse, it can
+
+301
+00:14:02,650 --> 00:14:05,530
+be in the same form, but you know, depending on
+
+302
+00:14:05,530 --> 00:14:07,210
+how you want to use it, you know, how the
+
+303
+00:14:07,210 --> 00:14:09,550
+data is structured, how you want to best transverse the
+
+304
+00:14:09,550 --> 00:14:13,050
+graph of the data, based on the open access deregistration
+
+305
+00:14:13,050 --> 00:14:16,770
+code, but you know, the goal of this vector is
+
+306
+00:14:16,770 --> 00:14:18,330
+to align with a uniform structure.
+
+307
+00:14:18,950 --> 00:14:21,950
+If it's heterogeneous data inputs, you know, that is a
+
+308
+00:14:21,950 --> 00:14:26,010
+uniform and can be modelled quickly.
+
+309
+00:14:26,630 --> 00:14:27,930
+This can be defined as sparse.
+
+310
+00:14:28,270 --> 00:14:30,130
+So the sparse concept is like, you know, if I
+
+311
+00:14:30,130 --> 00:14:33,310
+want to model some information in a uniform manner, you
+
+312
+00:14:33,310 --> 00:14:36,770
+know, I'll define that uniform thing, input, as the model,
+
+313
+00:14:36,870 --> 00:14:38,690
+in the model, because you know, if I have like
+
+314
+00:14:38,690 --> 00:14:42,830
+a data structure for a person's student ID, I don't
+
+315
+00:14:42,830 --> 00:14:46,970
+mix it with student credit card or bank card ID,
+
+316
+00:14:47,070 --> 00:14:49,330
+because you know, that's not identified by all the students,
+
+317
+00:14:49,550 --> 00:14:54,970
+but if I have a student number, student name, student
+
+318
+00:14:54,970 --> 00:14:59,370
+name is me, first name is Namdi, Namdi, second name
+
+319
+00:14:59,370 --> 00:15:01,450
+is Appala, and then DOB is my domain.
+
+320
+00:15:01,530 --> 00:15:03,470
+This is not a uniform data, because you know, this
+
+321
+00:15:03,470 --> 00:15:05,550
+is a uniform stream of information, just the first name
+
+322
+00:15:05,550 --> 00:15:08,670
+is what, a string, and then the second name is
+
+323
+00:15:08,670 --> 00:15:10,950
+a string, and the DOB is my domain.
+
+324
+00:15:11,470 --> 00:15:14,710
+Now, this applies to all homogenous data, but you know,
+
+325
+00:15:14,810 --> 00:15:17,310
+if I then have a, if I want to store
+
+326
+00:15:17,310 --> 00:15:21,770
+a unique key, which is called a key, a foreign
+
+327
+00:15:21,770 --> 00:15:27,190
+key, the foreign key, a recent ID, a foreign key,
+
+328
+00:15:28,270 --> 00:15:30,830
+and I put that there, and that foreign key, you
+
+329
+00:15:30,830 --> 00:15:33,710
+can use to go on the next student ID, but
+
+330
+00:15:33,710 --> 00:15:35,270
+you know, if it's not coherent, if it's not, if
+
+331
+00:15:35,270 --> 00:15:39,250
+it's like, if the information is not coherent, I can
+
+332
+00:15:39,250 --> 00:15:41,510
+get like a non-uniform model.
+
+333
+00:15:42,430 --> 00:15:44,830
+Oh, sorry, sorry, this is a non-uniform model, sorry.
+
+334
+00:15:45,090 --> 00:15:46,610
+So this one is non-uniform, because you know, it
+
+335
+00:15:46,610 --> 00:15:50,250
+has a, it represents a student, enough about a student,
+
+336
+00:15:50,390 --> 00:15:53,070
+a student name and number, kind of a boring, a
+
+337
+00:15:53,070 --> 00:15:56,470
+student name is like Namdi, and the other name is
+
+338
+00:15:56,470 --> 00:15:58,050
+string, but you know, so that's just one side of
+
+339
+00:15:58,050 --> 00:16:01,010
+it that's uniform, there's two strings there, now, the, what
+
+340
+00:16:01,010 --> 00:16:03,710
+is it called, it's uniform, because it has two strings
+
+341
+00:16:03,710 --> 00:16:06,530
+there, that's the first and last, but it makes it
+
+342
+00:16:06,530 --> 00:16:09,190
+non-uniform, because the date of birth is a, oh,
+
+343
+00:16:09,370 --> 00:16:12,610
+sorry, it's a string, so it's uniform, so it's, you
+
+344
+00:16:12,610 --> 00:16:15,530
+know, you put in the 19th of November, if I
+
+345
+00:16:15,530 --> 00:16:18,950
+put it in 2001, sorry, 19th of May 2001, that's
+
+346
+00:16:18,950 --> 00:16:19,950
+uniform, because they're all strings.
+
+347
+00:16:20,270 --> 00:16:23,370
+Now, if I ever put my age there, my age
+
+348
+00:16:23,370 --> 00:16:28,210
+string, four years old, and then age is 24 years
+
+349
+00:16:28,210 --> 00:16:30,610
+old, that becomes a non-uniform data, because you know,
+
+350
+00:16:30,750 --> 00:16:33,050
+there's something there, the data is non-uniform, you know,
+
+351
+00:16:33,330 --> 00:16:35,610
+you can put in another data structure, or we can
+
+352
+00:16:35,610 --> 00:16:38,550
+handle it another way, but you know, that data can
+
+353
+00:16:38,550 --> 00:16:41,350
+be something else, it can, it's structured, the model is
+
+354
+00:16:41,350 --> 00:16:45,050
+still structured, but the sparse locality construct, because you know,
+
+355
+00:16:45,350 --> 00:16:46,870
+I don't need it, if I want to define a
+
+356
+00:16:46,870 --> 00:16:49,810
+function now, I have to either, and this model doesn't
+
+357
+00:16:49,810 --> 00:16:52,230
+need the age, it doesn't have to need add the
+
+358
+00:16:52,230 --> 00:16:53,330
+age, you know, you don't need the age at all,
+
+359
+00:16:53,550 --> 00:16:54,990
+so you just need to discard the age, you know,
+
+360
+00:16:55,070 --> 00:16:57,310
+it doesn't need it, you can just make it private,
+
+361
+00:16:57,750 --> 00:17:00,170
+you can define it between a functor, you can define
+
+362
+00:17:00,170 --> 00:17:05,750
+a structure that handles the names, the string datatype, and
+
+363
+00:17:05,750 --> 00:17:09,069
+the names and the numbers, you know, this is called
+
+364
+00:17:09,069 --> 00:17:11,230
+a schema, this is what the OpenAccess schema is about.
+
+365
+00:17:11,750 --> 00:17:15,750
+Now, the schema for OpenAccess is services dot operation dot
+
+366
+00:17:15,750 --> 00:17:20,210
+openaccess dot division dot department dot county dot org, so
+
+367
+00:17:20,210 --> 00:17:24,010
+basically, that schema is a by DAG resolution case for
+
+368
+00:17:24,010 --> 00:17:27,210
+the KNN cluster of the search engine, so basically, if
+
+369
+00:17:27,210 --> 00:17:37,370
+you search for plasma services plasma systems dot operation services
+
+370
+00:17:37,370 --> 00:17:43,510
+brain computing interfaces dot operation plasmoid systems plasmoid systems
+
+371
+00:17:44,350 --> 00:17:48,870
+like, you know, plasma technology I'm making, dot openaccess dot
+
+372
+00:17:48,870 --> 00:17:56,230
+department, department is sales department and dot division computing dot
+
+373
+00:17:56,230 --> 00:18:04,510
+county county or ha county, the public housing dot o
+
+374
+00:18:04,510 --> 00:18:08,030
+-h-a and each i-j-a means like order
+
+375
+00:18:08,030 --> 00:18:12,890
+count dot org, and that's what I'm saying.
+
+376
+00:18:13,570 --> 00:18:17,230
+So, this function would ensure that the isomorphic layer between
+
+377
+00:18:17,230 --> 00:18:22,290
+the data is met with the interpretation of the OpenAccess
+
+378
+00:18:22,290 --> 00:18:28,190
+to resolve a system using the the puzzle framework, you
+
+379
+00:18:28,190 --> 00:18:29,710
+know, the kind of puzzle you're going to do as
+
+380
+00:18:29,710 --> 00:18:32,310
+a child, like one number is another number, two sticks
+
+381
+00:18:32,310 --> 00:18:35,410
+equals one big stick, you know, and ensure it works,
+
+382
+00:18:35,430 --> 00:18:36,570
+you know.
+
+383
+00:18:36,650 --> 00:18:39,230
+Now, that's what PSP's sparse data is, this is sparse
+
+384
+00:18:39,230 --> 00:18:42,110
+enough, because, you know, the sparse data is uniform, and
+
+385
+00:18:42,110 --> 00:18:44,010
+uniform data is the same type and everything, you know,
+
+386
+00:18:44,030 --> 00:18:46,670
+everything is consistent in the, you know, going from input,
+
+387
+00:18:46,810 --> 00:18:47,710
+you know, there's no different type.
+
+388
+00:18:48,050 --> 00:18:50,330
+Now, you get a PLP on non-uniform, which is
+
+389
+00:18:50,330 --> 00:18:52,950
+you know, non-uniformity in the data, but the same,
+
+390
+00:18:53,090 --> 00:18:56,030
+basically, the sparse they do the same thing, but the
+
+391
+00:18:56,030 --> 00:18:59,690
+they have the same model of that data structure, but
+
+392
+00:18:59,690 --> 00:19:02,210
+they're different, because you know, they are Hamiltonian resolved and
+
+393
+00:19:02,210 --> 00:19:07,250
+you know, basically, the Hamiltonian, basically, the one or zero,
+
+394
+00:19:07,410 --> 00:19:10,850
+one to zero, one, you know, is different, because, you
+
+395
+00:19:10,850 --> 00:19:13,370
+know, it means the same thing, but it's just a
+
+396
+00:19:13,370 --> 00:19:16,310
+different way of doing it, representing that same information or
+
+397
+00:19:16,310 --> 00:19:19,030
+problem, you know, it's like, you know, it's a bad
+
+398
+00:19:19,030 --> 00:19:19,370
+direction.
+
+399
+00:19:19,730 --> 00:19:23,490
+So, basically, I'm trying to explore you guys to explore,
+
+400
+00:19:23,530 --> 00:19:26,870
+I want you guys to explore this one, try to
+
+401
+00:19:26,870 --> 00:19:30,670
+implement a student ID system with a telemetry tracker that
+
+402
+00:19:31,450 --> 00:19:35,210
+ensures the schema of the system is null, nil, and
+
+403
+00:19:35,210 --> 00:19:38,310
+nil to null to data, but you know, if the
+
+404
+00:19:38,310 --> 00:19:40,490
+data is nil, there's no memory, no type, no value,
+
+405
+00:19:40,750 --> 00:19:42,950
+and then that's nothing to be used, and then that
+
+406
+00:19:42,950 --> 00:19:44,650
+will be reset to nil if there's nothing to be
+
+407
+00:19:44,650 --> 00:19:47,630
+collected, because the goal of this is to have the
+
+408
+00:19:47,630 --> 00:19:48,590
+bits fields aligned.
+
+409
+00:19:49,010 --> 00:19:52,250
+For example, if you have a RIFT system, RIFT ecosystem,
+
+410
+00:19:52,890 --> 00:19:54,170
+I'll just write it down here.
+
+411
+00:20:01,100 --> 00:20:05,640
+So, basically, I'm saying that the system for RIFT is,
+
+412
+00:20:05,800 --> 00:20:08,460
+like, RIFT stands for RIFT is a flexible translator, and
+
+413
+00:20:08,460 --> 00:20:12,020
+RIFT must ensure that the system is nil when you
+
+414
+00:20:12,020 --> 00:20:16,240
+have, like, a schema, a schema with, like, a nil
+
+415
+00:20:16,240 --> 00:20:19,620
+template, you know, nothing is being stored in the system,
+
+416
+00:20:20,140 --> 00:20:26,420
+and how RIFT handles schema is null, nil, nil will
+
+417
+00:20:26,420 --> 00:20:29,840
+be the default placeholder for no value, no memory, no
+
+418
+00:20:29,840 --> 00:20:32,180
+type, but, you know, the goal is for every data
+
+419
+00:20:32,180 --> 00:20:35,580
+structure to have something I call a bits field, like,
+
+420
+00:20:35,640 --> 00:20:38,540
+you know, the bits field is a memory allocator, you
+
+421
+00:20:38,540 --> 00:20:46,300
+know, say the string a string, it's 8 bytes, no,
+
+422
+00:20:46,440 --> 00:20:48,460
+a character is 8 bytes, how much is a string?
+
+423
+00:20:48,580 --> 00:20:50,200
+I don't know, but, you know, the size of the
+
+424
+00:20:50,200 --> 00:20:52,940
+string is, like, you know, a void pointer is a
+
+425
+00:20:52,940 --> 00:20:55,600
+nil, a void pointer is nil, a pointer to nothing,
+
+426
+00:20:56,460 --> 00:20:58,620
+nothing, before the memory is allocated, you know, you point
+
+427
+00:20:58,620 --> 00:21:01,400
+to nothing, that's a void pointer, but the size of
+
+428
+00:21:01,400 --> 00:21:07,740
+a data structure, size of a void pointer, a void
+
+429
+00:21:07,740 --> 00:21:10,720
+type, so, the null type is nothing, the null type
+
+430
+00:21:10,720 --> 00:21:12,560
+is the size of the void pointer, and that's what
+
+431
+00:21:12,560 --> 00:21:15,040
+the null type is, and the null type is nothing
+
+432
+00:21:15,040 --> 00:21:17,880
+being allocated and point to user and the data itself,
+
+433
+00:21:18,340 --> 00:21:19,900
+so I'm saying to you, you can define a programme
+
+434
+00:21:19,900 --> 00:21:24,080
+and a student ID that has a schema to resolve
+
+435
+00:21:24,080 --> 00:21:29,200
+students in a boarding school, so you've got the children,
+
+436
+00:21:29,940 --> 00:21:32,040
+I was in Queen of England boarding school, you've got
+
+437
+00:21:32,040 --> 00:21:36,400
+the children, and then you've got the young people, and
+
+438
+00:21:36,400 --> 00:21:39,140
+you've got the adults, the young people, and then you've
+
+439
+00:21:39,140 --> 00:21:44,800
+got the 18 years old, 20 years old, 22, it
+
+440
+00:21:44,800 --> 00:21:50,250
+doesn't matter, so the struggle would be to have the
+
+441
+00:21:50,250 --> 00:21:53,130
+data set again, and then the young people have different
+
+442
+00:21:53,130 --> 00:21:56,590
+kind of data, you know, there are still students yet,
+
+443
+00:21:56,650 --> 00:22:00,210
+but they have different requirements, so basically, the age of
+
+444
+00:22:00,210 --> 00:22:05,450
+the child is 1 to 12, 13 to 18, and
+
+445
+00:22:05,450 --> 00:22:07,930
+18 to 25, that's when you leave the boarding school,
+
+446
+00:22:10,010 --> 00:22:12,510
+that's when you're done with education anyway, so that's what
+
+447
+00:22:12,510 --> 00:22:14,350
+I'm saying to you, so the thing about this, you're
+
+448
+00:22:14,350 --> 00:22:16,910
+going to have a system that expresses null as null,
+
+449
+00:22:17,590 --> 00:22:19,330
+so basically, if I want a child, there has to
+
+450
+00:22:19,330 --> 00:22:22,570
+be some kind of coherence between the service offering and
+
+451
+00:22:22,570 --> 00:22:26,350
+the null template for the schema, based on spots, so
+
+452
+00:22:26,350 --> 00:22:32,890
+I can say children, uniform children, children type, age, date
+
+453
+00:22:32,890 --> 00:22:36,530
+of birth, but you know, everything about child type in
+
+454
+00:22:36,530 --> 00:22:39,870
+a computer, so I can say the child is male,
+
+455
+00:22:40,890 --> 00:22:44,730
+boy or girl, that's a Boolean, now this Boolean is
+
+456
+00:22:44,730 --> 00:22:48,830
+a Boolean data, a structured data, now, I get the
+
+457
+00:22:48,830 --> 00:22:57,210
+structure, the end is a bool, bool, neurodivergent, neurodivergent, that's
+
+458
+00:22:57,210 --> 00:23:04,770
+a bool, and then you have something else, that's just
+
+459
+00:23:04,770 --> 00:23:07,350
+one output, and then look here, I can put the
+
+460
+00:23:07,350 --> 00:23:09,970
+date of birth, the DLB, and the year, DLB is
+
+461
+00:23:09,970 --> 00:23:15,370
+name, name, name, first name, last name, and that would
+
+462
+00:23:15,370 --> 00:23:20,310
+be strings, strings, strings, and that would be it, and
+
+463
+00:23:20,310 --> 00:23:23,250
+then you can put this as a date time, but
+
+464
+00:23:23,250 --> 00:23:25,410
+the string is possible, so date time, so you can
+
+465
+00:23:25,410 --> 00:23:28,630
+think about things like that, if the system can represent
+
+466
+00:23:28,630 --> 00:23:31,530
+the data, because you know, basically, you can put a
+
+467
+00:23:31,530 --> 00:23:35,650
+calendar system here, but you know, in the database, it's
+
+468
+00:23:35,650 --> 00:23:37,990
+not a calendar system anymore, it's just a string, so
+
+469
+00:23:37,990 --> 00:23:40,730
+I can just put the calendar format here, and ISO
+
+470
+00:23:40,730 --> 00:23:44,610
+format, and then we'll have no, no, no, and then
+
+471
+00:23:44,610 --> 00:23:46,810
+that would be it, things like that, you know, to
+
+472
+00:23:46,810 --> 00:23:50,910
+ensure the system can maintain coherence over the life cycle
+
+473
+00:23:50,910 --> 00:23:55,030
+of that system, you know, using the derivation system to
+
+474
+00:23:55,030 --> 00:23:58,470
+create derivatives of the change, you know, if a system
+
+475
+00:23:58,470 --> 00:24:04,510
+needs something in a bidirectional way, handling interpretations for people,
+
+476
+00:24:04,850 --> 00:24:08,210
+especially as a first principle of that system, you know,
+
+477
+00:24:09,090 --> 00:24:11,010
+what could a first principle be, the first thing you
+
+478
+00:24:11,010 --> 00:24:13,290
+think of when you use a system, you know, it
+
+479
+00:24:13,290 --> 00:24:16,010
+just works the way it is, and to mitigate fear,
+
+480
+00:24:16,130 --> 00:24:19,690
+uncertainty, and doubt, that's the framework I've developed, so I
+
+481
+00:24:19,690 --> 00:24:23,250
+hope you guys take this video with the utmost dignity,
+
+482
+00:24:23,410 --> 00:24:25,830
+because this is what I'm saying, the PRP framework is
+
+483
+00:24:25,830 --> 00:24:30,270
+really about ensuring that the consumer can act and they
+
+484
+00:24:30,270 --> 00:24:35,490
+have coherence, it can work, it knows what it does,
+
+485
+00:24:35,930 --> 00:24:37,670
+why it does it, and why it's acting the way
+
+486
+00:24:37,670 --> 00:24:40,530
+it is, it doesn't hallucinate, because, you know, you can't
+
+487
+00:24:40,530 --> 00:24:44,130
+hallucinate, because, you know, the system resolves it kind of
+
+488
+00:24:44,130 --> 00:24:45,970
+a polygon manner, because, you know, if you have a
+
+489
+00:24:45,970 --> 00:24:48,930
+system that represents one thing one way, and the system
+
+490
+00:24:48,930 --> 00:24:50,990
+has an interpretation of that which represents it, it has
+
+491
+00:24:50,990 --> 00:24:53,350
+to be coherent between the two systems, and that's where
+
+492
+00:24:53,350 --> 00:24:55,610
+the puzzle, so remember, the puzzle for the thing is
+
+493
+00:24:55,610 --> 00:24:58,910
+like 20 equals 25 or something like that, no, 1
+
+494
+00:24:58,910 --> 00:25:02,210
+equals 6 when you get one unit or something you
+
+495
+00:25:02,210 --> 00:25:03,490
+get 6 of it on the other side, you know
+
+496
+00:25:03,490 --> 00:25:05,430
+that's what I'm saying, because, you know, these are definitions
+
+497
+00:25:05,430 --> 00:25:08,590
+of like a Python tuple, and a C struct, and,
+
+498
+00:25:08,690 --> 00:25:13,270
+you know, a Python dictionary, a Python dictionary, different between
+
+499
+00:25:13,270 --> 00:25:15,570
+a Python dictionary and a C structure, you know, they
+
+500
+00:25:15,570 --> 00:25:21,070
+represent objects, but they're different models of objects, you know,
+
+501
+00:25:21,070 --> 00:25:25,070
+the Python dictionary has different operations it can perform, and
+
+502
+00:25:25,070 --> 00:25:27,950
+that's what the same thing, they're not as much in
+
+503
+00:25:27,950 --> 00:25:31,590
+a standardised relation for the lilies of C, C structure
+
+504
+00:25:31,590 --> 00:25:35,010
+is not equivalent to a Python dictionary, and that's what
+
+505
+00:25:35,010 --> 00:25:37,030
+I'm basically talking about, the data models, how you model
+
+506
+00:25:37,030 --> 00:25:37,270
+that.
+
+507
+00:25:37,790 --> 00:25:40,570
+One more thing, the verb-noun counter-relation, you know,
+
+508
+00:25:41,130 --> 00:25:43,770
+as a standard specification, you guys should remember this, you
+
+509
+00:25:43,770 --> 00:25:46,770
+must remember this, it's a policy, it's a policy map,
+
+510
+00:25:47,030 --> 00:25:49,450
+no one should mess it up, you know, enforces as
+
+511
+00:25:49,450 --> 00:25:51,470
+a specification, you know, I want you guys to think
+
+512
+00:25:51,470 --> 00:25:51,970
+about this properly.
+
+513
+00:25:52,370 --> 00:25:54,650
+So if I have an error, something called a verb
+
+514
+00:25:54,650 --> 00:25:57,810
+-noun error, 1 to 5 is my error threshold, now,
+
+515
+00:25:58,170 --> 00:25:59,970
+that 1 to 5 is a low to high warning,
+
+516
+00:26:00,190 --> 00:26:05,630
+1, low, 2, low, medium, 3, medium, 4, medium, high,
+
+517
+00:26:05,950 --> 00:26:06,430
+and 5, high.
+
+518
+00:26:07,010 --> 00:26:10,770
+That warning system, so after the short coherence, so basically,
+
+519
+00:26:11,190 --> 00:26:16,650
+if I have a class, class low, low, low what?
+
+520
+00:26:16,650 --> 00:26:18,510
+Low warning.
+
+521
+00:26:19,370 --> 00:26:20,430
+Low warning.
+
+522
+00:26:21,230 --> 00:26:22,950
+Low warning error.
+
+523
+00:26:23,170 --> 00:26:23,690
+Low warning.
+
+524
+00:26:24,210 --> 00:26:26,990
+But this low warning, class low warning, this is like
+
+525
+00:26:26,990 --> 00:26:28,550
+a low warning, so the verb is what?
+
+526
+00:26:28,670 --> 00:26:28,970
+Low.
+
+527
+00:26:29,530 --> 00:26:30,630
+Low warning.
+
+528
+00:26:30,970 --> 00:26:31,770
+Medium warning.
+
+529
+00:26:32,870 --> 00:26:34,170
+Low-medium warning.
+
+530
+00:26:34,930 --> 00:26:35,970
+Medium warning.
+
+531
+00:26:37,270 --> 00:26:39,390
+Medium warning.
+
+532
+00:26:41,570 --> 00:26:42,930
+Medium-high warning.
+
+533
+00:26:43,930 --> 00:26:46,370
+Medium-high warning and high warning.
+
+534
+00:26:46,590 --> 00:26:48,650
+So this is 1 to 5, just like a system.
+
+535
+00:26:48,950 --> 00:26:50,730
+So basically, this is like a verb-noun pair, so
+
+536
+00:26:50,730 --> 00:26:53,930
+the low is the verb, it's low, it's low, low,
+
+537
+00:26:54,090 --> 00:26:56,810
+verb, noun, and the noun is a warning, you know,
+
+538
+00:26:56,890 --> 00:26:59,610
+it's warning you to, that you know, and that's like
+
+539
+00:26:59,610 --> 00:27:01,890
+a Python class, you can call it a class called
+
+540
+00:27:01,890 --> 00:27:03,050
+low warning.
+
+541
+00:27:03,310 --> 00:27:05,450
+It's a policy now, guys, enforce it everywhere you write
+
+542
+00:27:05,450 --> 00:27:05,690
+a code.
+
+543
+00:27:05,910 --> 00:27:07,470
+So if you write a code in OBS, you've got
+
+544
+00:27:07,470 --> 00:27:09,990
+to ensure that it's not something you bubble to, and
+
+545
+00:27:09,990 --> 00:27:11,930
+you bubble to a low warning, a low warning.
+
+546
+00:27:12,150 --> 00:27:14,390
+This is now represented in enum, you know, the enum
+
+547
+00:27:14,390 --> 00:27:16,770
+transition between the low warning states, and then you go
+
+548
+00:27:16,770 --> 00:27:21,050
+to the 6 to 11, which is part 5, and
+
+549
+00:27:21,050 --> 00:27:22,630
+you get the exceptions model.
+
+550
+00:27:22,850 --> 00:27:24,950
+Now, the exceptions is dual, so basically, as you can
+
+551
+00:27:24,950 --> 00:27:27,050
+go up, you can probably get to, can be interpreted
+
+552
+00:27:27,050 --> 00:27:29,130
+in two ways, you know, because you know, I want
+
+553
+00:27:29,130 --> 00:27:31,430
+to show you guys the standard, so the interpretation of
+
+554
+00:27:31,430 --> 00:27:34,290
+the exception is bidirectional, you know, so I can have
+
+555
+00:27:34,290 --> 00:27:36,090
+a warning in one system and not have a warning
+
+556
+00:27:36,090 --> 00:27:36,330
+in the other.
+
+557
+00:27:36,370 --> 00:27:37,290
+So again, what's my warning?
+
+558
+00:27:37,510 --> 00:27:38,630
+You know, what's my information?
+
+559
+00:27:39,310 --> 00:27:40,170
+It's not coming through.
+
+560
+00:27:40,610 --> 00:27:41,930
+And then you go, oh, there's an exception.
+
+561
+00:27:42,370 --> 00:27:47,830
+So the exception could be a low, low warning, a
+
+562
+00:27:47,830 --> 00:27:54,870
+low warning exception, low exception warning, low exception warning, but
+
+563
+00:27:54,870 --> 00:27:59,750
+you know, low warning exception, low warning error, low error
+
+564
+00:27:59,750 --> 00:28:02,810
+warning, low error warning, low warning, basically, this ensures that
+
+565
+00:28:02,810 --> 00:28:04,330
+the schema is flexible for you to remember what it
+
+566
+00:28:04,330 --> 00:28:04,470
+is.
+
+567
+00:28:04,790 --> 00:28:07,750
+Low exception warning to a high exception warning.
+
+568
+00:28:08,070 --> 00:28:10,010
+The goal of this is to ensure that everything you
+
+569
+00:28:10,010 --> 00:28:13,650
+write is, you know, can be tested, can be audited.
+
+570
+00:28:14,230 --> 00:28:17,210
+Just by looking at it, you know, auditing just means
+
+571
+00:28:17,210 --> 00:28:20,610
+you can fix it, you can try to fix the
+
+572
+00:28:20,610 --> 00:28:21,690
+little things, the nuances.
+
+573
+00:28:22,410 --> 00:28:25,470
+Auditing is just like inspecting, it's really introspection, inspecting that
+
+574
+00:28:25,470 --> 00:28:29,150
+this code is what it is you're trying to model.
+
+575
+00:28:29,870 --> 00:28:31,790
+You know, auditing is like, am I getting this code
+
+576
+00:28:31,790 --> 00:28:31,990
+right?
+
+577
+00:28:32,090 --> 00:28:33,630
+Can I see this function when I need to see
+
+578
+00:28:33,630 --> 00:28:33,810
+it?
+
+579
+00:28:35,010 --> 00:28:36,290
+Can I access it when I need to access it?
+
+580
+00:28:36,290 --> 00:28:38,190
+Can I, you know, that's what I'm saying, the audit
+
+581
+00:28:38,190 --> 00:28:40,750
+is very important for the tracing of the function calls
+
+582
+00:28:40,750 --> 00:28:44,490
+via the functions, which is markers of the functions in
+
+583
+00:28:44,490 --> 00:28:45,050
+that state's mind.
+
+584
+00:28:45,250 --> 00:28:47,350
+So what I'm saying to you, the goal of this
+
+585
+00:28:47,350 --> 00:28:50,110
+is to ensure that everything is standardised and conventional, this
+
+586
+00:28:50,110 --> 00:28:52,910
+is a verb noun model, which is like a verb
+
+587
+00:28:52,910 --> 00:28:57,850
+noun DAG, like a fast car, a speeding train, no,
+
+588
+00:28:58,070 --> 00:29:05,310
+no, wrong again, okay, a shaking dog, a shivering dog,
+
+589
+00:29:05,370 --> 00:29:09,890
+a shivering dog, that's a model, this is a shivering
+
+590
+00:29:09,890 --> 00:29:12,030
+dog, it can be a story or something, but a
+
+591
+00:29:12,030 --> 00:29:14,050
+shivering dog is a shivering cat, something that shivers, something
+
+592
+00:29:14,050 --> 00:29:22,410
+that's quiver, a fiat, a large mouse, the large mouse
+
+593
+00:29:22,410 --> 00:29:23,830
+is just a verb noun, so you've got to ensure
+
+594
+00:29:23,830 --> 00:29:25,990
+that the system is coherent for your own concept, this
+
+595
+00:29:25,990 --> 00:29:28,250
+is a concept for the model, so it's like the
+
+596
+00:29:28,250 --> 00:29:28,930
+verb is what?
+
+597
+00:29:29,150 --> 00:29:32,750
+The action to do, to act, to do, to use,
+
+598
+00:29:33,290 --> 00:29:39,050
+to walk, to talk, to fart, to laugh, that's the
+
+599
+00:29:39,050 --> 00:29:41,070
+verb, the verb is a doing word, and you can
+
+600
+00:29:41,070 --> 00:29:43,510
+add a verb if you want, an adverb to do,
+
+601
+00:29:43,630 --> 00:29:48,290
+like doing now, the adverb is just doing now, just
+
+602
+00:29:48,290 --> 00:29:51,450
+make sure it's the verb, because the adverb is just
+
+603
+00:29:51,450 --> 00:29:55,230
+doing something in the past, present or future, there's constraints
+
+604
+00:29:55,230 --> 00:29:58,970
+on it, you can use it to log errors,

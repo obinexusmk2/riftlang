@@ -26,4 +26,5 @@ policy_fn on message_memory {
 }
 
 /* Output */
+
 print(msg);

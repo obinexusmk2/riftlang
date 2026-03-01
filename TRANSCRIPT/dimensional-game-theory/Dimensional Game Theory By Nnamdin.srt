@@ -1,0 +1,4755 @@
+1
+00:00:08,070 --> 00:00:12,630
+(Transcribed by TurboScribe.ai. Go Unlimited to remove this message.) Okay guys, welcome to dimensional game theory from
+
+2
+00:00:12,630 --> 00:00:13,470
+chess the Unicode.
+
+3
+00:00:13,810 --> 00:00:16,090
+Okay, guys, this is important to me.
+
+4
+00:00:16,170 --> 00:00:17,450
+I want you guys to take with almost
+
+5
+00:00:17,450 --> 00:00:17,910
+dignity.
+
+6
+00:00:18,470 --> 00:00:21,150
+It's not to diminish game theory that it
+
+7
+00:00:21,150 --> 00:00:21,410
+is.
+
+8
+00:00:21,690 --> 00:00:23,910
+It's to expand the horizon of game theory
+
+9
+00:00:23,910 --> 00:00:24,850
+in the real world.
+
+10
+00:00:24,950 --> 00:00:27,390
+You know, dimensional game theory is the real
+
+11
+00:00:27,390 --> 00:00:29,090
+world's game theory, you know.
+
+12
+00:00:29,390 --> 00:00:31,390
+And it's based on dimensions, you know.
+
+13
+00:00:31,689 --> 00:00:33,090
+This project is to cover all you need,
+
+14
+00:00:33,290 --> 00:00:35,290
+just to get started with dimensional game theory.
+
+15
+00:00:35,290 --> 00:00:38,270
+But it's not to dismiss game theory, and
+
+16
+00:00:38,270 --> 00:00:41,030
+it's also an extension of the game theory
+
+17
+00:00:41,030 --> 00:00:42,770
+framework already here.
+
+18
+00:00:42,890 --> 00:00:45,510
+You know, it addresses real world problems, you
+
+19
+00:00:45,510 --> 00:00:46,990
+know, real world scenarios, you know.
+
+20
+00:00:47,250 --> 00:00:49,850
+That's the problem that dimensions have, the power
+
+21
+00:00:49,850 --> 00:00:50,510
+of the dimension.
+
+22
+00:00:51,090 --> 00:00:55,830
+Now, the dimension is something you define, you
+
+23
+00:00:55,830 --> 00:00:57,870
+know, to address this problem, you know.
+
+24
+00:00:58,330 --> 00:01:00,550
+I'm going to give the limits explanation, and
+
+25
+00:01:00,550 --> 00:01:01,330
+I'm going to go through this.
+
+26
+00:01:02,310 --> 00:01:05,070
+Okay, so I got my, here, okay, basically
+
+27
+00:01:05,070 --> 00:01:06,790
+here, I got this.
+
+28
+00:01:07,330 --> 00:01:10,190
+So, my pen here, red, orange, so my
+
+29
+00:01:10,190 --> 00:01:12,570
+ink here, you know, my pointer.
+
+30
+00:01:12,910 --> 00:01:16,830
+So, dimension, the dimension is, in naming terms,
+
+31
+00:01:16,970 --> 00:01:18,850
+dimension is a problem you define for what
+
+32
+00:01:18,850 --> 00:01:20,790
+you want to enforce in the game, you
+
+33
+00:01:20,790 --> 00:01:20,930
+know.
+
+34
+00:01:21,430 --> 00:01:22,790
+It's like, you know, red team, blue team,
+
+35
+00:01:22,950 --> 00:01:25,770
+what's the definition, what's the particular definition, you
+
+36
+00:01:25,770 --> 00:01:25,890
+know.
+
+37
+00:01:26,230 --> 00:01:28,890
+In chess, you know, this attack dimension, defence
+
+38
+00:01:28,890 --> 00:01:30,630
+dimension, and offence definition.
+
+39
+00:01:30,630 --> 00:01:34,490
+Now, these dimensions represent problems, you know.
+
+40
+00:01:34,630 --> 00:01:35,750
+I want to attack, I'm going to give
+
+41
+00:01:35,750 --> 00:01:36,350
+the champions to attack.
+
+42
+00:01:37,050 --> 00:01:38,170
+I want to set up an offence with
+
+43
+00:01:38,170 --> 00:01:38,470
+a pawn.
+
+44
+00:01:39,330 --> 00:01:42,510
+I want to give defence, more defence, defend.
+
+45
+00:01:43,170 --> 00:01:43,970
+What is the strategy?
+
+46
+00:01:45,470 --> 00:01:46,890
+You know, there's got, you got a lot
+
+47
+00:01:46,890 --> 00:01:48,950
+of strategies like the knight, I can't remember
+
+48
+00:01:48,950 --> 00:01:49,850
+the name, the lover.
+
+49
+00:01:51,390 --> 00:01:52,650
+You got the rook strategies, you know, like
+
+50
+00:01:52,650 --> 00:01:53,610
+other ones you can use.
+
+51
+00:01:54,050 --> 00:01:58,050
+Those are fragmented, you know.
+
+52
+00:01:58,530 --> 00:02:00,470
+Because, you know, the attack dimension overlaps with
+
+53
+00:02:00,470 --> 00:02:01,870
+the defence dimension, you know.
+
+54
+00:02:02,150 --> 00:02:03,990
+You don't have a perfect attack, you know.
+
+55
+00:02:04,130 --> 00:02:05,690
+You have something that's attack, but it's doing
+
+56
+00:02:05,690 --> 00:02:07,370
+defence at the same time, you know.
+
+57
+00:02:07,630 --> 00:02:09,490
+Or sometimes it's defence, or offence, doing attack,
+
+58
+00:02:09,610 --> 00:02:11,350
+you know, vice versa, across all dimensions.
+
+59
+00:02:13,090 --> 00:02:14,810
+One dimension with a game theory, oh, that's
+
+60
+00:02:14,810 --> 00:02:16,210
+what I ordered you to call it.
+
+61
+00:02:17,670 --> 00:02:18,930
+I'll be sure to call it.
+
+62
+00:02:19,490 --> 00:02:20,130
+Okay, yes.
+
+63
+00:02:20,130 --> 00:02:23,670
+What dimension game theory really gives you?
+
+64
+00:02:23,750 --> 00:02:26,390
+You know, in a solid framework for isolating
+
+65
+00:02:26,390 --> 00:02:28,750
+those algorithms in the attack, defence, or offence,
+
+66
+00:02:29,030 --> 00:02:29,630
+you know.
+
+67
+00:02:29,690 --> 00:02:32,030
+I'm creating new dimensions that resolve the direct
+
+68
+00:02:32,030 --> 00:02:33,430
+exactly grow up.
+
+69
+00:02:34,190 --> 00:02:36,350
+So, you can perform each dimension and evolve
+
+70
+00:02:36,350 --> 00:02:38,610
+the dimension in these threads when you use
+
+71
+00:02:38,610 --> 00:02:39,830
+these animations, you know.
+
+72
+00:02:40,150 --> 00:02:41,790
+That is the first foundation I want to
+
+73
+00:02:41,790 --> 00:02:42,370
+give you.
+
+74
+00:02:42,630 --> 00:02:44,370
+Okay, let's continue.
+
+75
+00:02:45,650 --> 00:02:48,010
+Content, the big idea, the big picture, you
+
+76
+00:02:48,010 --> 00:02:48,490
+know.
+
+77
+00:02:48,490 --> 00:02:50,350
+No, the big picture of the mission game
+
+78
+00:02:50,350 --> 00:02:52,410
+theory is never to the mission, because it
+
+79
+00:02:52,410 --> 00:02:53,590
+gives you, you know.
+
+80
+00:02:53,790 --> 00:02:56,250
+The big picture is what some, you know,
+
+81
+00:02:56,390 --> 00:02:59,210
+in numerous terms, it gives you the dynamic
+
+82
+00:02:59,210 --> 00:03:01,210
+strategies, you know, dynamic.
+
+83
+00:03:01,650 --> 00:03:03,710
+The real world is dynamic, you know, model
+
+84
+00:03:03,710 --> 00:03:04,430
+that, you know.
+
+85
+00:03:04,570 --> 00:03:06,910
+It's model real world systems, you know, real
+
+86
+00:03:06,910 --> 00:03:09,870
+world games, you know, as dimensions.
+
+87
+00:03:10,270 --> 00:03:12,310
+These are called dynamic algorithms, you know.
+
+88
+00:03:12,530 --> 00:03:13,630
+Or I'll call them a lot of original
+
+89
+00:03:13,630 --> 00:03:14,510
+algorithms, you know.
+
+90
+00:03:14,510 --> 00:03:16,890
+Because they evolve with human cognition, you know,
+
+91
+00:03:16,890 --> 00:03:18,630
+you know, and consciousness, you know, new human
+
+92
+00:03:18,630 --> 00:03:19,370
+position, you know.
+
+93
+00:03:19,530 --> 00:03:22,250
+I call them evolution strategies, you know.
+
+94
+00:03:22,410 --> 00:03:25,650
+These strategies evolve based on the information, you
+
+95
+00:03:25,650 --> 00:03:27,610
+know, who will learn the enemy loop or
+
+96
+00:03:27,610 --> 00:03:28,510
+what's something, you know.
+
+97
+00:03:28,770 --> 00:03:32,170
+It's about ensuring that, you know, the system
+
+98
+00:03:32,170 --> 00:03:35,690
+actually has a goal, you know.
+
+99
+00:03:35,950 --> 00:03:39,750
+And that goal is based on dynamic adaptation
+
+100
+00:03:39,750 --> 00:03:41,830
+in real world context, you know.
+
+101
+00:03:41,830 --> 00:03:44,910
+It allows for you to be authentic in
+
+102
+00:03:44,910 --> 00:03:46,930
+expression of game theory.
+
+103
+00:03:47,350 --> 00:03:49,610
+Of game theory without being bogged down with
+
+104
+00:03:49,610 --> 00:03:54,070
+static linear systems, you know, that grow out
+
+105
+00:03:54,070 --> 00:03:56,990
+of linear bound complexities.
+
+106
+00:03:58,830 --> 00:03:59,210
+Let's continue.
+
+107
+00:03:59,870 --> 00:04:01,690
+Now, let's check the structure, you know.
+
+108
+00:04:01,870 --> 00:04:02,470
+Go look at the big picture.
+
+109
+00:04:02,650 --> 00:04:03,890
+No, this is going to use dead projection
+
+110
+00:04:03,890 --> 00:04:05,030
+against UK security.
+
+111
+00:04:05,470 --> 00:04:07,250
+Advancement, algorithm call and the robot applications.
+
+112
+00:04:07,390 --> 00:04:08,170
+Okay, guys, let's go.
+
+113
+00:04:09,410 --> 00:04:10,210
+System integration.
+
+114
+00:04:10,810 --> 00:04:12,970
+And take away the context.
+
+115
+00:04:14,910 --> 00:04:16,370
+Okay, part one, the big idea.
+
+116
+00:04:18,350 --> 00:04:20,029
+Dimension of game theory, the size of perfect
+
+117
+00:04:20,029 --> 00:04:20,450
+strategy.
+
+118
+00:04:21,870 --> 00:04:24,650
+From chest algorithms to hacking Unicode, a framework
+
+119
+00:04:24,650 --> 00:04:26,070
+for competition, you know.
+
+120
+00:04:26,590 --> 00:04:27,050
+Okay, basically.
+
+121
+00:04:27,610 --> 00:04:29,790
+Basically, this one's saying to you.
+
+122
+00:04:30,050 --> 00:04:32,230
+The chest algorithm and Unicode hacking are the
+
+123
+00:04:32,230 --> 00:04:32,770
+same, you know.
+
+124
+00:04:33,090 --> 00:04:35,390
+This competition, red-boom to business matter and
+
+125
+00:04:35,390 --> 00:04:36,510
+the rule of thumb, you know, you're going
+
+126
+00:04:36,510 --> 00:04:37,030
+to have enemies.
+
+127
+00:04:37,190 --> 00:04:39,390
+You're going to have people want to infer
+
+128
+00:04:39,390 --> 00:04:39,990
+to your systems.
+
+129
+00:04:39,990 --> 00:04:41,750
+You know, you can model them.
+
+130
+00:04:41,890 --> 00:04:42,870
+You can model a parallel algorithm in one
+
+131
+00:04:42,870 --> 00:04:43,230
+dimension.
+
+132
+00:04:44,190 --> 00:04:44,850
+But you're going to grow.
+
+133
+00:04:44,870 --> 00:04:45,930
+You're going to grow in a competitive balance,
+
+134
+00:04:46,150 --> 00:04:46,610
+you know, dimensions.
+
+135
+00:04:46,870 --> 00:04:47,930
+You're going to neglect other dimensions.
+
+136
+00:04:48,650 --> 00:04:50,230
+If you think the algorithm is perfect, you
+
+137
+00:04:50,230 --> 00:04:52,550
+know, it only does one dimension, you know,
+
+138
+00:04:52,850 --> 00:04:53,290
+not such an attack.
+
+139
+00:04:53,430 --> 00:04:54,690
+But it doesn't do the general defence.
+
+140
+00:04:55,130 --> 00:04:57,930
+But it's offensive ways to explain the difference.
+
+141
+00:04:58,490 --> 00:05:00,710
+You know, this one, dimension of game theory,
+
+142
+00:05:00,810 --> 00:05:05,410
+really has to address the balance of entropy
+
+143
+00:05:05,410 --> 00:05:06,050
+in the system.
+
+144
+00:05:06,190 --> 00:05:07,370
+In the real world, you know, the balance
+
+145
+00:05:07,370 --> 00:05:07,910
+of the system.
+
+146
+00:05:07,910 --> 00:05:08,370
+Okay.
+
+147
+00:05:09,310 --> 00:05:11,770
+The limits of cognitive history, okay, static and
+
+148
+00:05:11,770 --> 00:05:11,990
+rigid.
+
+149
+00:05:12,910 --> 00:05:16,810
+Realised on fixed payoff matrices and equilibrium concepts
+
+150
+00:05:16,810 --> 00:05:19,210
+that struggle with dynamic real-world complexity.
+
+151
+00:05:20,290 --> 00:05:21,670
+You know, this is a big thing.
+
+152
+00:05:22,210 --> 00:05:23,550
+Back there for the classical development.
+
+153
+00:05:23,910 --> 00:05:24,950
+Classical degree is too static.
+
+154
+00:05:25,110 --> 00:05:25,650
+It's too rigid.
+
+155
+00:05:25,870 --> 00:05:27,370
+Every input has an output, you know.
+
+156
+00:05:27,590 --> 00:05:28,830
+But that input never evolves.
+
+157
+00:05:29,070 --> 00:05:30,390
+You know, my business adoption evolution.
+
+158
+00:05:32,050 --> 00:05:36,150
+The fixed payoff is like, you know, basically,
+
+159
+00:05:36,870 --> 00:05:38,330
+it's like, you know, if I have someone
+
+160
+00:05:38,330 --> 00:05:40,890
+knowing what I'm doing in the real world,
+
+161
+00:05:41,050 --> 00:05:41,970
+you know, I know what they're going to
+
+162
+00:05:41,970 --> 00:05:42,310
+do, too.
+
+163
+00:05:42,930 --> 00:05:45,310
+So if it's a tie, if it comes
+
+164
+00:05:45,310 --> 00:05:47,270
+from the equilibrium, which is like a tie,
+
+165
+00:05:47,470 --> 00:05:48,790
+you know, it's a tie, you know, I
+
+166
+00:05:48,790 --> 00:05:49,270
+know.
+
+167
+00:05:49,450 --> 00:05:50,190
+Then I start looking at my, you know,
+
+168
+00:05:50,310 --> 00:05:50,730
+60-50.
+
+169
+00:05:51,290 --> 00:05:54,510
+Then I risk it or lose it all,
+
+170
+00:05:54,570 --> 00:05:54,750
+you know.
+
+171
+00:05:55,110 --> 00:05:57,770
+Then my head, I'm thinking psychologically, I'm trying
+
+172
+00:05:57,770 --> 00:05:59,190
+to risk everything, you know, because this guy
+
+173
+00:05:59,190 --> 00:05:59,810
+is onto me.
+
+174
+00:05:59,810 --> 00:06:01,710
+And the other guy is thinking, yes, I'm
+
+175
+00:06:01,710 --> 00:06:02,650
+going to risk everything, you know.
+
+176
+00:06:02,850 --> 00:06:03,630
+And then it comes to tie.
+
+177
+00:06:03,870 --> 00:06:06,110
+Or in the other case, it comes to
+
+178
+00:06:06,110 --> 00:06:06,910
+the worst one, you know.
+
+179
+00:06:07,130 --> 00:06:07,910
+They don't risk anything.
+
+180
+00:06:08,130 --> 00:06:09,290
+And they both lose, you know.
+
+181
+00:06:09,550 --> 00:06:11,870
+You know, because there's no clear distinction between
+
+182
+00:06:11,870 --> 00:06:14,090
+who's going to lose and not win.
+
+183
+00:06:14,290 --> 00:06:15,710
+Because, you know, the game is an equation
+
+184
+00:06:15,710 --> 00:06:18,470
+of a tie or equilibrium anyway, you know.
+
+185
+00:06:18,710 --> 00:06:19,990
+Because, you know, that's the model of the
+
+186
+00:06:19,990 --> 00:06:20,550
+chess and everything.
+
+187
+00:06:21,090 --> 00:06:23,250
+The thing is, it fails to come, new
+
+188
+00:06:23,250 --> 00:06:23,770
+parts are suitable.
+
+189
+00:06:24,150 --> 00:06:26,430
+Basically, there's new algorithms, new ways of doing
+
+190
+00:06:26,430 --> 00:06:27,270
+stuff, you know.
+
+191
+00:06:27,270 --> 00:06:29,730
+And there's many ways we can come up
+
+192
+00:06:29,730 --> 00:06:31,670
+with scenarios to problem using other theories.
+
+193
+00:06:32,210 --> 00:06:33,470
+You know, all the scenarios, you know.
+
+194
+00:06:33,830 --> 00:06:35,410
+You know, they can directly do it.
+
+195
+00:06:35,790 --> 00:06:38,150
+Or they can use adapted algorithms to create
+
+196
+00:06:38,150 --> 00:06:40,410
+new solutions to the problem.
+
+197
+00:06:40,550 --> 00:06:42,790
+You know, rule complexity is a big thing.
+
+198
+00:06:43,530 --> 00:06:45,890
+But dimension and game theory addresses that using
+
+199
+00:06:45,890 --> 00:06:48,170
+dimensional models of that strategy.
+
+200
+00:06:48,870 --> 00:06:50,430
+We need a rule of three and practise.
+
+201
+00:06:51,430 --> 00:06:52,690
+And that seems a grounds to presume.
+
+202
+00:06:53,030 --> 00:06:53,650
+It's too rigid.
+
+203
+00:06:53,790 --> 00:06:54,630
+It's too static, you know.
+
+204
+00:06:54,630 --> 00:06:57,370
+There's nothing, you know, you can predict input
+
+205
+00:06:57,370 --> 00:06:58,470
+from the output, you know.
+
+206
+00:06:58,930 --> 00:07:00,230
+It's too mathematical.
+
+207
+00:07:00,610 --> 00:07:02,190
+It's too slow.
+
+208
+00:07:02,370 --> 00:07:02,850
+It's not slow.
+
+209
+00:07:02,990 --> 00:07:05,170
+It's like, it's slow, but it's too box.
+
+210
+00:07:05,610 --> 00:07:07,270
+It allows you to, the structure is too
+
+211
+00:07:07,270 --> 00:07:08,010
+rigid, you know.
+
+212
+00:07:08,270 --> 00:07:10,830
+There's no flexibility even for the user who
+
+213
+00:07:10,830 --> 00:07:11,830
+wants to stay in that framework.
+
+214
+00:07:12,050 --> 00:07:14,910
+Because the classical game theory does not adapt
+
+215
+00:07:14,910 --> 00:07:16,870
+for their context.
+
+216
+00:07:17,290 --> 00:07:20,110
+Because the inputs never are never more vectors.
+
+217
+00:07:20,510 --> 00:07:21,990
+They're just dimensions, no dimensions.
+
+218
+00:07:22,290 --> 00:07:23,230
+Just single layer dimensions.
+
+219
+00:07:23,230 --> 00:07:24,270
+No, that's not a classical.
+
+220
+00:07:24,430 --> 00:07:25,050
+Just single layer.
+
+221
+00:07:25,530 --> 00:07:26,530
+Just killer dimensions.
+
+222
+00:07:27,210 --> 00:07:29,230
+Only what inputs, you know.
+
+223
+00:07:30,570 --> 00:07:31,950
+Strategy dimensions are the axis of play.
+
+224
+00:07:32,890 --> 00:07:35,290
+Decomposing any gun between dependence non-overlapping axis,
+
+225
+00:07:35,790 --> 00:07:37,970
+each dimension can be optimised separately while contributing
+
+226
+00:07:37,970 --> 00:07:39,550
+global carrying his strategy.
+
+227
+00:07:40,310 --> 00:07:42,150
+You know, basically, it's like a sound mixer.
+
+228
+00:07:42,410 --> 00:07:44,610
+You don't have to, you don't, you don't
+
+229
+00:07:44,610 --> 00:07:46,830
+have to, you don't just have the volume.
+
+230
+00:07:47,230 --> 00:07:48,870
+You have the bass, treble, and mid-range,
+
+231
+00:07:49,070 --> 00:07:49,210
+you know.
+
+232
+00:07:49,510 --> 00:07:50,270
+This I'm saying, you know.
+
+233
+00:07:50,510 --> 00:07:52,830
+You have, basically, it's like a sound mixer.
+
+234
+00:07:52,830 --> 00:07:55,330
+This dimension represents a purpose.
+
+235
+00:07:55,590 --> 00:07:56,830
+Like, you know, a master volume.
+
+236
+00:07:57,210 --> 00:07:57,810
+It's just for the volume.
+
+237
+00:07:58,150 --> 00:07:59,830
+But, you know, you can tell by the
+
+238
+00:07:59,830 --> 00:08:00,490
+bass, you know.
+
+239
+00:08:00,510 --> 00:08:01,170
+You can tell by treble.
+
+240
+00:08:01,570 --> 00:08:02,310
+You can tell by the mid-range, you
+
+241
+00:08:02,310 --> 00:08:02,430
+know.
+
+242
+00:08:02,570 --> 00:08:05,230
+All the songs that make the sound more
+
+243
+00:08:05,230 --> 00:08:06,150
+in tune with the environment.
+
+244
+00:08:06,430 --> 00:08:06,550
+You know.
+
+245
+00:08:07,110 --> 00:08:08,390
+The thing about dimension game creating.
+
+246
+00:08:08,850 --> 00:08:11,370
+Once you analytically express those things as individuals,
+
+247
+00:08:11,550 --> 00:08:11,830
+you know.
+
+248
+00:08:12,330 --> 00:08:13,970
+As a core, as core individuals.
+
+249
+00:08:14,270 --> 00:08:16,110
+Like, you know, there's no, there's no thing
+
+250
+00:08:16,110 --> 00:08:17,390
+about it, you know.
+
+251
+00:08:17,650 --> 00:08:19,550
+The game is here, strategic, you know.
+
+252
+00:08:19,810 --> 00:08:21,170
+It allows for flexibility.
+
+253
+00:08:21,170 --> 00:08:23,450
+Because the dimensions are isolated.
+
+254
+00:08:24,050 --> 00:08:24,550
+They're independent.
+
+255
+00:08:25,810 --> 00:08:26,290
+They're independent.
+
+256
+00:08:26,550 --> 00:08:27,930
+Don't develop over the axis, you know.
+
+257
+00:08:28,070 --> 00:08:29,410
+The dimension is like, you know.
+
+258
+00:08:29,550 --> 00:08:31,130
+Attack, attack algorithm is not a defence algorithm.
+
+259
+00:08:31,510 --> 00:08:33,250
+Defence algorithm is not a defence algorithm.
+
+260
+00:08:33,870 --> 00:08:36,309
+Defence algorithm is not a, it's not a,
+
+261
+00:08:36,390 --> 00:08:38,669
+it's not a, it's not a formation algorithm
+
+262
+00:08:38,669 --> 00:08:39,730
+in chess, you know.
+
+263
+00:08:40,270 --> 00:08:42,150
+You know, accessory, good dimension algorithms.
+
+264
+00:08:42,350 --> 00:08:43,650
+How to organise the best structure.
+
+265
+00:08:44,010 --> 00:08:45,070
+Get the perfect game.
+
+266
+00:08:45,470 --> 00:08:46,650
+And not gonna overlap them.
+
+267
+00:08:47,630 --> 00:08:48,890
+Okay, the perfect game theory.
+
+268
+00:08:49,270 --> 00:08:50,650
+In the zero sum game.
+
+269
+00:08:51,270 --> 00:08:52,270
+With perfect information.
+
+270
+00:08:52,430 --> 00:08:53,410
+If both plays are in place of more
+
+271
+00:08:53,410 --> 00:08:53,730
+strategies.
+
+272
+00:08:54,450 --> 00:08:55,350
+You know, dimension.
+
+273
+00:08:56,090 --> 00:08:57,350
+The game will result in a limited time.
+
+274
+00:08:57,830 --> 00:08:57,970
+You know.
+
+275
+00:08:58,190 --> 00:08:59,490
+That's the truth, you know.
+
+276
+00:08:59,590 --> 00:08:59,790
+You know.
+
+277
+00:09:00,330 --> 00:09:01,110
+That's the truth, guys.
+
+278
+00:09:01,350 --> 00:09:01,470
+You know.
+
+279
+00:09:02,090 --> 00:09:02,510
+Guys, you know.
+
+280
+00:09:02,570 --> 00:09:02,990
+This is no joke.
+
+281
+00:09:03,430 --> 00:09:05,690
+A non-lie outcome to prove a strategy
+
+282
+00:09:05,690 --> 00:09:06,210
+imbalance.
+
+283
+00:09:06,530 --> 00:09:07,670
+This is a signal we can exploit.
+
+284
+00:09:09,090 --> 00:09:09,730
+A corollary.
+
+285
+00:09:09,910 --> 00:09:10,210
+What's the corollary?
+
+286
+00:09:10,370 --> 00:09:11,950
+A non-tie outcome is proof.
+
+287
+00:09:14,870 --> 00:09:15,870
+Of structuring imbalance.
+
+288
+00:09:16,230 --> 00:09:16,890
+This is a signal we can exploit.
+
+289
+00:09:17,110 --> 00:09:17,810
+You know, that's a corollary.
+
+290
+00:09:17,810 --> 00:09:18,410
+You know.
+
+291
+00:09:18,410 --> 00:09:19,190
+It's not an axiom.
+
+292
+00:09:19,230 --> 00:09:19,610
+It's like, you know.
+
+293
+00:09:19,670 --> 00:09:20,030
+It's not.
+
+294
+00:09:20,590 --> 00:09:21,650
+It's an axiom, yes.
+
+295
+00:09:22,090 --> 00:09:23,870
+But it's a starting point for addressing this
+
+296
+00:09:23,870 --> 00:09:24,650
+perfect game problem.
+
+297
+00:09:24,750 --> 00:09:24,890
+You know.
+
+298
+00:09:25,130 --> 00:09:25,390
+Because, you know.
+
+299
+00:09:27,610 --> 00:09:28,050
+It's like.
+
+300
+00:09:28,230 --> 00:09:29,630
+I mean, chess is a perfect game.
+
+301
+00:09:29,850 --> 00:09:29,950
+You know.
+
+302
+00:09:30,090 --> 00:09:30,670
+And he plays for the chess.
+
+303
+00:09:30,810 --> 00:09:31,550
+And I play for the YouTube.
+
+304
+00:09:32,210 --> 00:09:33,990
+The game is a tie.
+
+305
+00:09:34,610 --> 00:09:35,050
+It's a tie.
+
+306
+00:09:35,470 --> 00:09:35,590
+You know.
+
+307
+00:09:35,930 --> 00:09:36,070
+You know.
+
+308
+00:09:36,570 --> 00:09:39,010
+And the game always be a deterministic tie.
+
+309
+00:09:39,810 --> 00:09:40,450
+DFA tie.
+
+310
+00:09:40,730 --> 00:09:40,850
+No.
+
+311
+00:09:41,070 --> 00:09:41,750
+Not an NFA tie.
+
+312
+00:09:42,050 --> 00:09:42,310
+On a system.
+
+313
+00:09:42,950 --> 00:09:43,350
+Nothing there.
+
+314
+00:09:43,490 --> 00:09:43,590
+You know.
+
+315
+00:09:43,650 --> 00:09:44,410
+I don't know NFA yet.
+
+316
+00:09:46,250 --> 00:09:47,750
+But it's a DFA tie.
+
+317
+00:09:48,110 --> 00:09:48,950
+It's just like the system.
+
+318
+00:09:49,450 --> 00:09:50,450
+Understand you play perfectly.
+
+319
+00:09:50,790 --> 00:09:51,670
+I play for the game.
+
+320
+00:09:52,270 --> 00:09:52,530
+You know.
+
+321
+00:09:52,590 --> 00:09:54,970
+It doesn't matter what the game was.
+
+322
+00:09:55,170 --> 00:09:55,310
+You know.
+
+323
+00:09:55,630 --> 00:09:57,690
+And that's why the perfect game theory matters.
+
+324
+00:09:58,350 --> 00:09:58,450
+No.
+
+325
+00:09:58,610 --> 00:09:59,610
+The theorem is true.
+
+326
+00:09:59,790 --> 00:10:00,310
+It's a better term.
+
+327
+00:10:00,470 --> 00:10:00,630
+It's true.
+
+328
+00:10:00,790 --> 00:10:00,890
+You know.
+
+329
+00:10:00,990 --> 00:10:01,870
+It applies to all games.
+
+330
+00:10:02,250 --> 00:10:02,730
+In the end dimensions.
+
+331
+00:10:02,930 --> 00:10:03,030
+You know.
+
+332
+00:10:03,110 --> 00:10:03,490
+Where we do.
+
+333
+00:10:04,170 --> 00:10:05,170
+But the corollary is.
+
+334
+00:10:05,490 --> 00:10:06,770
+If we have a strategic imbalance.
+
+335
+00:10:07,250 --> 00:10:08,030
+In any other dimension.
+
+336
+00:10:08,370 --> 00:10:09,270
+I play more than attack.
+
+337
+00:10:09,610 --> 00:10:10,050
+He plays less.
+
+338
+00:10:10,710 --> 00:10:11,110
+Basically.
+
+339
+00:10:11,570 --> 00:10:12,550
+If I play a perfect defence.
+
+340
+00:10:13,150 --> 00:10:13,610
+And then he keeps.
+
+341
+00:10:13,750 --> 00:10:14,390
+He plays a wide range.
+
+342
+00:10:14,390 --> 00:10:15,110
+No.
+
+343
+00:10:15,370 --> 00:10:16,310
+Not so perfect defence.
+
+344
+00:10:16,470 --> 00:10:16,570
+You know.
+
+345
+00:10:17,250 --> 00:10:17,710
+I have.
+
+346
+00:10:17,950 --> 00:10:19,250
+I can couple this with my attacks.
+
+347
+00:10:20,110 --> 00:10:21,070
+The balance.
+
+348
+00:10:21,810 --> 00:10:22,270
+In the defence.
+
+349
+00:10:22,850 --> 00:10:23,350
+Structure of his.
+
+350
+00:10:23,890 --> 00:10:24,530
+Or vice versa.
+
+351
+00:10:25,410 --> 00:10:25,530
+You know.
+
+352
+00:10:25,790 --> 00:10:26,210
+It doesn't matter.
+
+353
+00:10:26,350 --> 00:10:27,470
+This one is saying to you.
+
+354
+00:10:29,190 --> 00:10:29,290
+DAG.
+
+355
+00:10:29,570 --> 00:10:30,030
+So basically.
+
+356
+00:10:30,470 --> 00:10:31,150
+Directed exactly.
+
+357
+00:10:31,590 --> 00:10:32,530
+A graph of this chart.
+
+358
+00:10:32,770 --> 00:10:32,890
+You know.
+
+359
+00:10:33,070 --> 00:10:33,690
+There's no overlap.
+
+360
+00:10:34,170 --> 00:10:34,270
+Now.
+
+361
+00:10:34,510 --> 00:10:35,330
+Directed aside graph.
+
+362
+00:10:35,670 --> 00:10:36,650
+It's a structural backbone.
+
+363
+00:10:37,350 --> 00:10:38,350
+You shoot the winning competition.
+
+364
+00:10:38,590 --> 00:10:39,830
+And independent applause logically.
+
+365
+00:10:40,370 --> 00:10:40,670
+Preserving.
+
+366
+00:10:41,230 --> 00:10:41,390
+Other.
+
+367
+00:10:42,070 --> 00:10:42,730
+Overall strategic clearance.
+
+368
+00:10:43,170 --> 00:10:43,330
+You know.
+
+369
+00:10:43,730 --> 00:10:44,090
+Basically.
+
+370
+00:10:44,250 --> 00:10:45,730
+The DAG framework.
+
+371
+00:10:45,870 --> 00:10:46,430
+It's like you know.
+
+372
+00:10:46,630 --> 00:10:46,730
+And.
+
+373
+00:10:46,970 --> 00:10:47,230
+Can you trust.
+
+374
+00:10:47,670 --> 00:10:48,590
+Do the cost function.
+
+375
+00:10:48,770 --> 00:10:49,130
+Hamiltonian.
+
+376
+00:10:49,250 --> 00:10:49,550
+Or Larian.
+
+377
+00:10:49,830 --> 00:10:50,950
+Cost function DAG.
+
+378
+00:10:51,850 --> 00:10:53,310
+Based on real world estimate.
+
+379
+00:10:54,070 --> 00:10:54,530
+But you know.
+
+380
+00:10:54,630 --> 00:10:55,270
+To get to the goal.
+
+381
+00:10:55,630 --> 00:10:55,770
+You know.
+
+382
+00:10:55,910 --> 00:10:56,170
+You know.
+
+383
+00:10:56,450 --> 00:10:56,850
+It's like.
+
+384
+00:10:57,230 --> 00:10:59,250
+It's like something in the real world.
+
+385
+00:10:59,430 --> 00:10:59,630
+It's like.
+
+386
+00:11:00,090 --> 00:11:00,370
+Trying to.
+
+387
+00:11:00,670 --> 00:11:00,770
+Yes.
+
+388
+00:11:00,910 --> 00:11:01,170
+It's actually.
+
+389
+00:11:01,430 --> 00:11:02,310
+Again it's objective.
+
+390
+00:11:02,810 --> 00:11:02,910
+Done.
+
+391
+00:11:03,170 --> 00:11:03,290
+You know.
+
+392
+00:11:03,450 --> 00:11:03,670
+In time.
+
+393
+00:11:03,990 --> 00:11:04,430
+But the time.
+
+394
+00:11:04,570 --> 00:11:05,010
+It's not the goal.
+
+395
+00:11:06,530 --> 00:11:07,250
+It's time.
+
+396
+00:11:07,450 --> 00:11:07,890
+It's not the goal.
+
+397
+00:11:07,890 --> 00:11:09,390
+It's like a traffic.
+
+398
+00:11:09,610 --> 00:11:10,030
+You know.
+
+399
+00:11:10,030 --> 00:11:10,570
+But you have to.
+
+400
+00:11:10,770 --> 00:11:11,330
+Check the.
+
+401
+00:11:11,530 --> 00:11:12,130
+Check the road.
+
+402
+00:11:12,330 --> 00:11:12,830
+B C.
+
+403
+00:11:13,110 --> 00:11:13,370
+For example.
+
+404
+00:11:13,770 --> 00:11:14,650
+And then go down.
+
+405
+00:11:15,130 --> 00:11:16,310
+Say it's like G.
+
+406
+00:11:17,230 --> 00:11:18,350
+Because I can go like.
+
+407
+00:11:19,290 --> 00:11:20,510
+Basically I'm going to A to D.
+
+408
+00:11:20,730 --> 00:11:21,430
+Basically this car.
+
+409
+00:11:21,890 --> 00:11:22,350
+Can't go there.
+
+410
+00:11:22,750 --> 00:11:22,950
+A to D.
+
+411
+00:11:23,230 --> 00:11:24,070
+But it has to go all the way.
+
+412
+00:11:24,290 --> 00:11:24,390
+You know.
+
+413
+00:11:24,670 --> 00:11:25,050
+So it has to.
+
+414
+00:11:25,170 --> 00:11:25,470
+Excuse me.
+
+415
+00:11:25,610 --> 00:11:26,370
+The cost of this road.
+
+416
+00:11:26,770 --> 00:11:26,870
+You know.
+
+417
+00:11:27,210 --> 00:11:28,290
+And that road in the real world.
+
+418
+00:11:28,450 --> 00:11:28,970
+Preserves the logic.
+
+419
+00:11:29,510 --> 00:11:29,830
+A to D.
+
+420
+00:11:30,470 --> 00:11:31,170
+It's going to.
+
+421
+00:11:32,170 --> 00:11:33,410
+It goes A to D.
+
+422
+00:11:33,670 --> 00:11:33,830
+You know.
+
+423
+00:11:34,150 --> 00:11:34,630
+But you know.
+
+424
+00:11:35,030 --> 00:11:36,150
+But this is an imbalance.
+
+425
+00:11:36,150 --> 00:11:37,050
+It has to go.
+
+426
+00:11:38,710 --> 00:11:39,590
+You can go A.
+
+427
+00:11:39,710 --> 00:11:40,430
+You can go A here.
+
+428
+00:11:40,530 --> 00:11:40,910
+Just depends.
+
+429
+00:11:41,190 --> 00:11:42,010
+Whatever is shorter for it.
+
+430
+00:11:42,150 --> 00:11:42,430
+What is shorter?
+
+431
+00:11:42,610 --> 00:11:42,870
+What is missing?
+
+432
+00:11:43,210 --> 00:11:44,070
+The traffic cost.
+
+433
+00:11:44,450 --> 00:11:44,810
+The jam.
+
+434
+00:11:45,050 --> 00:11:46,050
+What it knows about the state.
+
+435
+00:11:46,230 --> 00:11:46,370
+You know.
+
+436
+00:11:46,670 --> 00:11:47,770
+Can't spot a dark access ramp.
+
+437
+00:11:47,910 --> 00:11:48,670
+There's no overlap.
+
+438
+00:11:49,010 --> 00:11:49,110
+You know.
+
+439
+00:11:49,430 --> 00:11:51,010
+This should never open up in a dark
+
+440
+00:11:51,010 --> 00:11:51,210
+structure.
+
+441
+00:11:51,570 --> 00:11:51,670
+You know.
+
+442
+00:11:51,710 --> 00:11:52,010
+Because you know.
+
+443
+00:11:52,290 --> 00:11:53,570
+It's not going from a dark area.
+
+444
+00:11:53,730 --> 00:11:54,350
+Unless the system.
+
+445
+00:11:54,610 --> 00:11:55,230
+Doesn't allow.
+
+446
+00:11:55,390 --> 00:11:56,670
+Doesn't allow for the path to go.
+
+447
+00:11:57,010 --> 00:11:57,150
+You know.
+
+448
+00:11:57,630 --> 00:11:58,430
+The time that the edges.
+
+449
+00:11:58,850 --> 00:11:59,230
+Can represent.
+
+450
+00:11:59,710 --> 00:12:00,730
+The cost of the.
+
+451
+00:12:01,370 --> 00:12:03,090
+It can basically make a cost to get
+
+452
+00:12:03,090 --> 00:12:03,730
+A to B.
+
+453
+00:12:04,010 --> 00:12:04,150
+You know.
+
+454
+00:12:04,150 --> 00:12:05,510
+A to D.
+
+455
+00:12:05,950 --> 00:12:06,410
+But you know.
+
+456
+00:12:06,630 --> 00:12:07,010
+If the goal.
+
+457
+00:12:07,250 --> 00:12:08,210
+If there's any determinants.
+
+458
+00:12:08,310 --> 00:12:09,150
+Which is worst case measurement.
+
+459
+00:12:09,450 --> 00:12:09,930
+Of the dark structure.
+
+460
+00:12:10,290 --> 00:12:11,070
+For the dimension of the game.
+
+461
+00:12:11,470 --> 00:12:12,370
+So I'm putting new strategies.
+
+462
+00:12:12,890 --> 00:12:13,690
+You go from E to E.
+
+463
+00:12:13,990 --> 00:12:16,090
+Or whatever is available in that dimension.
+
+464
+00:12:16,730 --> 00:12:16,910
+You know.
+
+465
+00:12:17,570 --> 00:12:19,430
+As an optimal log n space.
+
+466
+00:12:19,730 --> 00:12:20,410
+You know.
+
+467
+00:12:21,030 --> 00:12:21,850
+The computer is log n.
+
+468
+00:12:22,190 --> 00:12:22,870
+It's half time.
+
+469
+00:12:23,830 --> 00:12:23,930
+Space.
+
+470
+00:12:24,230 --> 00:12:26,190
+Because the space is like the storage.
+
+471
+00:12:26,390 --> 00:12:27,190
+Space of the storage.
+
+472
+00:12:27,430 --> 00:12:27,530
+You know.
+
+473
+00:12:27,870 --> 00:12:29,050
+It doesn't have to think.
+
+474
+00:12:29,190 --> 00:12:29,950
+It just stores the algorithm.
+
+475
+00:12:30,150 --> 00:12:30,530
+It's log n.
+
+476
+00:12:30,810 --> 00:12:30,930
+You know.
+
+477
+00:12:31,230 --> 00:12:31,530
+It's actually spaced.
+
+478
+00:12:32,150 --> 00:12:32,970
+It's like you know.
+
+479
+00:12:33,110 --> 00:12:33,650
+The front equation.
+
+480
+00:12:33,910 --> 00:12:34,430
+Of the log n.
+
+481
+00:12:34,570 --> 00:12:35,030
+It's half the time.
+
+482
+00:12:35,130 --> 00:12:35,550
+It's never linear.
+
+483
+00:12:35,910 --> 00:12:36,530
+So you can count the problem.
+
+484
+00:12:36,630 --> 00:12:37,410
+Any problem in half.
+
+485
+00:12:37,790 --> 00:12:38,530
+I know some claiming here.
+
+486
+00:12:38,950 --> 00:12:39,050
+Because.
+
+487
+00:12:39,210 --> 00:12:40,130
+The dimension of game three.
+
+488
+00:12:40,410 --> 00:12:40,790
+Is independent.
+
+489
+00:12:41,430 --> 00:12:41,770
+Of the.
+
+490
+00:12:42,170 --> 00:12:42,410
+Of this.
+
+491
+00:12:42,850 --> 00:12:43,390
+Is independent.
+
+492
+00:12:44,070 --> 00:12:44,370
+But logically.
+
+493
+00:12:44,770 --> 00:12:45,310
+We are the directors.
+
+494
+00:12:45,830 --> 00:12:46,490
+Algorithm resolution.
+
+495
+00:12:46,950 --> 00:12:47,070
+You know.
+
+496
+00:12:47,270 --> 00:12:47,770
+You can just see the question.
+
+497
+00:12:47,990 --> 00:12:48,410
+Attack defence.
+
+498
+00:12:48,650 --> 00:12:49,390
+And offence algorithm.
+
+499
+00:12:49,650 --> 00:12:49,870
+Or for me.
+
+500
+00:12:50,130 --> 00:12:51,210
+Get a new formation system.
+
+501
+00:12:51,890 --> 00:12:52,190
+No.
+
+502
+00:12:53,450 --> 00:12:53,550
+No.
+
+503
+00:12:55,370 --> 00:12:56,050
+Sorry guys.
+
+504
+00:12:56,090 --> 00:12:56,350
+Sorry guys.
+
+505
+00:12:56,430 --> 00:12:57,090
+I don't know about.
+
+506
+00:12:57,490 --> 00:12:57,690
+Sorry guys.
+
+507
+00:12:57,830 --> 00:12:58,150
+Sorry guys.
+
+508
+00:13:02,130 --> 00:13:02,930
+Sorry guys.
+
+509
+00:13:03,170 --> 00:13:03,870
+Sorry guys.
+
+510
+00:13:04,030 --> 00:13:04,310
+I got interrupted.
+
+511
+00:13:04,610 --> 00:13:05,070
+The turn is playing.
+
+512
+00:13:05,890 --> 00:13:06,150
+Okay.
+
+513
+00:13:06,310 --> 00:13:06,550
+So guys.
+
+514
+00:13:06,890 --> 00:13:07,210
+So basically.
+
+515
+00:13:07,630 --> 00:13:08,710
+I didn't want you guys to hear that.
+
+516
+00:13:09,050 --> 00:13:09,610
+Sorry guys.
+
+517
+00:13:09,810 --> 00:13:10,590
+I didn't want you guys to hear that.
+
+518
+00:13:10,970 --> 00:13:11,430
+So Z team.
+
+519
+00:13:11,870 --> 00:13:12,650
+They don't understand about formation.
+
+520
+00:13:12,850 --> 00:13:13,650
+They don't even need formation dimension.
+
+521
+00:13:13,970 --> 00:13:14,090
+You know.
+
+522
+00:13:14,290 --> 00:13:15,370
+That can reject chest formation.
+
+523
+00:13:15,610 --> 00:13:15,730
+You know.
+
+524
+00:13:16,030 --> 00:13:16,350
+Or something.
+
+525
+00:13:16,710 --> 00:13:17,050
+Or car.
+
+526
+00:13:17,570 --> 00:13:18,390
+On the formation breaks.
+
+527
+00:13:18,390 --> 00:13:19,030
+You know.
+
+528
+00:13:19,150 --> 00:13:19,850
+The formation break down.
+
+529
+00:13:20,170 --> 00:13:21,390
+They have to get someone else.
+
+530
+00:13:21,730 --> 00:13:22,590
+There's a new ES system.
+
+531
+00:13:22,890 --> 00:13:23,270
+A new car.
+
+532
+00:13:23,430 --> 00:13:24,010
+To drain that formation.
+
+533
+00:13:24,530 --> 00:13:24,690
+You know.
+
+534
+00:13:24,910 --> 00:13:26,610
+And that formation has to be aligned with
+
+535
+00:13:26,610 --> 00:13:26,890
+objective.
+
+536
+00:13:27,530 --> 00:13:27,690
+You know.
+
+537
+00:13:27,990 --> 00:13:29,370
+That formation is not the chest.
+
+538
+00:13:29,530 --> 00:13:30,310
+All of the car is doing.
+
+539
+00:13:30,490 --> 00:13:30,590
+You know.
+
+540
+00:13:30,930 --> 00:13:31,710
+Your chest are calling them.
+
+541
+00:13:31,890 --> 00:13:32,370
+Getting to the objective.
+
+542
+00:13:32,590 --> 00:13:32,730
+You know.
+
+543
+00:13:32,930 --> 00:13:33,470
+That has to go.
+
+544
+00:13:33,750 --> 00:13:33,850
+You know.
+
+545
+00:13:34,070 --> 00:13:35,210
+To ensure there's no delay.
+
+546
+00:13:35,710 --> 00:13:35,910
+You know.
+
+547
+00:13:36,050 --> 00:13:37,150
+That's what I'm saying about the cost function.
+
+548
+00:13:37,310 --> 00:13:38,530
+The dagger of the graph.
+
+549
+00:13:38,870 --> 00:13:38,990
+You know.
+
+550
+00:13:39,170 --> 00:13:39,430
+Because you know.
+
+551
+00:13:39,610 --> 00:13:40,790
+The piece of the car.
+
+552
+00:13:41,050 --> 00:13:41,670
+It's not missing.
+
+553
+00:13:42,110 --> 00:13:42,910
+But someone is new.
+
+554
+00:13:43,290 --> 00:13:43,650
+Is scalable.
+
+555
+00:13:45,890 --> 00:13:46,470
+You know.
+
+556
+00:13:48,050 --> 00:13:49,090
+It's scalable.
+
+557
+00:13:49,330 --> 00:13:50,810
+You can scale it.
+
+558
+00:13:51,830 --> 00:13:52,350
+Isomorphically.
+
+559
+00:13:52,810 --> 00:13:53,530
+With peer to peer.
+
+560
+00:13:53,850 --> 00:13:54,670
+Bar string topology.
+
+561
+00:13:55,170 --> 00:13:56,270
+Which are four thread models.
+
+562
+00:13:57,010 --> 00:13:57,910
+Of topology structure.
+
+563
+00:13:58,350 --> 00:13:58,610
+You know.
+
+564
+00:13:58,690 --> 00:13:59,450
+For real world context.
+
+565
+00:13:59,890 --> 00:14:00,010
+You know.
+
+566
+00:14:00,250 --> 00:14:00,810
+Dimension of green.
+
+567
+00:14:00,990 --> 00:14:01,610
+To represent to me.
+
+568
+00:14:01,950 --> 00:14:02,930
+The real world applications.
+
+569
+00:14:03,390 --> 00:14:03,870
+Of computation.
+
+570
+00:14:04,430 --> 00:14:04,930
+In the system.
+
+571
+00:14:05,370 --> 00:14:07,750
+That resolve autonomously without any humans.
+
+572
+00:14:08,270 --> 00:14:08,430
+You know.
+
+573
+00:14:08,990 --> 00:14:09,490
+Because you know.
+
+574
+00:14:09,610 --> 00:14:10,290
+If I order an Uber.
+
+575
+00:14:10,630 --> 00:14:11,710
+An Uber is a robot.
+
+576
+00:14:12,150 --> 00:14:12,530
+You know.
+
+577
+00:14:12,670 --> 00:14:12,930
+His robot.
+
+578
+00:14:13,310 --> 00:14:13,630
+And she gets the phone.
+
+579
+00:14:13,630 --> 00:14:14,510
+You know.
+
+580
+00:14:14,550 --> 00:14:16,130
+If I have a premium member.
+
+581
+00:14:16,630 --> 00:14:16,790
+You know.
+
+582
+00:14:17,050 --> 00:14:17,290
+But you know.
+
+583
+00:14:17,290 --> 00:14:18,130
+If I'm not a premium member.
+
+584
+00:14:18,750 --> 00:14:20,070
+And I still need an Uber.
+
+585
+00:14:20,670 --> 00:14:20,850
+You know.
+
+586
+00:14:21,130 --> 00:14:21,650
+I still need.
+
+587
+00:14:21,810 --> 00:14:22,630
+I need to get an autonomous Uber.
+
+588
+00:14:22,950 --> 00:14:23,650
+And get that Uber.
+
+589
+00:14:23,770 --> 00:14:23,930
+Stop.
+
+590
+00:14:24,390 --> 00:14:24,510
+You know.
+
+591
+00:14:24,730 --> 00:14:25,310
+Because all the parameters.
+
+592
+00:14:25,670 --> 00:14:25,770
+Stop.
+
+593
+00:14:25,930 --> 00:14:26,830
+They are an additional problem.
+
+594
+00:14:27,150 --> 00:14:27,250
+You know.
+
+595
+00:14:27,570 --> 00:14:28,850
+Because I am entitled to that service.
+
+596
+00:14:29,190 --> 00:14:29,330
+You know.
+
+597
+00:14:29,490 --> 00:14:29,630
+You know.
+
+598
+00:14:29,850 --> 00:14:30,530
+I can get that car.
+
+599
+00:14:30,650 --> 00:14:31,010
+And I can go.
+
+600
+00:14:31,370 --> 00:14:31,470
+You know.
+
+601
+00:14:31,670 --> 00:14:32,170
+That's what I'm talking about.
+
+602
+00:14:32,330 --> 00:14:32,690
+The cost function.
+
+603
+00:14:33,070 --> 00:14:33,670
+I have the direct.
+
+604
+00:14:33,850 --> 00:14:34,730
+A sacrificial position.
+
+605
+00:14:35,010 --> 00:14:36,130
+For the real world cost function.
+
+606
+00:14:36,310 --> 00:14:36,470
+Metric.
+
+607
+00:14:36,470 --> 00:14:39,270
+To ensure that the 5.4. Coherence.
+
+608
+00:14:39,670 --> 00:14:40,150
+Over function.
+
+609
+00:14:40,590 --> 00:14:40,850
+Composition.
+
+610
+00:14:41,170 --> 00:14:41,770
+Which is the cost.
+
+611
+00:14:41,970 --> 00:14:42,590
+Moving the real world.
+
+612
+00:14:42,790 --> 00:14:43,670
+Over terrains.
+
+613
+00:14:43,830 --> 00:14:44,530
+And places to go.
+
+614
+00:14:47,550 --> 00:14:48,370
+NFA function model.
+
+615
+00:14:49,050 --> 00:14:49,490
+Place a model.
+
+616
+00:14:50,190 --> 00:14:50,550
+NFA.
+
+617
+00:14:51,870 --> 00:14:52,230
+Okay.
+
+618
+00:14:53,170 --> 00:14:53,550
+Place a model.
+
+619
+00:14:53,850 --> 00:14:54,610
+NFA function model.
+
+620
+00:14:54,990 --> 00:14:55,390
+Actors.
+
+621
+00:14:56,290 --> 00:14:57,550
+That means they have way to act on
+
+622
+00:14:57,550 --> 00:14:57,930
+a decision.
+
+623
+00:14:58,270 --> 00:14:58,390
+You know.
+
+624
+00:14:58,650 --> 00:14:59,250
+Whether they see.
+
+625
+00:14:59,410 --> 00:15:00,190
+Exploit or something.
+
+626
+00:15:00,830 --> 00:15:01,290
+In the real world.
+
+627
+00:15:01,470 --> 00:15:02,090
+They are actors.
+
+628
+00:15:02,330 --> 00:15:02,430
+You know.
+
+629
+00:15:02,510 --> 00:15:03,410
+That means they can act.
+
+630
+00:15:03,850 --> 00:15:04,370
+They not just.
+
+631
+00:15:04,730 --> 00:15:05,250
+Not so much.
+
+632
+00:15:05,670 --> 00:15:06,150
+You know.
+
+633
+00:15:06,310 --> 00:15:08,350
+They can be.
+
+634
+00:15:08,850 --> 00:15:08,950
+You know.
+
+635
+00:15:09,210 --> 00:15:09,490
+They can be.
+
+636
+00:15:09,590 --> 00:15:10,150
+But the.
+
+637
+00:15:10,150 --> 00:15:11,190
+The actor model.
+
+638
+00:15:11,330 --> 00:15:11,650
+It's like you know.
+
+639
+00:15:11,890 --> 00:15:12,650
+You don't have an insight.
+
+640
+00:15:13,190 --> 00:15:13,530
+In something.
+
+641
+00:15:13,730 --> 00:15:14,510
+I can still win it.
+
+642
+00:15:16,550 --> 00:15:16,910
+But you know.
+
+643
+00:15:17,070 --> 00:15:18,130
+It's like a plain dimension.
+
+644
+00:15:18,550 --> 00:15:19,710
+Like I say it's an NFA resolution.
+
+645
+00:15:20,330 --> 00:15:20,430
+You know.
+
+646
+00:15:20,670 --> 00:15:22,550
+But the thing about NFA is like.
+
+647
+00:15:22,810 --> 00:15:23,290
+It's there.
+
+648
+00:15:23,570 --> 00:15:23,670
+You know.
+
+649
+00:15:23,790 --> 00:15:24,610
+It's not going to sound like something.
+
+650
+00:15:24,990 --> 00:15:25,350
+But you know.
+
+651
+00:15:25,650 --> 00:15:27,030
+Map the function to state action.
+
+652
+00:15:27,330 --> 00:15:27,470
+You know.
+
+653
+00:15:27,850 --> 00:15:29,270
+The allows algebraic composition.
+
+654
+00:15:29,930 --> 00:15:30,130
+A model.
+
+655
+00:15:30,570 --> 00:15:32,690
+Basically the actor model.
+
+656
+00:15:33,150 --> 00:15:34,130
+Is more of you.
+
+657
+00:15:34,130 --> 00:15:35,510
+Acting on your own behalf.
+
+658
+00:15:35,790 --> 00:15:36,750
+On your own code.
+
+659
+00:15:36,930 --> 00:15:37,050
+You know.
+
+660
+00:15:37,650 --> 00:15:38,050
+Autonomously.
+
+661
+00:15:38,250 --> 00:15:38,750
+Your autonomous.
+
+662
+00:15:38,890 --> 00:15:39,390
+You know NFA.
+
+663
+00:15:39,830 --> 00:15:40,050
+You know.
+
+664
+00:15:40,210 --> 00:15:41,170
+It reminds me of delay.
+
+665
+00:15:41,370 --> 00:15:42,070
+Deny and defer.
+
+666
+00:15:42,610 --> 00:15:43,870
+The defer is one dimension.
+
+667
+00:15:44,390 --> 00:15:44,830
+To deny.
+
+668
+00:15:45,450 --> 00:15:46,390
+Deny to right housing.
+
+669
+00:15:46,590 --> 00:15:47,470
+So I can get denied housing.
+
+670
+00:15:47,830 --> 00:15:49,170
+And deferral is go somewhere else.
+
+671
+00:15:49,470 --> 00:15:50,430
+And deny is go.
+
+672
+00:15:51,830 --> 00:15:52,570
+The defence occur.
+
+673
+00:15:52,930 --> 00:15:53,450
+We didn't do anything.
+
+674
+00:15:53,610 --> 00:15:54,010
+It's not affords.
+
+675
+00:15:54,230 --> 00:15:54,850
+You didn't sign up.
+
+676
+00:15:55,210 --> 00:15:55,350
+You know.
+
+677
+00:15:55,890 --> 00:15:56,370
+That's algorithm.
+
+678
+00:15:56,930 --> 00:15:57,070
+Now.
+
+679
+00:15:57,230 --> 00:15:57,990
+The NFA resolution.
+
+680
+00:15:58,430 --> 00:15:59,210
+Is key to this.
+
+681
+00:15:59,310 --> 00:15:59,510
+Because you know.
+
+682
+00:15:59,830 --> 00:16:00,950
+That's to end is to it.
+
+683
+00:16:01,090 --> 00:16:01,190
+You know.
+
+684
+00:16:01,190 --> 00:16:01,870
+If I ever.
+
+685
+00:16:02,030 --> 00:16:02,810
+I said the.
+
+686
+00:16:03,070 --> 00:16:03,770
+It's actually go somewhere else.
+
+687
+00:16:03,910 --> 00:16:04,430
+Defer me.
+
+688
+00:16:04,910 --> 00:16:05,730
+I will lose my housing.
+
+689
+00:16:06,310 --> 00:16:07,470
+And if I really defend my business.
+
+690
+00:16:08,830 --> 00:16:09,570
+And I say no to them.
+
+691
+00:16:09,750 --> 00:16:10,090
+You can't.
+
+692
+00:16:10,170 --> 00:16:10,670
+So it's my fault.
+
+693
+00:16:10,830 --> 00:16:11,430
+I'll lose my housing.
+
+694
+00:16:11,910 --> 00:16:13,370
+And I don't think delay is.
+
+695
+00:16:14,210 --> 00:16:14,790
+Blame me.
+
+696
+00:16:14,930 --> 00:16:15,350
+Waste time.
+
+697
+00:16:15,950 --> 00:16:16,450
+Go somewhere else.
+
+698
+00:16:17,430 --> 00:16:17,790
+Deny.
+
+699
+00:16:18,170 --> 00:16:18,410
+Deny.
+
+700
+00:16:19,050 --> 00:16:19,510
+You know.
+
+701
+00:16:19,630 --> 00:16:20,130
+It's not affords.
+
+702
+00:16:20,310 --> 00:16:20,470
+You know.
+
+703
+00:16:21,190 --> 00:16:21,390
+Deny.
+
+704
+00:16:21,570 --> 00:16:21,850
+You know.
+
+705
+00:16:21,970 --> 00:16:23,430
+This is what algorithms you know.
+
+706
+00:16:23,710 --> 00:16:23,910
+Delay.
+
+707
+00:16:24,570 --> 00:16:25,530
+Stop waste time.
+
+708
+00:16:26,210 --> 00:16:26,570
+Deny.
+
+709
+00:16:26,810 --> 00:16:27,310
+Say no.
+
+710
+00:16:27,570 --> 00:16:27,930
+Say no.
+
+711
+00:16:28,070 --> 00:16:28,550
+It's not a job.
+
+712
+00:16:28,550 --> 00:16:29,350
+It's not a society.
+
+713
+00:16:30,290 --> 00:16:30,670
+Defer.
+
+714
+00:16:30,690 --> 00:16:31,550
+Go somewhere else.
+
+715
+00:16:34,850 --> 00:16:34,990
+You know.
+
+716
+00:16:35,070 --> 00:16:35,230
+I'm saying.
+
+717
+00:16:35,650 --> 00:16:35,750
+See.
+
+718
+00:16:36,150 --> 00:16:38,070
+The NFA function can resolve this DAG function.
+
+719
+00:16:38,270 --> 00:16:38,370
+You know.
+
+720
+00:16:38,650 --> 00:16:39,910
+Because the function is a mapping of function.
+
+721
+00:16:40,290 --> 00:16:40,390
+You know.
+
+722
+00:16:40,630 --> 00:16:41,570
+So if I want to delay some.
+
+723
+00:16:41,790 --> 00:16:42,330
+Defer someone.
+
+724
+00:16:42,590 --> 00:16:43,190
+Or deny someone.
+
+725
+00:16:43,290 --> 00:16:44,030
+Which is illegal treatment.
+
+726
+00:16:44,350 --> 00:16:44,890
+I have to say.
+
+727
+00:16:45,050 --> 00:16:45,150
+Okay.
+
+728
+00:16:45,230 --> 00:16:45,790
+I have to make it.
+
+729
+00:16:46,710 --> 00:16:47,090
+Then.
+
+730
+00:16:47,410 --> 00:16:48,410
+Understand DAGs original.
+
+731
+00:16:48,990 --> 00:16:49,190
+Making.
+
+732
+00:16:49,530 --> 00:16:50,130
+But you know.
+
+733
+00:16:50,270 --> 00:16:51,030
+You must be sound coherent.
+
+734
+00:16:51,110 --> 00:16:51,650
+To be coherent.
+
+735
+00:16:51,950 --> 00:16:52,250
+And to work.
+
+736
+00:16:52,590 --> 00:16:52,710
+You know.
+
+737
+00:16:52,970 --> 00:16:53,490
+That's to make sense.
+
+738
+00:16:53,770 --> 00:16:54,490
+And that's why the function.
+
+739
+00:16:54,910 --> 00:16:56,110
+Mapping a functional model coming.
+
+740
+00:16:56,910 --> 00:16:58,790
+Which can act on your own behalf.
+
+741
+00:16:59,490 --> 00:17:00,230
+Since that's our structure.
+
+742
+00:17:00,550 --> 00:17:00,750
+You know.
+
+743
+00:17:00,950 --> 00:17:01,250
+Basically.
+
+744
+00:17:01,650 --> 00:17:02,850
+The structure of the system.
+
+745
+00:17:03,829 --> 00:17:03,950
+You know.
+
+746
+00:17:03,990 --> 00:17:04,490
+It's like the.
+
+747
+00:17:04,750 --> 00:17:05,630
+It's like how the system.
+
+748
+00:17:06,810 --> 00:17:07,270
+Understands.
+
+749
+00:17:07,349 --> 00:17:07,490
+It's.
+
+750
+00:17:07,790 --> 00:17:07,930
+You know.
+
+751
+00:17:08,710 --> 00:17:09,130
+The structure.
+
+752
+00:17:09,410 --> 00:17:09,730
+Over the syntax.
+
+753
+00:17:09,930 --> 00:17:10,050
+You know.
+
+754
+00:17:10,390 --> 00:17:10,829
+The core results.
+
+755
+00:17:11,030 --> 00:17:11,589
+But the structure.
+
+756
+00:17:11,910 --> 00:17:12,210
+Of units.
+
+757
+00:17:13,230 --> 00:17:13,910
+You know.
+
+758
+00:17:14,310 --> 00:17:14,550
+The synthesis.
+
+759
+00:17:14,849 --> 00:17:15,069
+Just rules.
+
+760
+00:17:15,250 --> 00:17:15,369
+You know.
+
+761
+00:17:15,790 --> 00:17:17,390
+But you know.
+
+762
+00:17:17,650 --> 00:17:18,690
+If the structure of that system.
+
+763
+00:17:19,210 --> 00:17:19,310
+Is.
+
+764
+00:17:20,170 --> 00:17:20,510
+Based on.
+
+765
+00:17:21,230 --> 00:17:22,829
+The syntax is not a structure.
+
+766
+00:17:22,829 --> 00:17:23,270
+Because.
+
+767
+00:17:23,829 --> 00:17:23,929
+The.
+
+768
+00:17:24,130 --> 00:17:24,530
+The structure.
+
+769
+00:17:24,890 --> 00:17:26,630
+Is like the architecture built on.
+
+770
+00:17:27,089 --> 00:17:27,850
+But if that syntax.
+
+771
+00:17:28,250 --> 00:17:28,570
+Doesn't.
+
+772
+00:17:28,930 --> 00:17:29,550
+Allow the architecture.
+
+773
+00:17:29,830 --> 00:17:30,310
+There's no.
+
+774
+00:17:30,690 --> 00:17:31,450
+There's no meaning.
+
+775
+00:17:31,910 --> 00:17:33,070
+Can I get system to do any extra.
+
+776
+00:17:33,330 --> 00:17:33,430
+You know.
+
+777
+00:17:33,670 --> 00:17:34,830
+So you build first structure.
+
+778
+00:17:35,210 --> 00:17:36,190
+You're building the architecture.
+
+779
+00:17:36,590 --> 00:17:37,510
+The infrastructure you're building.
+
+780
+00:17:37,770 --> 00:17:38,510
+Before you.
+
+781
+00:17:38,910 --> 00:17:39,670
+Jump into the code.
+
+782
+00:17:39,850 --> 00:17:39,950
+You know.
+
+783
+00:17:40,210 --> 00:17:41,350
+The perfect game algorithm.
+
+784
+00:17:41,730 --> 00:17:42,190
+Emerges.
+
+785
+00:17:42,990 --> 00:17:45,010
+When structure reflects through understanding.
+
+786
+00:17:45,350 --> 00:17:45,770
+You know guys.
+
+787
+00:17:46,370 --> 00:17:46,510
+Structure.
+
+788
+00:17:48,050 --> 00:17:50,050
+Structure is more important than syntax.
+
+789
+00:17:50,470 --> 00:17:50,670
+You know.
+
+790
+00:17:51,090 --> 00:17:51,730
+You know.
+
+791
+00:17:51,730 --> 00:17:52,870
+No matter how you think about it.
+
+792
+00:17:53,050 --> 00:17:54,250
+The structure of this structure.
+
+793
+00:17:54,530 --> 00:17:54,830
+You know.
+
+794
+00:17:55,050 --> 00:17:55,350
+Or the model.
+
+795
+00:17:55,530 --> 00:17:56,470
+Or something you're building.
+
+796
+00:17:57,150 --> 00:17:57,290
+You know.
+
+797
+00:17:57,450 --> 00:17:58,590
+How you model the real world.
+
+798
+00:17:59,330 --> 00:17:59,550
+Instance.
+
+799
+00:17:59,870 --> 00:18:00,050
+You know.
+
+800
+00:18:01,410 --> 00:18:03,950
+How much clarity you have in that model.
+
+801
+00:18:04,330 --> 00:18:04,470
+You know.
+
+802
+00:18:04,710 --> 00:18:05,330
+As a foundation.
+
+803
+00:18:05,810 --> 00:18:05,970
+You know.
+
+804
+00:18:06,390 --> 00:18:07,430
+Of that system.
+
+805
+00:18:07,870 --> 00:18:08,590
+It's over the structure.
+
+806
+00:18:08,790 --> 00:18:09,090
+Of the syntax.
+
+807
+00:18:09,410 --> 00:18:10,790
+Over the analytical framework.
+
+808
+00:18:11,270 --> 00:18:11,450
+You know.
+
+809
+00:18:12,210 --> 00:18:13,010
+It's more beneficial.
+
+810
+00:18:13,570 --> 00:18:14,130
+Because it's like.
+
+811
+00:18:14,370 --> 00:18:15,170
+It's like security.
+
+812
+00:18:15,370 --> 00:18:16,330
+It's like my housing thing.
+
+813
+00:18:16,890 --> 00:18:17,610
+Security by design.
+
+814
+00:18:17,910 --> 00:18:18,010
+You know.
+
+815
+00:18:18,450 --> 00:18:19,010
+It can design.
+
+816
+00:18:19,270 --> 00:18:20,110
+The perfect window.
+
+817
+00:18:20,110 --> 00:18:21,330
+The topology.
+
+818
+00:18:21,610 --> 00:18:22,350
+And the compound.
+
+819
+00:18:22,570 --> 00:18:23,370
+You know.
+
+820
+00:18:23,670 --> 00:18:24,310
+And even the modes.
+
+821
+00:18:24,730 --> 00:18:25,590
+No one will go to your modes.
+
+822
+00:18:25,890 --> 00:18:25,990
+You know.
+
+823
+00:18:26,110 --> 00:18:26,330
+Because you know.
+
+824
+00:18:26,590 --> 00:18:27,270
+This is the shock.
+
+825
+00:18:27,470 --> 00:18:28,310
+And then you can get your modes.
+
+826
+00:18:28,510 --> 00:18:28,610
+You know.
+
+827
+00:18:28,770 --> 00:18:29,570
+The structure of your modes.
+
+828
+00:18:29,990 --> 00:18:30,670
+In the compound.
+
+829
+00:18:31,130 --> 00:18:32,210
+Allows you to get in.
+
+830
+00:18:32,490 --> 00:18:33,410
+And get out of your home.
+
+831
+00:18:33,970 --> 00:18:34,170
+You know.
+
+832
+00:18:34,410 --> 00:18:36,530
+But the structure of the topology system.
+
+833
+00:18:36,890 --> 00:18:37,310
+Is that.
+
+834
+00:18:38,170 --> 00:18:38,770
+You know.
+
+835
+00:18:38,790 --> 00:18:39,970
+You know how to get to your house.
+
+836
+00:18:40,410 --> 00:18:40,550
+You know.
+
+837
+00:18:41,150 --> 00:18:41,750
+As a security measure.
+
+838
+00:18:41,890 --> 00:18:42,710
+But you can't get in.
+
+839
+00:18:43,050 --> 00:18:44,030
+Because the structure reflects.
+
+840
+00:18:44,390 --> 00:18:44,670
+You towards.
+
+841
+00:18:45,010 --> 00:18:45,210
+A purpose.
+
+842
+00:18:46,030 --> 00:18:46,590
+A security.
+
+843
+00:18:47,070 --> 00:18:47,510
+Of like you know.
+
+844
+00:18:47,830 --> 00:18:48,550
+The perfect algorithm.
+
+845
+00:18:48,550 --> 00:18:49,070
+You know.
+
+846
+00:18:49,150 --> 00:18:49,410
+Because you know.
+
+847
+00:18:49,550 --> 00:18:50,670
+It's like designing the houses.
+
+848
+00:18:50,950 --> 00:18:51,310
+Your house.
+
+849
+00:18:51,490 --> 00:18:51,730
+To be.
+
+850
+00:18:52,430 --> 00:18:54,170
+To be naturally hostile.
+
+851
+00:18:54,490 --> 00:18:55,530
+To anybody's intruders.
+
+852
+00:18:55,850 --> 00:18:56,010
+You know.
+
+853
+00:18:56,590 --> 00:18:56,910
+Without.
+
+854
+00:18:57,450 --> 00:18:57,890
+Because you know.
+
+855
+00:18:58,270 --> 00:18:59,330
+It's not trying to get your house.
+
+856
+00:18:59,450 --> 00:19:00,010
+It's like a helicopter.
+
+857
+00:19:00,550 --> 00:19:01,090
+Or something like that.
+
+858
+00:19:01,250 --> 00:19:01,910
+To get to your properties.
+
+859
+00:19:02,370 --> 00:19:03,190
+But it's not feasible.
+
+860
+00:19:03,810 --> 00:19:04,110
+You know what I'm saying.
+
+861
+00:19:06,570 --> 00:19:07,450
+It's not easy to do.
+
+862
+00:19:07,570 --> 00:19:07,770
+It's feasible.
+
+863
+00:19:08,010 --> 00:19:08,470
+It's not easy to do.
+
+864
+00:19:09,090 --> 00:19:09,210
+But.
+
+865
+00:19:10,730 --> 00:19:10,850
+But.
+
+866
+00:19:11,010 --> 00:19:11,310
+Part ends.
+
+867
+00:19:11,690 --> 00:19:11,970
+There's cross.
+
+868
+00:19:12,390 --> 00:19:12,770
+There's cross section.
+
+869
+00:19:14,050 --> 00:19:14,370
+See.
+
+870
+00:19:14,770 --> 00:19:15,190
+Case study.
+
+871
+00:19:15,310 --> 00:19:16,010
+The perfect chess engine.
+
+872
+00:19:16,410 --> 00:19:16,510
+Okay.
+
+873
+00:19:16,510 --> 00:19:16,830
+Now.
+
+874
+00:19:17,450 --> 00:19:18,090
+Dimensional game theory.
+
+875
+00:19:18,750 --> 00:19:19,170
+Decomposings.
+
+876
+00:19:19,710 --> 00:19:20,230
+Chasing to four.
+
+877
+00:19:20,370 --> 00:19:20,970
+Overlapping the short contents.
+
+878
+00:19:21,410 --> 00:19:21,630
+You know.
+
+879
+00:19:22,190 --> 00:19:22,930
+Each opportune of four.
+
+880
+00:19:23,150 --> 00:19:23,630
+Rejectorability.
+
+881
+00:19:24,350 --> 00:19:24,970
+Semantic resolution.
+
+882
+00:19:25,630 --> 00:19:26,110
+Detect dimension.
+
+883
+00:19:26,410 --> 00:19:27,010
+Capturing threats.
+
+884
+00:19:27,330 --> 00:19:27,730
+King pressure.
+
+885
+00:19:28,130 --> 00:19:28,590
+Protect the morphics.
+
+886
+00:19:29,210 --> 00:19:29,930
+This is like an attacker.
+
+887
+00:19:30,330 --> 00:19:31,190
+How to get capture.
+
+888
+00:19:31,350 --> 00:19:31,450
+You know.
+
+889
+00:19:31,510 --> 00:19:31,910
+The defence.
+
+890
+00:19:32,130 --> 00:19:33,550
+Protecting kings, pawns, structures.
+
+891
+00:19:33,890 --> 00:19:34,070
+Skip routes.
+
+892
+00:19:34,350 --> 00:19:34,490
+You know.
+
+893
+00:19:34,930 --> 00:19:35,510
+And then offence.
+
+894
+00:19:36,210 --> 00:19:36,450
+Spacing.
+
+895
+00:19:36,910 --> 00:19:37,650
+Piece activity.
+
+896
+00:19:38,050 --> 00:19:38,290
+Initiating.
+
+897
+00:19:39,050 --> 00:19:40,350
+This topics is more analytical.
+
+898
+00:19:41,030 --> 00:19:41,330
+But you know.
+
+899
+00:19:41,610 --> 00:19:43,190
+You can use the offence to your advantage.
+
+900
+00:19:43,610 --> 00:19:43,750
+You know.
+
+901
+00:19:44,010 --> 00:19:44,330
+But you know.
+
+902
+00:19:44,330 --> 00:19:45,130
+All of this is analytical.
+
+903
+00:19:45,690 --> 00:19:47,590
+You just have to solve the problem.
+
+904
+00:19:48,790 --> 00:19:49,070
+Conditional harmony.
+
+905
+00:19:49,310 --> 00:19:49,650
+Coherence.
+
+906
+00:19:49,970 --> 00:19:50,630
+And mobile pattern.
+
+907
+00:19:50,750 --> 00:19:51,270
+Mobility pattern.
+
+908
+00:19:51,550 --> 00:19:51,710
+You know.
+
+909
+00:19:52,010 --> 00:19:52,530
+That information.
+
+910
+00:19:52,850 --> 00:19:53,130
+Like you know.
+
+911
+00:19:53,390 --> 00:19:55,770
+Ensuring that you know, you risk a pawn.
+
+912
+00:19:56,130 --> 00:19:56,230
+You know.
+
+913
+00:19:56,670 --> 00:19:56,770
+Something.
+
+914
+00:19:57,190 --> 00:19:57,570
+You make it.
+
+915
+00:19:57,710 --> 00:19:58,650
+You make it.
+
+916
+00:19:59,030 --> 00:20:00,550
+You risk pawns.
+
+917
+00:20:00,610 --> 00:20:01,550
+Not the fool.
+
+918
+00:20:02,390 --> 00:20:03,670
+A fool work or something.
+
+919
+00:20:04,030 --> 00:20:04,170
+You know.
+
+920
+00:20:04,350 --> 00:20:05,170
+Or something that can.
+
+921
+00:20:05,790 --> 00:20:06,410
+The bishop.
+
+922
+00:20:06,790 --> 00:20:07,270
+Or something like that.
+
+923
+00:20:07,710 --> 00:20:08,330
+Like a queen.
+
+924
+00:20:08,590 --> 00:20:09,790
+Or something that the knights.
+
+925
+00:20:10,310 --> 00:20:12,810
+Something that can be used in another context.
+
+926
+00:20:13,090 --> 00:20:13,190
+You know.
+
+927
+00:20:13,190 --> 00:20:15,710
+You can call it like some sort of
+
+928
+00:20:15,710 --> 00:20:19,050
+defensive field, you know, it doesn't know what
+
+929
+00:20:19,050 --> 00:20:21,570
+you prioritise per se, you know, you know,
+
+930
+00:20:21,650 --> 00:20:23,130
+but you can practise or attack what you
+
+931
+00:20:23,130 --> 00:20:23,330
+want.
+
+932
+00:20:23,770 --> 00:20:25,070
+Because we are lacking any of the other
+
+933
+00:20:25,070 --> 00:20:28,130
+things, you know, there's an imbalance, there's a
+
+934
+00:20:28,130 --> 00:20:29,810
+drag, there's actually a second-graph imbalance.
+
+935
+00:20:30,390 --> 00:20:34,550
+The system will fail, ultimately, because you neglect
+
+936
+00:20:34,550 --> 00:20:35,850
+all the other ones, you know.
+
+937
+00:20:35,850 --> 00:20:39,150
+I don't think strategically, I mean, I don't
+
+938
+00:20:39,150 --> 00:20:40,970
+know the dimension if you want, you know.
+
+939
+00:20:41,290 --> 00:20:43,550
+The dimension is like the only isolated dimension,
+
+940
+00:20:43,670 --> 00:20:44,530
+they never overlap.
+
+941
+00:20:45,190 --> 00:20:45,890
+They never overlap.
+
+942
+00:20:46,030 --> 00:20:49,010
+You can quickly imagine whether you're modelling eyes,
+
+943
+00:20:49,370 --> 00:20:50,510
+but you never overlap.
+
+944
+00:20:52,970 --> 00:20:53,990
+Attack and defence, the core tactics.
+
+945
+00:20:54,710 --> 00:20:57,530
+Now, attacking an algorithm, defence, let me see
+
+946
+00:20:57,530 --> 00:20:57,970
+this algorithm.
+
+947
+00:20:58,850 --> 00:21:01,510
+F A, function A, function A, function D.
+
+948
+00:21:01,890 --> 00:21:03,690
+Now, this is F, the defence, function for
+
+949
+00:21:03,690 --> 00:21:04,030
+defence.
+
+950
+00:21:04,530 --> 00:21:07,370
+The text immediately captures, you know.
+
+951
+00:21:07,530 --> 00:21:09,650
+This is like a pose, you know, analyse
+
+952
+00:21:09,650 --> 00:21:12,630
+speed threats, compute skin pressure, identify tactics motif,
+
+953
+00:21:12,850 --> 00:21:13,050
+you know.
+
+954
+00:21:13,370 --> 00:21:15,750
+The motif is like the payoff of, like,
+
+955
+00:21:17,070 --> 00:21:18,550
+what the enemy is going to do, but
+
+956
+00:21:18,550 --> 00:21:20,110
+I'm going to exploit that with an attack.
+
+957
+00:21:20,110 --> 00:21:23,550
+It can be attack, attack the territory of
+
+958
+00:21:23,550 --> 00:21:23,870
+here.
+
+959
+00:21:24,410 --> 00:21:26,590
+But this, like, algorithm can be here, here,
+
+960
+00:21:26,890 --> 00:21:28,650
+because these are like these functions, you know.
+
+961
+00:21:28,770 --> 00:21:30,230
+You can add inputs, which is a pose,
+
+962
+00:21:30,350 --> 00:21:32,310
+you know, but they organise, they analyse speed
+
+963
+00:21:32,310 --> 00:21:35,070
+projections, evaluate the key safety, assess point structure,
+
+964
+00:21:35,210 --> 00:21:35,330
+you know.
+
+965
+00:21:35,550 --> 00:21:38,370
+These are dimensions, you know, different definitions.
+
+966
+00:21:38,750 --> 00:21:41,370
+The four, this change, these are decisions, you
+
+967
+00:21:41,370 --> 00:21:41,490
+know.
+
+968
+00:21:42,130 --> 00:21:44,390
+This is a set model, the decision set,
+
+969
+00:21:44,550 --> 00:21:44,990
+you know.
+
+970
+00:21:45,310 --> 00:21:46,510
+They're not even set, you know.
+
+971
+00:21:46,710 --> 00:21:47,770
+Can you unify one dimension?
+
+972
+00:21:48,590 --> 00:21:50,610
+Never use your hand, you know, or keep
+
+973
+00:21:50,610 --> 00:21:53,390
+the dimensions isomorphic to themselves, because this is
+
+974
+00:21:53,390 --> 00:21:54,970
+a problem you solve in one dimension, another.
+
+975
+00:21:56,090 --> 00:21:57,670
+You don't need to, basically, you don't need
+
+976
+00:21:57,670 --> 00:21:58,590
+to fragment the system.
+
+977
+00:21:58,830 --> 00:22:01,290
+There's no fragmentation whatsoever, you know.
+
+978
+00:22:02,570 --> 00:22:03,610
+The offence versus formation.
+
+979
+00:22:04,110 --> 00:22:06,230
+Now, offence is about long-term pressure, space
+
+980
+00:22:06,230 --> 00:22:07,230
+control, peace activity.
+
+981
+00:22:07,710 --> 00:22:09,510
+It's about slowing the enemy down, you know,
+
+982
+00:22:09,630 --> 00:22:11,370
+slowing the defence down, or slowing whatever piece.
+
+983
+00:22:11,570 --> 00:22:13,730
+Offence is more strategic, because it's about the
+
+984
+00:22:13,730 --> 00:22:15,730
+slowness of the system, trying to control this
+
+985
+00:22:15,730 --> 00:22:17,910
+design of what's happening on the board, but,
+
+986
+00:22:17,930 --> 00:22:18,910
+you know, it's invisible.
+
+987
+00:22:19,310 --> 00:22:21,310
+It's like that, it's like, you know, before
+
+988
+00:22:21,310 --> 00:22:23,770
+you know it, you use a piece that
+
+989
+00:22:23,770 --> 00:22:25,390
+you don't know, you know, but, you know,
+
+990
+00:22:25,550 --> 00:22:27,770
+it's about picking the right fights, you know,
+
+991
+00:22:27,890 --> 00:22:30,670
+and ensuring long-term sustainability of the system.
+
+992
+00:22:31,010 --> 00:22:33,410
+You know, for information, it's the harmony.
+
+993
+00:22:33,790 --> 00:22:35,010
+It's like, you know, collision, it's like, you
+
+994
+00:22:35,010 --> 00:22:36,490
+know, it's like a, it's like a, it's
+
+995
+00:22:36,490 --> 00:22:37,370
+like a, it's like a porn.
+
+996
+00:22:38,170 --> 00:22:38,910
+But that's not right, queen.
+
+997
+00:22:39,250 --> 00:22:40,070
+This formation is not good.
+
+998
+00:22:40,370 --> 00:22:41,550
+That means the formation is not good.
+
+999
+00:22:42,410 --> 00:22:43,950
+Because, you know, this is slightly imbalanced.
+
+1000
+00:22:43,950 --> 00:22:46,090
+I don't, I couldn't keep my formation.
+
+1001
+00:22:46,930 --> 00:22:47,570
+That means the travel formation.
+
+1002
+00:22:47,770 --> 00:22:49,230
+Because the solution didn't allow me to do
+
+1003
+00:22:49,230 --> 00:22:50,570
+my strategy, you know, you know, or do
+
+1004
+00:22:50,570 --> 00:22:51,870
+what I do with my formation.
+
+1005
+00:22:52,250 --> 00:22:53,710
+Because the information is intact, you know.
+
+1006
+00:22:53,990 --> 00:22:55,830
+The pose can be lost, or I can
+
+1007
+00:22:55,830 --> 00:22:58,510
+throw the pawns, or the pawns, or the
+
+1008
+00:22:58,510 --> 00:23:00,750
+little pieces, and keep all the big pieces
+
+1009
+00:23:00,750 --> 00:23:02,110
+in the game, you know, as a perfect
+
+1010
+00:23:02,110 --> 00:23:02,530
+formation.
+
+1011
+00:23:02,870 --> 00:23:03,970
+You know, because then there's a perfect formation,
+
+1012
+00:23:04,050 --> 00:23:04,570
+I resolve that.
+
+1013
+00:23:05,150 --> 00:23:06,790
+And then the offence is like the space
+
+1014
+00:23:06,790 --> 00:23:09,210
+control, making the enemy weak, weak, weak, you
+
+1015
+00:23:09,210 --> 00:23:11,270
+know, and making an example of the pieces
+
+1016
+00:23:11,270 --> 00:23:12,450
+they, the moves.
+
+1017
+00:23:12,450 --> 00:23:14,990
+And this is putting them psychologically, you know,
+
+1018
+00:23:14,990 --> 00:23:16,450
+you know.
+
+1019
+00:23:17,130 --> 00:23:19,370
+Red blue page, basically, this is like a
+
+1020
+00:23:19,370 --> 00:23:19,470
+move.
+
+1021
+00:23:20,470 --> 00:23:22,250
+No, no, no, no.
+
+1022
+00:23:22,370 --> 00:23:25,130
+This is a change in PR, probability of
+
+1023
+00:23:25,130 --> 00:23:28,350
+photo blue page is 0.6. Because, you
+
+1024
+00:23:28,350 --> 00:23:29,590
+know, this is an imbalanced vector.
+
+1025
+00:23:30,010 --> 00:23:31,870
+You know, this one says, you know, 7
+
+1026
+00:23:31,870 --> 00:23:36,670
+minus, 2.7 minus 1 is 0.6.
+
+1027
+00:23:37,630 --> 00:23:39,430
+You know, the largest probability of attack dimension,
+
+1028
+00:23:39,430 --> 00:23:41,390
+signals the collections of the advantage in red,
+
+1029
+00:23:42,070 --> 00:23:42,770
+you know.
+
+1030
+00:23:42,850 --> 00:23:45,890
+Because, you know, these dimensions represent attack, defence,
+
+1031
+00:23:46,390 --> 00:23:49,030
+offence, and information.
+
+1032
+00:23:49,590 --> 00:23:51,170
+You know, you know, as I'm saying, this
+
+1033
+00:23:51,170 --> 00:23:52,910
+is a probability scale, you know, and I'm
+
+1034
+00:23:52,910 --> 00:23:54,290
+sure that, you know, this one is coherent
+
+1035
+00:23:54,290 --> 00:23:55,490
+and can be reused, you know.
+
+1036
+00:23:55,910 --> 00:23:57,670
+You know, it's a perfect strategy, because the
+
+1037
+00:23:57,670 --> 00:24:00,270
+strategy, this is a model of vectors in
+
+1038
+00:24:00,270 --> 00:24:00,890
+the reward, you know.
+
+1039
+00:24:01,190 --> 00:24:02,590
+And, you know, that means the blue team,
+
+1040
+00:24:02,790 --> 00:24:06,730
+which are playing two defensively, are prone to
+
+1041
+00:24:06,730 --> 00:24:09,070
+losing the game, ultimately, you know.
+
+1042
+00:24:09,070 --> 00:24:10,990
+And they will lose, they've lost, you know,
+
+1043
+00:24:11,090 --> 00:24:12,170
+even before the game is started.
+
+1044
+00:24:12,690 --> 00:24:14,590
+Because the analytic framework for defence in the
+
+1045
+00:24:14,590 --> 00:24:16,330
+model, over the virtual one, over any attack,
+
+1046
+00:24:16,550 --> 00:24:21,990
+aggression, is imbalancing in the metric, you know.
+
+1047
+00:24:23,010 --> 00:24:24,350
+One to one minute, you know.
+
+1048
+00:24:24,350 --> 00:24:27,230
+You know, the 0.1 here represents just
+
+1049
+00:24:27,230 --> 00:24:29,450
+basically 0.7 or 0.1% attack.
+
+1050
+00:24:30,250 --> 00:24:33,970
+0.2 represent defence, or 0.6. 0
+
+1051
+00:24:33,970 --> 00:24:37,890
+.2 in the red probability of 0.6
+
+1052
+00:24:37,890 --> 00:24:39,350
+in blue.
+
+1053
+00:24:40,350 --> 00:24:44,350
+So basically, 0.7 minus 0.1 is
+
+1054
+00:24:44,350 --> 00:24:46,750
+0.6. And this 0.6 is PR
+
+1055
+00:24:46,750 --> 00:24:47,610
+minus PB.
+
+1056
+00:24:48,230 --> 00:24:49,910
+And this is probability of the red over
+
+1057
+00:24:49,910 --> 00:24:51,210
+blue attack versus defence.
+
+1058
+00:24:51,230 --> 00:24:55,130
+It's more over the dimensions of attack, defence,
+
+1059
+00:24:55,670 --> 00:24:56,470
+offence, and information.
+
+1060
+00:24:56,910 --> 00:24:58,170
+You know, these are just four dimensions that
+
+1061
+00:24:58,170 --> 00:24:59,750
+I also mean, at least these are dimensions.
+
+1062
+00:25:00,330 --> 00:25:01,550
+But they're no more than in the problem.
+
+1063
+00:25:02,130 --> 00:25:04,710
+And this is an imbalanced vector.
+
+1064
+00:25:05,270 --> 00:25:08,930
+You know, this vector is a triangle sign.
+
+1065
+00:25:09,190 --> 00:25:10,270
+I don't know, you know.
+
+1066
+00:25:10,590 --> 00:25:12,350
+The change, the change in, this means the
+
+1067
+00:25:12,350 --> 00:25:12,870
+change in.
+
+1068
+00:25:13,070 --> 00:25:15,450
+The change in, probability of R, you know,
+
+1069
+00:25:15,550 --> 00:25:16,590
+can be measured in real time.
+
+1070
+00:25:16,890 --> 00:25:17,830
+You know, that's what in the run time,
+
+1071
+00:25:17,930 --> 00:25:18,530
+in the robot, you know.
+
+1072
+00:25:18,750 --> 00:25:21,490
+It's a metric for defence coherence.
+
+1073
+00:25:22,090 --> 00:25:24,610
+How good your dimensions are doing, you know.
+
+1074
+00:25:24,810 --> 00:25:25,410
+How good you are.
+
+1075
+00:25:25,810 --> 00:25:26,010
+Detect.
+
+1076
+00:25:26,770 --> 00:25:27,850
+This is how opposite the strongest dimension.
+
+1077
+00:25:28,650 --> 00:25:29,050
+Neutralise.
+
+1078
+00:25:29,050 --> 00:25:30,750
+behaves as negative way to counter it.
+
+1079
+00:25:31,190 --> 00:25:33,190
+Redire shift focus to adjacent dimensions.
+
+1080
+00:25:34,230 --> 00:25:37,410
+Output the bending strategy, vector, you know.
+
+1081
+00:25:37,410 --> 00:25:38,070
+You know, some sensitive.
+
+1082
+00:25:38,390 --> 00:25:42,450
+So basically, it's a reverse 374.
+
+1083
+00:25:42,870 --> 00:25:44,230
+So basically, there isn't strong enough.
+
+1084
+00:25:44,350 --> 00:25:44,830
+Low appearance dimension.
+
+1085
+00:25:45,270 --> 00:25:46,690
+That's your worst case scenario.
+
+1086
+00:25:47,110 --> 00:25:48,270
+You don't want that thing getting underfunded.
+
+1087
+00:25:49,770 --> 00:25:52,210
+Neutralise the weight, the weight to counter it.
+
+1088
+00:25:52,550 --> 00:25:54,210
+So basically, now it's a more balanced view.
+
+1089
+00:25:55,270 --> 00:25:56,190
+That's a queen in the game.
+
+1090
+00:25:56,190 --> 00:25:59,190
+which redirects you from the statistic dimension and
+
+1091
+00:25:59,190 --> 00:26:00,870
+that's like the worst min-squares problem you're
+
+1092
+00:26:00,870 --> 00:26:02,330
+going to do it and the next one
+
+1093
+00:26:02,330 --> 00:26:05,690
+is like output the blended strategic vector you
+
+1094
+00:26:05,690 --> 00:26:08,130
+know now the blended strategic vector is like
+
+1095
+00:26:08,130 --> 00:26:10,570
+the executor of the vector in the road
+
+1096
+00:26:10,570 --> 00:26:12,290
+but you know it's like um so you
+
+1097
+00:26:12,290 --> 00:26:14,510
+get one detect 2D trace per redact you
+
+1098
+00:26:14,510 --> 00:26:16,970
+know and then that's new um forms a
+
+1099
+00:26:16,970 --> 00:26:18,890
+new um puts a new dimension there and
+
+1100
+00:26:18,890 --> 00:26:21,050
+gives you a probability score and that balanced
+
+1101
+00:26:21,050 --> 00:26:23,450
+probability score has been remeasured you know and
+
+1102
+00:26:23,450 --> 00:26:25,050
+that's after that's when the execution is taken
+
+1103
+00:26:25,050 --> 00:26:26,970
+place that's why it's real-time you know
+
+1104
+00:26:26,970 --> 00:26:28,750
+because you executed that in going new dimension
+
+1105
+00:26:28,750 --> 00:26:31,530
+but I mean dimension means that this variable
+
+1106
+00:26:31,530 --> 00:26:33,750
+of the dynamic thing but in a different
+
+1107
+00:26:33,750 --> 00:26:35,790
+context you know I have different objective you
+
+1108
+00:26:35,790 --> 00:26:38,050
+know you know uh using this you know
+
+1109
+00:26:38,050 --> 00:26:39,710
+same thing that's why the balance is measuring
+
+1110
+00:26:39,710 --> 00:26:44,230
+in real time okay now unicode security three
+
+1111
+00:26:45,730 --> 00:26:49,310
+now uh case study apply structural thing that's
+
+1112
+00:26:49,310 --> 00:26:51,210
+in cyber security the problem is multi encoding
+
+1113
+00:26:51,210 --> 00:26:53,110
+uh of the same attack vector bypass ratio
+
+1114
+00:26:53,110 --> 00:26:55,650
+files you know direct dot dot you know
+
+1115
+00:26:55,650 --> 00:26:58,670
+encoded basically the the encoded format the calculation
+
+1116
+00:26:58,670 --> 00:27:00,250
+does you know let me type this on
+
+1117
+00:27:00,250 --> 00:27:02,730
+a terminal this encoder format now the utf
+
+1118
+00:27:02,730 --> 00:27:05,810
+interpretation is problematic you know because you know
+
+1119
+00:27:05,810 --> 00:27:08,230
+these are these are these are traditional bypass
+
+1120
+00:27:08,230 --> 00:27:10,390
+filters you know because you know there's you
+
+1121
+00:27:10,390 --> 00:27:13,010
+know I can use this structural syntax to
+
+1122
+00:27:13,010 --> 00:27:15,570
+strike the problem multiple path encoding of the
+
+1123
+00:27:15,570 --> 00:27:18,690
+same attack vector bypass ratio filter so this
+
+1124
+00:27:18,690 --> 00:27:21,030
+I can put in this uh utf8 model
+
+1125
+00:27:21,030 --> 00:27:23,910
+of the encoder state and this will be
+
+1126
+00:27:23,910 --> 00:27:26,350
+you know I can I can uh encode
+
+1127
+00:27:26,350 --> 00:27:28,830
+this in utf8 you know you know but
+
+1128
+00:27:28,830 --> 00:27:30,310
+this was encoded into computer this is direct
+
+1129
+00:27:30,310 --> 00:27:31,450
+one this one's going to be a computer
+
+1130
+00:27:31,450 --> 00:27:33,950
+you know dot dot dot o2f you know
+
+1131
+00:27:33,950 --> 00:27:36,270
+every character but this utf calculation you know
+
+1132
+00:27:36,270 --> 00:27:37,890
+you know no this is an attack vector
+
+1133
+00:27:37,890 --> 00:27:39,510
+yes you know it's you know it's an
+
+1134
+00:27:39,510 --> 00:27:41,950
+attack vector you know because utf8 uh is
+
+1135
+00:27:41,950 --> 00:27:44,050
+not canonical you know you know this attack
+
+1136
+00:27:44,050 --> 00:27:45,370
+vector is the same as it can punch
+
+1137
+00:27:45,370 --> 00:27:47,090
+in the same you know or as a
+
+1138
+00:27:47,090 --> 00:27:49,110
+computer programme and it can bypass the root
+
+1139
+00:27:49,110 --> 00:27:51,950
+access dot dot you know if that is
+
+1140
+00:27:51,950 --> 00:27:54,270
+common direction or dot dot dot is like
+
+1141
+00:27:54,270 --> 00:27:57,330
+this one but this utf8 system doesn't understand
+
+1142
+00:27:57,330 --> 00:28:00,630
+uh doesn't don't think this is the encoding
+
+1143
+00:28:00,630 --> 00:28:03,710
+of the utf8 system uh which stands for
+
+1144
+00:28:03,710 --> 00:28:07,410
+unified uh unicode uh it's a unicode format
+
+1145
+00:28:07,410 --> 00:28:10,370
+of eight bytes of memory uh eight bytes
+
+1146
+00:28:10,370 --> 00:28:13,570
+eight bits to a one byte uh model
+
+1147
+00:28:13,570 --> 00:28:16,490
+uh what's called utf8 because it comes eight
+
+1148
+00:28:16,490 --> 00:28:18,530
+times eight it's got 64 bytes I think
+
+1149
+00:28:18,530 --> 00:28:22,410
+yes I believe so so basically I sort
+
+1150
+00:28:22,410 --> 00:28:24,250
+of wrote this concept you know I took
+
+1151
+00:28:24,250 --> 00:28:26,130
+a state different encoder I just path uh
+
+1152
+00:28:26,130 --> 00:28:28,350
+different encoders are just different paths to semantic
+
+1153
+00:28:28,350 --> 00:28:30,510
+states we collect them into still colour form
+
+1154
+00:28:30,510 --> 00:28:32,110
+the colour code form which is the simplest
+
+1155
+00:28:32,110 --> 00:28:34,370
+model that's used for the standard application of
+
+1156
+00:28:34,370 --> 00:28:35,710
+real world systems you know kind of code
+
+1157
+00:28:35,710 --> 00:28:37,490
+just means universal you know but it's the
+
+1158
+00:28:37,490 --> 00:28:39,710
+simplest form of the universal framework you know
+
+1159
+00:28:39,710 --> 00:28:41,990
+the kind of code form is the it's
+
+1160
+00:28:41,990 --> 00:28:44,010
+like um it's like you know ensuring that
+
+1161
+00:28:44,010 --> 00:28:46,710
+uh it's as long as it bugs a
+
+1162
+00:28:46,710 --> 00:28:49,350
+smoke reduction of states you know other states
+
+1163
+00:28:49,350 --> 00:28:52,310
+is chemical you know uh it's a feature
+
+1164
+00:28:52,310 --> 00:28:54,250
+it's a bug it's a feature it's not
+
+1165
+00:28:54,250 --> 00:28:55,490
+a bug you know you have to reduce
+
+1166
+00:28:55,490 --> 00:28:57,510
+all the all the code all the encoding
+
+1167
+00:28:57,510 --> 00:28:59,990
+you know one is to ensure that you
+
+1168
+00:28:59,990 --> 00:29:02,690
+cannot you cannot route out of your uh
+
+1169
+00:29:02,690 --> 00:29:05,950
+frame of records with any interface system provided
+
+1170
+00:29:05,950 --> 00:29:09,390
+by the user or the hacker state cia
+
+1171
+00:29:09,390 --> 00:29:12,830
+you know fly here a timer stop stop
+
+1172
+00:29:12,830 --> 00:29:17,910
+fly me fly so basically state side uh
+
+1173
+00:29:17,910 --> 00:29:21,250
+flash time that's what I'm saying using us
+
+1174
+00:29:21,250 --> 00:29:23,490
+in a unc uh uh gramme and three
+
+1175
+00:29:23,490 --> 00:29:26,470
+states recognition classical inputs are by code inside
+
+1176
+00:29:26,470 --> 00:29:28,430
+so map of the equivalent state in colour
+
+1177
+00:29:28,430 --> 00:29:30,870
+code form three apply for uh a single
+
+1178
+00:29:30,870 --> 00:29:33,310
+unified security policy you know the thing about
+
+1179
+00:29:33,310 --> 00:29:35,730
+this is like the recognition of the you
+
+1180
+00:29:35,730 --> 00:29:40,230
+cn your unicode um security uh characterisation of
+
+1181
+00:29:40,230 --> 00:29:42,990
+normalisation you know normalisation means like uh the
+
+1182
+00:29:42,990 --> 00:29:44,790
+the the smallest form so kind of code
+
+1183
+00:29:44,790 --> 00:29:45,950
+is just like the simplest one of course
+
+1184
+00:29:45,950 --> 00:29:47,690
+the normalise like one system can be one
+
+1185
+00:29:47,690 --> 00:29:49,430
+system but normalised form is called code form
+
+1186
+00:29:49,430 --> 00:29:52,630
+too uh and then this uh uh unicode
+
+1187
+00:29:52,630 --> 00:29:55,090
+uh structure uh uh uh colour code normalisation
+
+1188
+00:29:55,090 --> 00:29:58,690
+algorithms a three-phase pipeline the result of
+
+1189
+00:29:58,690 --> 00:29:58,870
+this

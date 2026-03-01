@@ -1,0 +1,1141 @@
+
+Okay, welcome ladies and gentlemen to bio uh logical economics applied mathematics uh framework with OBS
+0:08
+directing system um uh if you go to github.com/obnex
+0:13
+uh and uh OBS uh GitHub uh uh gbook page uh git page uh you should be seeing this
+0:20
+u all this uh there uh the OBS repository on github.com/
+0:26
+Oscar B for Bravo I for Indigo N for November E EO X for X-ray E for umbrella
+0:31
+E SAR um yeah uh biological economics uh biomics
+0:39
+was the frameworks of ODS so uh before I start uh this is myation of economics uh
+0:45
+but you know as just state economics is just the m of money uh the man of money
+0:50
+uh if you're an economic person you doing calculus everything this my one is called biological economics is more
+0:55
+sustainable than economic structure of the topic uh But you know money is a is a is how I define it. It's really
+1:02
+applied mathematics um which is a physics of money the dynamics of money of banks of ecosystems and shares. Uh
+1:09
+but you know um this is my plotation uh based on the ODTS framework uh which is stand for uh dive trading system. Uh
+1:17
+okay uh foundation uh we got to build the foundation uh the framework the scalar
+1:23
+vector model and traation. Let's begin. Uh okay. Introduction to introduction uh
+1:30
+context foundation. Okay. Biological economics the living
+1:37
+mathematics. Okay. So uh let me just put in an analogy. So let me read it. Biological economics integrates
+1:43
+principles of biologic an economics to create a sustainable system.
+1:49
+is an ecosystem of services of people uh which is uh that pushes the the
+1:56
+economics activity to support human survival. Human survival is essential and prosperity,
+2:02
+happiness, fulfillment, enjoyment, prosperity, things you want to achieve,
+2:09
+you get it done by daring to biological imperatives. You know the same equivalent to this
+2:15
+having you guys is going to have to understand this. you're going to move around uh working on a um uh uh to uh uh
+2:24
+the uh the the frameworks. Now I'm going to talk about the this basically this and the balance we're going to talk
+2:30
+about the uh unit model, the vector model and the uh the scal scala model which is called unit model. Um but it's
+2:39
+more accurate to call it the scalar model uh the vector model and the diagramraph model. uh the computer
+2:45
+framework where you live and you work uh but you know I don't uh survival through mathematical verification and all
+2:52
+details uh you know provide detecting and show uh biological uh let me just my
+2:57
+slides for a second uh detecting systems that limit uh
+3:03
+before insurance uh this is worst case uh this uh for worst
+3:08
+case analysis you know based on uh resource like money over time how much you need to buy a
+3:14
+two years of buy house I just put in you know uh the goal of this you know I'm going to start with this uh I'm going to
+3:20
+start reading from my paper uh but you know uh this is just what this is um so
+3:26
+this one's here um the casual framework uh I'm put red to green uh black to
+3:32
+green but this is one here it's green and everything uh this is not the pen I need uh but this is the red pointer um
+3:38
+it's going to be really nice but it's not a pen point it's not a pen uh The cocial framework. You live there, you
+3:45
+work there, you work there, you live there. Okay. Let's go. Fundamental survival equation. Okay. Uh
+3:53
+basically um let's just look at example scenario first. Let's know getting back into the big uh economics. Uh
+4:01
+if individuals 15 and has an essential cost of £10, the reserve is £5
+4:07
+indicating a healthy economic state aligned with the biological need. You see what I'm saying? You know, so if I
+4:12
+buy a house £10, just £10 a house. Someone give me a house£10. I buy a house and the survival need is £5. You
+4:19
+know, I just need to eat, sleep, food. You know, if I want to use the toilet in my house, I can use the toilet. If I want to cook in my house and cook it,
+4:25
+but I just buy the house. Oh, wait. Yes. Yes. Um, if I buy a
+4:31
+house, all the essentials, the food, water, shutter, and the house, you get a whole house, £10. uh the the survival uh is a five pound
+4:39
+indicating a healthy economy of the bi I can do other things I don't have to worry about money every time I don't
+4:44
+have to run about like a madman I don't have to do ABC wrong you know I don't have to waste time so basically this is
+4:50
+fundamental equation the core bal imperative is represented by the equation work equal m equals survival
+4:56
+reserve the reserve where you can put in your bank account you know you know all
+5:01
+the things you want to do is you survival reserve the equation shows that the income uh covers essential costs
+5:07
+maintaining a a positive uh a positive survival reserve. Okay, go this time
+5:15
+biological first principle. Okay. Uh but you know let's not go back. Let me just
+5:21
+uh um explain this now this organis consume energy to survive and energy
+5:26
+expedition must not exceed the energy acquisition. This principle is on the basis of biology economics ensures uh
+5:34
+sustainable e economic systems. Okay. Okay guys, take it from me. I got it
+5:40
+here for you guys, but I haven't got it. I have to take off the thing now. But you know, I got it here. I'm going to take a picture and put it there. But she
+5:45
+can't show you guys. My camera is on my my background. It's going to be distracting from my background. I'm going to say what I'm saying here. So in
+5:52
+the worst case scenario, in the worst case for every animal
+5:57
+we we as you go up the food chain, you only reserve uh 10%
+6:04
+of the entire 90% of the energy system. You know because example let me just if
+6:10
+a if a worm eats dirt or eat a bacteria you know that worm die eats everything
+6:16
+and then a prey is a prey uh and that bird and then a bird then um uh or
+6:22
+caterpillar you know then or something a caterpillar or a worm get eaten by an
+6:28
+insect. So a worm eats an insect 10% energy only into it own system to
+6:34
+survive that insect that that worm or a caterpillar or worm it gets eaten by
+6:42
+a bird uh like a like like a single bed a single thing you know what I don't you
+6:47
+know 22 or something um that bird then that's 10% you know all the 98 spent res
+6:54
+energy facing trying to find and cast a bed uh then Go rat then rat 10% uh
+7:01
+there's a the bird is a rat a rat is a bird I mean a bed I mean a the worm gets eaten by a rat the rat gets eaten by a
+7:07
+bird and the bird gets eaten by a snake and the snake gets eaten by an eagle and
+7:14
+gets eaten by a viper you know like you know until you get to the top of the future us
+7:22
+uh we eat anything really but you know we I'm saying to you guys the 10% of the energy transition
+7:28
+uh propagates down no more than 10%. Do the math, ask the biologist. Don't ask
+7:34
+me if you're not sure. Uh just confirm my work. No, you know, 90% of energies
+7:40
+wasted going to catch the food, um going to sleep, going to find other things. Yeah. Um this is just um this is core
+7:47
+principles of biological economics. Why biologic perceives uh economics? Uh
+7:54
+second to the circ principle system collapse uh essential systems that
+7:59
+violate the burles are prone to collapse. Uh by aligning a comments with bot will present such failures and
+8:04
+ensure long-term sustainability.
+8:10
+You know you guys don't want to crush the economy. It's like flipping a one to a zero in a computer system. You know it
+8:16
+just turns off and no one can find the shares anything because you flips the whole thing. It's not for you just
+8:21
+basically when basically I'm saying to you if if one more thing if I have one economy stream only of shares and stocks
+8:28
+and everything and everyone uses that and so just flip it off like hack it and it goes off up you know everyone lose their money the system will crash no one
+8:36
+to get services because the shares affect everyone it's centralized so
+8:41
+basically if you have like two nodes and one switch off and the other one was still working can use the other one why
+8:48
+they fix the other one and so forth and so cuz you need an attack vector to do such a thing. Uh but you know that's we'll
+8:55
+come back to that. uh but you know that's a fraudulent uh fio system which I get on to
+9:00
+uh another analogy I'll give you guys uh system uh lines with economic values um
+9:08
+balance your uh longer stability uh long-term stability by learning because
+9:13
+you know the long term to places people's houses people don't want to lose their home you know um you know two
+9:18
+one year two one to three year basically one year you buy a house can buy update
+9:24
+up to two years to four years and say if you buy uh 3 years house you get 6 years
+9:29
+and 9 years uh if you buy 5 years house that means you're doing a PhD there only five years of PhD uh you life is 5 years
+9:37
+5 years 10 years 15 years you get a house you want the long-term most you can renew a contract any year
+9:43
+um so you see you see if you don't if you violate it you never to use it now
+9:49
+human economics human economist must adhere to berity by recognizing this we design systems that uh support human
+9:56
+well-being and avoid pits for uh of extractive economics
+10:02
+you know extractive just money you know just buy it you need it to get money you buy it you know it's about
+10:07
+sustainability I already have it I need to buy it again you know I already have a PS5 I need to buy PS5 again you know I
+10:13
+already have a Xbox need to buy an Xbox again I already have a a game PlayStation I don't need to buy a
+10:18
+PlayStation again I already have a house I don't need to buy a house again uh that's human economics Sustainable
+10:24
+practices implementing Bible resource uh uh prone do not deplete resources
+10:30
+supporting uh refrigerations people who want to build on top of what's already there. The future is now by the way guys
+10:37
+should be building now being accessing you know uh sustainability. So you're building uh things that already building
+10:44
+future proof stuff fixing the stuff that we already have uh in depth analysis just the principles uh but you know
+10:50
+these are what you should be really um focusing on for now let's continue with slides
+10:57
+the current system of failure current economics often extracts more resources than provide leading to negative
+11:02
+survival results for example an income of 15 uh £15 uh with a cost of 20 uh
+11:08
+results in a minus 5 survival reserve causing stress and potential collapse. Very stressful. Money is everything in
+11:15
+this country, the UK. I I I'm not even joking. You know, you got to get money to do everything. It's like it's like
+11:21
+signing to me sometimes. Uh but let me give you another example. So, basically, uh the this is not really complete, but
+11:27
+you know, say I go to TF and I go for a journey from here to Cantown and I want to come back. I my journey is £10. Uh
+11:36
+£10 and I get £10 exactly. Uh, and then I go, uh, my J is £5 each.
+11:42
+I go from here to Cantown in New Home and I try to come back £5. Uh, I come back. Yes. Uh, but then I spend for food
+11:51
+day. I buy lunch. I buy lunch cuz I need to eat. I eat breakfast here. Then I buy
+11:57
+lunch. Lunch is um lunch is let's say lunch is£11.
+12:03
+Then I never I then I then I have four pound left instead of five pounds you know of the trainer back and now her
+12:09
+problem I cannot get back from here. I need an extra pound to come back. Uh this is a current wife fails. The oyster
+12:15
+car would not be able to tap me out. You know if it's just an oyster you used to get there and back. You know what I'm saying? But but because you know I
+12:22
+didn't put it in my oyster. It was for my oyster first of all. Uh now I put it on my oyster to go. I don't come back.
+12:28
+Now that's called a fragile system. It's broken. System is broken. it stops you. Uh but so I'm but then in the worst case
+12:35
+scenario, I'm prone to police search because I'm autistic ADG aspect. I can get angry. I can get agitated. It's just
+12:40
+a simple money issue. Uh I can get uh stressed and uh people can they can define me the fine of TF fine of 2020
+12:52
+100 pound no 80 fine is TFL 80 fine uh which is TfL. But you know
+12:58
+that means I get my mother but you know instead of paying back the money I get fined uh to war me and the next time I
+13:05
+get cautioned or of police intervenement uh but you know the the fine is really the caution. There's no second caution.
+13:12
+You only get two attempts the fine and the police you been police record now you are criminal. Uh but that's what I'm
+13:19
+saying. The accus is up. The whole thing I see it's all fragmented. Uh it's all in fragments and you have to
+13:25
+navigate it very carefully. Uh so example is like uh the that's why that's
+13:31
+why opening sector models must never be uh abused you know we have to have everything in sectors like design and
+13:36
+technology uh design helps technology technology help design technology just uh computer stuff but with design tells
+13:42
+people the technology the button the layout everything what to do you know so have people that not programmers will
+13:48
+know what to do with it you know the design part of the computer architecture looks nice beautiful business stability
+13:53
+principles uh the director uh simplicity evolution pad keypad keyboard everything uh health
+14:00
+and social care sector for life that's why it's called a sector it works forever you know cuz it's not because it
+14:05
+works forever it's because it's um it's because it works forever it's because it works for sustainable that's why it
+14:11
+works because you know it's not because it works forever it's for life because it's proves his sustainability uh based on how it is but you know the TFL is
+14:18
+sustainability because you know you have a civil officer at TFL but don't do with people that stress angry you're
+14:24
+divergent Those people are called criminals. And when they harm people, it's a misinterpretation of a person's
+14:31
+being. It's not because they're being deceptive. It's because they're being disregarded as a problem. And they're
+14:37
+being um it's not because they're deceptive. They're not deceptive at all. They are um um
+14:45
+the system tries to um this is a word for the big word. I wrote it down here. Uh but it's not in any way, shape, or
+14:52
+form. is because the system is fragmented and they don't want to see the the reality of that individual that
+14:59
+struggling navigate. Uh they can't see the difference uh uh
+15:04
+the difference uh they think they're in defiance but they don't understand that
+15:10
+they're trying to defend themselves of course difference uh because they knew diversity way acting the way they show
+15:17
+represent themselves. Uh um yes um uh uh
+15:23
+yes police transit yes I've talked about that u nd model vector model uh
+15:29
+basically that's a unit model uh the unit model I'll come to let's go to next slide cuz it's going to get bor this slide
+15:36
+so this is the solution uh the ox unit model basically the money is a unit you
+15:41
+know you know that's like the 10 if you have 10 pound it's not a vector it's just a unit where the 10 pound goes from
+15:46
+a to b that's the unit you you know, it's going to get you from A to B, you know, and back, you know, that's the D
+15:51
+unit, you know, but it's fragmented, so you're going to work for the worst case, you know, you're going to have some more money to sustain yourself who's
+15:58
+traveling, you know. Um, open provision guarantee uh ensuring housing costs do
+16:04
+not exceed the annual cost of holiday states, host states. Uh, it maintain survival threshold for all individual.
+16:10
+Uh basically this one means you know uh if I pay for a hostel if I pay for a hostel uh10 that should be equivalent uh
+16:18
+for a year a year cuz a house is a house but I don't own it you know the hostel is a house because I just paid for what
+16:25
+I need the hostel for for week be a week or so if I pay for a hostel for uh one
+16:31
+year and it cost me £10 and I pay for a house 10 years it should be equal cuz it's still the same thing I'm receiving
+16:37
+the same components the same toilet it's a house Yes, with a£10 house for a year,
+16:42
+you know, it should never exceed the£10 house. Uh, you know, you know, or it
+16:47
+should be less than if it's a house actually cuz it's more sustainable. If it's it's under the type of house, it's like ownership. I own a house. I borrow
+16:55
+a house. I'm lending a house. So, am I the one actually using that house? you know, you know, you know, I'm I'm I'm
+17:01
+borrowing a I'm using a who's the user of the service who's actually holding the accountable uh when there's
+17:08
+something happen um in the thing to pay you know that's suspectable that's the
+17:16
+user contract that's the person to solve their own problem not the other way around uh okay so you know
+17:25
+provide uh uh to guarantee um verify Grand sorry show the economic system
+17:32
+remains aligned with the biological practice preventing conisional violation conal violation the misuse of property
+17:40
+uh especially um people that uh um that live in a road houses like you
+17:47
+know houses but have houses yes but don't um they don't they don't live in houses they they buy property but don't
+17:53
+use it so people that then it's an American problem you know but you know people that then go use the properties are called squatters
+17:59
+But you know the squatter's right to have that property under the American mandate but you know it's been mandated
+18:06
+property. The problem is that people that properties are just wasting economies resources precious resources
+18:12
+because people that want to buy it use it uh ownership uh buy it borrow it
+18:18
+borrow it uh borrow it buy it uh borrow it uh borrow it own it or use it. can't
+18:25
+use it because it's it's being uh it's not being used and it's not sustainable for them because you can't find it.
+18:30
+That's one reason. Buy it, own it and uh borrow it, buy it and own it, you know,
+18:37
+you know, just like a temporary buyer. Is it even good? You know, that's what the problem is in America. But the system is meant to be biological like
+18:44
+you know, do I actually need to eat this food right now? Do I have to wait for the winter just to pack the acorns? If I
+18:50
+wait for the winter, I if I wait for the winter, I wait. I think I eat the food uh then come at
+18:56
+summer time I'm fine but if I eat it autumn time summer time I then get hungry um near summer time and have to I
+19:03
+get up I'm working cold and it's not sustainable etc etc
+19:09
+uh chapter two okay chapter two what is uh this obsessive system now go to the
+19:16
+vector uh math uh this is one saying that um the basically the vector model
+19:22
+is basically uh money over uh money over the time I want to borrow the item. The money over the time is
+19:28
+very precious. Do I want to borrow it for like uh two one year, one year? Do I
+19:34
+want to borrow it one year? Do I want to own it one year or do I want to uh lend
+19:40
+it one year? You know, but you know, if I want to lend something, I want to give it to something. Someone would buy it to
+19:46
+buy it or borrow it or own it, you know, for one year and they can give it back. Yes. you know, you know, but you know,
+19:53
+that should never exceed the cost of the service of what I'm actually getting, what I'm meant to get, you know, what
+19:59
+everyone should be getting as public, you know, the full picture, the full service, you know, not the fragmented
+20:04
+pieces, the full like the full house, the full kitchen, you know, everything, the use of the cell, you know, the
+20:11
+hostel problem, you know, the host is a house. I'm telling you guys, uh, this is just the obligatory system. Uh, verify
+20:18
+flow. It ensures economist allowance biological imperatives. Uh if you go to github.com/ ots this year uh findings
+20:27
+you should see some more examples of this problems. Um but you know not the financial ones the financial put on
+20:33
+there uh bound computation opens uh provides bound computation with grant termination and showing the uh the
+20:41
+infinite loops undefined states. Uh but that's what it's basically the factor DAG. You can have like a scaler D but
+20:48
+the scaler is just one depend on what you're going to use for that time you know but it's vector D is more powerful because the money you have at the
+20:54
+current state I'll call it dynamic the vector model is dynamic. So money is the input money over time space or time
+21:04
+if you space time over time but the worst case complexity of the measurement for example the space a computer program
+21:10
+uses over the time it uses is not dynamic but you know equals to some auxiliary competition for example um log
+21:17
+O1 is N space
+21:23
+because that's the uh point and you know If I have like a O N² o
+21:31
+the^ n or n^ n you know above n factorial uh that's all the power 2^ n
+21:38
+and all to uh and then all to the power of n / n is 2 n uh 2 the^ n this will
+21:47
+not cut it in half. This will be uh that will just take away 2 to the^ 1 n. But
+21:52
+you know that will not divide the two into one cuz you know it still be less than of n. that still be equals to O N
+21:59
+higher because you know be higher than O N more than to ON and O is just linear time and you're going to make sure
+22:05
+linear time complexity is bound you know or logarithm time depending on the the complexity of the problem if you log in
+22:12
+uh which is more of a protocol mitigation cuz you know if a if a system uh protocol in complexity is linear
+22:18
+login is half of linear time so it cause the problem in half uh based on principle just half the problem uh merge
+22:25
+sort uh sorting just by divide and conquer by the merge organiz
+22:30
+basically generated a corum audit trailing economic integrity critical audit rates over the optimizes economic
+22:37
+path uh minimize cost ensuring the resources used wrong support um this is
+22:43
+very important minimal cost path you know that's the minimum one the audit and uh if you want to do uh a
+22:49
+cryptography uh blockchain um bounded computation is bounded by that competition it's not on device state uh
+22:56
+cuz onvice test state means that something is wrong in OJS framework and because you know infinite loops uh can
+23:02
+check your work it tells you that's the the system work it tracks it tracks this
+23:08
+but you know D vector so just not on state uh and the system will not crash
+23:13
+itself on defined resolution time meaning the fragmented anyway
+23:19
+uh let me say that's all uh let's go next
+23:26
+uh open basically directive one verifies income flow. Uh basically this is d
+23:32
+equals one. This is the federative uh verifies equals flow sustainable you
+23:37
+know you can use the basically you imagine the first change of system uh to
+23:43
+cost time and to analyze the cost structure. But you know in each you can use the space time analogy the money
+23:48
+over time resources that you have at each interval to minimize the cost. like you know it's£1 if someone give me uh1
+23:55
+pound to my uh uh for my oyster truck I I have £4 and I and I and I buy food
+24:01
+when I get one pound extra someone I know send me a bank account I use it to pay for the £5 I can come back to oyster
+24:08
+cuz it's dynamic calculate and then uh I analyze costs identify which area of
+24:13
+cost is optimized ensuring uh essential to not deplete survival reserve you know
+24:19
+what you you are the you know you are the one needing it uh this equals D= 1= 2 D= 3 uh this called derivative this
+24:25
+for derivative and that's the ODTS you know you know you can call this ODTS one which you know this is D for derative uh
+24:32
+uh uh assess the time uh ruins and
+24:43
+really um uh one um it gets into multivariable calculus which is derivatives
+24:50
+uh observives but you know They're really fragmented not really because they have multiple variable and they relate to rootives uh because they have
+24:57
+multiple variables uh that's multi multivariable calculus uh but you know they have multiple variables and you can
+25:03
+derive multiple equations uh for the same solution uh that's called multivariable calculus but you call it
+25:10
+uh uh uh what's it called um there's two variables missing your
+25:15
+unknowns and then you got a system of linear equations d resolution uh for
+25:20
+complex system analysis um uh communist function the function that work equals housing survival
+25:26
+request by buying a distinction income expense basically uh produce survivor this this is the most important you
+25:32
+survive your money doesn't work you get your money back any time but you know this can be traced mathematically I'm
+25:38
+saying my example d equals 1 is the increase survival one housing
+25:44
+cost uh the duration will help you understand uh each factor of a survival
+25:49
+reserve you know this is difficult one. Uh so basically calculation uh b equ= 1.
+25:56
+This is the first derivative. So if I have like uh 10 uh um£10
+26:01
+to go to oyster, I'm going to try to work that out here cuz you know£10 oyster 55 5 to b can aford
+26:10
+uh uh 5 uh 5 + 5 = 10. Uh these are two
+26:15
+variables X and S but the DX uh changing uh changing the the five is five pounds
+26:22
+two and four. Uh but you know this called a cartigian system but you know it's coding system it's called an hamiltonian graph uh hamonium means uh
+26:30
+uh means edge uh e for edge
+26:39
+uh h for 11 cycle but you can use a d or you know
+26:46
+d to solve this problem uh survival cost uh but you have I get10 pay for the
+26:52
+oyster. Then uh minus1 I get4 pound and I get4 pound and I have
+26:59
+to get5 you know and then get five one pound somewhere else then I get5 to come
+27:04
+back but then that means I owe someone£1 you know if I get one pound I owe someone one pound but this why is really
+27:10
+important to solve this problem you know cuz you know that person gets one pound back you one pound for everywhere you go
+27:19
+multiple
+27:34
+So this is scalless. So this is a scalless system. Uh the bure has a single house uh work eal housing cost
+27:40
+food energy uh 15 you know this is just a social
+27:45
+it's not negative amass you know one the first derivative the second derivative
+27:50
+you know but you know the ris like you know based on uh rise so if the rise um
+27:56
+and k and inverse k principles uh you know the first derative is uh change two
+28:01
+is change over change that's curvature over Fine.
+28:07
+Three is um
+28:15
+uh three is my little verification. You know, you can use the two scalers is just numbers, units uh of the minimal
+28:21
+one to just just get by. You know just get back uh scalers
+28:27
+uh scalar proof uh scal scaler to vector tenza scala model individual scalar to
+28:32
+house vector uh community matrix and biome tenza. So this is just a model um the biome by everyone's um ecosystem
+28:40
+biome maintaining biological integrity and economic stability.
+28:45
+uh but you know the individual is a scalar to a housing a vector I pay for my house I don't pay for I have a room a
+28:52
+community is a matrix the community is a matrix like you know um the shared interest group and the biome is a tenza
+28:59
+2 the matrix uh cuz you know it's a subset of matrix you know of the tenza
+29:05
+but it's a tenza because it's a 4D uh e biological uh economy like a park
+29:11
+service but you know my local community is the matrix I can work with my local community. Uh I can express my biome but
+29:18
+I don't I don't have to go to external biomes to to interact with the ta because you know that's external biome.
+29:25
+Okay. Thank you. Um integration stability by
+29:31
+uh four vector models. Okay. Okay. Let's see. Vector models house. Uh the
+29:37
+household economics model uh includes mortal earners uh uh individuals food
+29:44
+water uh to pass this model takes uh by local stress points. So basically shared
+29:49
+housing uh with income 5 to three but you know are you people 321 and surplus
+29:55
+things that we normally consider. Um so basically um the shared housing uh uh
+30:01
+household is a vector you know you have a big house you have shared interest to share resources two uh income is among
+30:08
+each ear ensuring that the incomes survival reserve maintain economic stability. So that's why the vectors are
+30:14
+really important because they they they they work together to solve the one problem. You know everyone should pay for whatever they use anywhere
+30:21
+uh share housing cost uh individual burden. The house maintains affordability and does not deplete
+30:27
+survival reserves you know uh the surplus of components under stress allowation to maintain biological
+30:33
+economic health. Uh basically um it's like you know it's
+30:38
+like a confusion matrix. I think of an AI because you usually confuse the AI to do something but you know it takes into
+30:44
+account that's what mean by surplus detection you know maybe this person is working not working hard enough maybe this person needs adjustments uh but you
+30:51
+can uh until they um do that's a stress uh like a stress matrix confusion matrix
+30:57
+that you put yeah to solve the problem uh but you know give it confusion to solve a problem it's kind of weird but
+31:02
+you know confuse the model to make it get better you try retrain it based on what he's trying to observe it's
+31:10
+uh something you should know on it but you don't tell what it is. Uh uh share housing uh cost uh
+31:20
+but this one I'm saying housing uh house leave
+31:25
+uh committee committ multiple houses verified food and schedule okay so basically uh I got this
+31:32
+here I don't want to talk to my screen now the matrix model is there but you know the saying that framework is there
+31:39
+for the matrix level because the commation is the matrix level But it's not really about the matrix. I can build
+31:44
+my own too. I can make sure to build my own constitution on my own biome. Uh so
+31:50
+we got um x = 0, y = 1. Uh but you know this is just a there's no 2x + 3 = y.
+31:58
+When x is 0, y is 3. When x is 1 and y is 5. And when x is 2, y is uh 7. Based
+32:06
+on 2x + 3. Uh this called a sequence uh sequence because you know it doesn't
+32:11
+alternate. Um you know uh series can be resolved to a dag
+32:17
+function. Uh we've got a series we can use a series um to uh do the same
+32:23
+because series is a sequence but the only exception to the rule is a sequence can well series can alternate and a
+32:28
+sequence cannot you know the Fibonacci sequence uh it's not an alternate series. Uh but you know uh - one 1 / 2
+32:38
+uh uh comma 1 / 2 - 1 / 4 1 / 4 - 1 over
+32:44
+8. Um the the the alternate values. Uh the goal is to have the uh your
+32:49
+framework strong enough with a direction to resolve um any money that's been taken away or anything been incremented.
+32:56
+Um so you can compute how to fix it without economic collapse. uh in the coming uh uh model uh uh
+33:03
+coming from balancer based on it can rebalance the money and the shares uh based on survival heristics uh like you
+33:09
+know um I got it here somewhere uh but you know uh I think I put it here some I
+33:14
+did put it here you know I did not uh yes this is not it this is it of the
+33:20
+model you guys can see it cannot see it uh let me just see whether I can uh you can see can can I pause this uh uh
+33:29
+so basically you can't See what I have here? Oh, you can't see it. So, basically, you see this here?
+33:35
+This is see this here. Let me put my face here because I can't see here. So, basically, see this here? This is called
+33:42
+a a photo system. Uh hybrid topology. Uh but you know the X here, you see the X
+33:49
+here? Um you can switch can either be um um um doing one job or doing other job
+33:54
+based on whatever the job doing the priority of the grow task. you can switch it cuz the hybrid model they can
+33:59
+either um flow money it's like an onoff solution you know they want the floor one the right direction or they can um
+34:04
+turn off a node because centralized decentraliz turn off they keep it on for life but you know the the the node is
+34:11
+centralized it turns off but it doesn't turn off it switches row it becomes an X alo it's because a cross uh but you know
+34:18
+it's about sustaining the flow of money uh based on a peer-to-peer bust topology
+34:24
+topology uh because it's a network of who pays who Uh and the particular some reserved uh
+34:31
+for centralized um for collapse synation for centralized only uh that priority uh
+34:37
+the go priority key or priority uh to do some talks uh but you know the the flow
+34:43
+of money um is for people to have more sustainability in the go
+34:50
+model the biome uh economics span multiple integration integration
+34:55
+community uh sharing education long-term progress. The tenza resources are what's coming to you with resource
+35:01
+sharing. Uh basically the tensor model is the biological system with the park the food water the experience of the
+35:07
+world around you the progress of t uh the long-term progression uh align to the this one you know stability of the
+35:15
+supposed you know the goal is to support these type of people you type people that have that going to work uh and not
+35:22
+be stressed the goal is to have a biological I can work at a park you know and I can finish on time but you know I
+35:28
+had to finish on time and then uh have what the fun I want and then come back to work I feel like I'm not working you
+35:33
+know that's just example I'm giving cuz you know I'm not stressed already so I do some work I come back to go to the park uh I get bored of the park cuz I
+35:41
+had a lot of fun and go back to work because my I don't see a need to play solo or or interact in the in the park
+35:48
+cuz there's no point of me standing piece of time especially when it start raining my body can be unpredictable when it starts raining uh because it has
+35:55
+the same way so basically have the same way I can read a book everything and then understand everything and then uh then I get stressed and Yeah. Uh there's
+36:02
+a term for it. Um it's a very bad term for it. Okay. I go back.
+36:07
+Uh graph model. Uh this like graph cycles based on active system
+36:14
+consumer observer pattern of state or shares and stock. So you know what's going happen in real time.
+36:21
+Uh balance price model. Um is there anything I forgot here?
+36:33
+Yes. Uh vector model um James new divergence trace difference transit
+36:40
+police no sector uh basically the ecology or the sector is basically the
+36:46
+biome sustainability but it doesn't start the community stuff. Can a community sustain itself? uh can
+36:51
+everybody work together before we get to the um the price and we're working with external uh sector models um uh but you
+36:58
+know to solve our problems uh the the president showed the housing cost the annual cost presfable
+37:07
+and need to survive um reserves community members so basically the bure
+37:14
+is like you know the park I'm not I don't I can live in a park yes but I have no park rules you know uh for one
+37:19
+day don't Stop stop ping me. That's a fly. Uh so the bio pricing uh the old
+37:26
+tracks the state of the new biome the new economology you never have a new kind of park
+37:31
+infrastructure and people don't live in parks. They will not sustain themselves because they don't want to live in parks or people that not really interested to
+37:37
+live in parks are forced to come there because you know other places but you know because they make problems immigrants. It's not about immigration.
+37:44
+It's about sustainable. What can you do in this biome they come to? There's no point of being you been in the wrong
+37:49
+biome if you're not going to be able to uh do something with the biome. A farm uh cook uh survive at a rural area um um
+37:58
+rural uh not urban uh urban is not rural like rural is not urban you know
+38:06
+uh the house again. So basically this is remind of my uh error exception panic
+38:11
+model. Uh again we have if the thing doesn't resolve we can think of this like this low or low to medium medium to
+38:17
+high uh medium to low um low to medium low medium low to medium medium to
+38:26
+medium medium to high uh 1 2 3 4 5 error propagation. But then we can get uh uh
+38:34
+six to 11 system recovery uh low recovery. Uh but you know like you know
+38:40
+if the system panics at 11 11 we can have that uh 11 is uh it goes to uh uh
+38:46
+it goes to panic here uh this is the system can't that unit cannot resolve itself or that's ka that vector cannot
+38:53
+resolve itself you know whatever the system is at the state 6 to 11 six uh low to high what uh panic um uh safety
+39:00
+critical recovery uh fail safe recovery uh force torance uh error to money
+39:06
+tolerance you know uh This is more better for you just like uh uh and then
+39:11
+12 to 8 18 uh for every model that every program you write obviously 12 to 18 is
+39:19
+fail safe the system try to kill itself you know uh but you know you can swap out um the fail because it's panic it
+39:26
+can't even recover it's just panic 12 to 18 low to high fives uh but that's where
+39:32
+the housing price is nor the house anyway um director Exactly model uh electors
+39:42
+have got to show no depth trap circular dependency or maintain economical causality uh what's the problem here of
+39:50
+money you know because this is like a piece of rhetoric reasoning you know if I so I can have say if I try to do A I
+39:57
+can get more money to get B if I hustle to do A my rale is in the rhetoric that
+40:02
+people are doing A it makes me money streaming content creation should give me more
+40:07
+I should be a man. That's my causality claim. And the cause of me doing that is because I'm making my money to do ABC.
+40:13
+Uh and I enjoy doing ABC because it's fulfilled and prosperous. I'm doing consecration making games. You know, I'm
+40:19
+having fun with my life. Cyclic properties, the secret properties of Don depth trap ensuring that does nothing to
+40:25
+and does not result in each edge of
+40:31
+console.
+40:38
+Um the coming dark model uh floor um housing uh dark glass you know show non
+40:47
+negative survivveness you don't need it non negative you know uh you don't want to lose any fuel for one day uh okay uh
+40:56
+integration very important so we got a graph model the dark model cycle model
+41:01
+uh based on what the sector is what the job was what rule is and the error progression models. Okay. Now the 60
+41:08
+because you say the oyster car fails everything and there's new fixes in the old system. If it's broken there you get fined get to jail become a criminal. In
+41:15
+this new system it fixes itself. You get new services, new opportunities, new um a new systems integration, new
+41:22
+components, new way of doing stuff, new equipment to help someone navigate like a like a wheelchair like something to
+41:28
+climb a you don't have to walk uh up an escalator. You can get someone to that's disabled to sit on an escalator system
+41:34
+and the wheelchair will connect to that and then move that wheelchair to that person. There's no need to get that
+41:40
+person through the process of the escalator in a tube station which is scary for that person believe it or not
+41:45
+but that's integration the change the change ofation whether you work services instead of new
+41:53
+um resilience people that have grudges people that don't want to do job people
+41:58
+want to leave consusion people lose their job who are getting angry agitated emails uh uh threats uh of bureaucracy
+42:08
+things that shouldn't be happening in the workplace. You want to work there, not get it to argue. Okay.
+42:16
+Uh uh the tradition EU governance
+42:21
+provides uh uh local basically biology. So what can come with
+42:27
+ensure protocol to ensure basic be login everything is a protocol be login uh or
+42:33
+less than uh one or less than if it's end cannot be n squed cuz you know the the thing actually sending a message so
+42:39
+send an email to someone over protocol and get it's not getting intercepted it's fragmented protocol and the system
+42:47
+log in and system logs in it's half of n it's
+42:53
+half and system then uh and it's No, basically my message is just n my message n squ in fact or like more than
+43:00
+n uh then uh to the power n then the problem is that the the the protocol the
+43:07
+the basically my message is 2 n uh my protocol starts off at 2 n and my and my
+43:14
+of 2 m 2 factorial n^ n and my message is uh
+43:20
+n to start up then the n over 2 m of a protocol would not make sense because you know it's fragmented and you haven't
+43:25
+seen that message because the protocol is not standing up and can intercept it because the protocol is not send
+43:30
+connection because just fragmented and broken because you get a new orders choice a new system to recover that uh
+43:36
+ODTS uh uh uh one public assembly uh or how public this committee public
+43:41
+assembly establish committ decision make committee municipality provides so basically just means that the public
+43:48
+assembly um committee showed the committee policies are aligned you know this system we're not perfect but the
+43:54
+the new work that the humans that meant to do that meant to do the job. Uh what is verification? Uh you can hear this
+44:01
+video but the vacation means the value needs new decision making. So sorry not sorry # sorry not sorry I'm not sorry
+44:07
+for your work I'm sorry for my work. I'm not sorry I'm sorry for my work but I'm not sorry for your work. You know it's
+44:12
+like you know you have a pipe system. I push a code to my code and my code breaks that codes break and that person
+44:18
+complains about my code. So the person saying to me, oh # sorry what's the reason close
+44:25
+act ABC your work did ABC but did not follow I write ABC go back and do ABC
+44:32
+and then you say oh that makes sense and you put it back and you get one public assembly or you can get the human
+44:38
+advocacy compliance cycle constitution uh hack I call it hack
+44:44
+because you it's like you know human advocate human compliant the cycle continues kind of cycle of life to work
+44:51
+continues. Uh I got other policies too. What's other policy? Um dark psychology
+44:57
+mitigation uh policy. I wish close uh but you know it's more of course because you don't
+45:03
+put dark psychology don't don't make people know my work. Uh make an inquiry. Make an inquiry. Inquiry inquiry are the
+45:10
+same thing because they're internal external. Uh
+45:16
+um integrating traditional governance with the modification system.
+45:21
+Uh and biological health prosperity. We're happy. We're doing stuff integrating. We have no problem here. We
+45:28
+work smoothly. We just do our job. Most importantly, we're happy.
+45:34
+We're fulfilled. B school councils ring zone uh B
+45:39
+councils implement a ring zone topology 2.5 mile led ages self-sustaining units enabling a local governance across zone
+45:47
+resource sharing. So if you work at 2.5 you can work there that's 45 minutes work uh to uh but you know there's a
+45:54
+breathing room but you know the counselors have a quote next to them have a quote next to them just to sort them out you know you have to go to
+46:01
+external third bodies to sort your problems out council has a court there's no system to start a court because you
+46:06
+know this court is the court has to find out the problem you go to court you go to the council you don't go to two
+46:11
+different places at once you go to where you going to go uh what is your inner zone floors
+46:18
+maintain integrity that supports uh a community members. Uh ring is zone topology. The ring and the zone is the
+46:24
+area. The ring is the ring you're in and the zone is the the zone you're working in. Uh when you cross a zone, when you
+46:31
+don't when you you can't cross a ring directly, you can cross it. You can't cross a zone cuz you're that's work. You can cross a ring cuz that's the
+46:37
+breathing room to cross other side. But you can go um uh ring uh life work
+46:42
+breath. But you know there's less work here basically. This is the word no work here because the uh zone life work
+46:50
+breath or the breath life work is the destruction. So you can have like a by
+46:55
+direction mapping between the two. So I'm saying again let me put it again. You got a mapping of the ring ring.
+47:02
+Ring sorry ring. Uh ring dot uh life ring.work and uh
+47:08
+life uh and then uh zone dot uh life zone do zone breath zone. Uh zone life
+47:17
+zone breath zone. You know um based on that one that's how it works cuz you know you breathe live work uh live work
+47:25
+drink and that's how it works. uh integration and then we go
+47:30
+10 year education uh to 10 year educational progression of relations models as a direct graph showerity
+47:41
+the guys prepare as no comments with direct graphs foration impact uh
+47:46
+education integration but you know people going to live there uh one 1 + 2 is 1 plus 1 is 2 uh 2 + 2 * 2 is 4 but
+47:55
+you know that's a 4 a milestone. If you're doing a masters only if you can stay there for four years in the position
+48:01
+uh but you know uh if you're doing a a PhD just get the uh you can get three
+48:06
+years three to two * 2 is six instead of six years every contract we need 369 uh
+48:13
+6 years 5 years a PhD and then we can get the one year extra to breathe uh and
+48:19
+then times uh 6 * 3 * 6 * oh 6 + 6 6 + 3
+48:24
+is 9. So it goes up in twos. Uh oh, is it? Oh wait, sorry. Uh one, two, three.
+48:32
+Is it counting ones? Uh three years max. Uh two
+48:38
+uh three cuz you get three years only for bachelor minimum. Uh 1, two, three. Uh 3 + 3 is 6 years. Renew six years,
+48:45
+renew three years, and plus three nine years. And you get five years PhD. Five plus five years housing. uh plus five 10
+48:54
+years uh housing research and then plus 10 10 years five is 15 years maximum 20 years sorry
+49:01
+not 15 years 10 years uh uh progress uh 5 10 I think education you live there
+49:08
+you work there you survive there you don't you don't have a a problem because
+49:13
+you know children going to be happy there because you know they don't really have a problem with the fragmented ecosystem they just know where to go
+49:20
+especially the children if the children knows where to God they they have no problem you know social educating and
+49:27
+deliver constitution for life implementation captures
+49:33
+uh practice school your basically your so basically health demonstration my one
+49:39
+but you this is this uh housing uh your survival how do you demonstrate
+49:45
+coherence now now measurement based on the 5.5
+49:50
+card you're going to We travel with whatever you want. You know, just for 5 minutes, we can travel there with a bus
+49:56
+or a bus. You know, you can just travel there. You know, just know where the condition is. You know, it's it looks
+50:01
+nice. You know where you're going. The design is there. You can you got the accessibility signs. You know the roads. You walk back to your house. You know,
+50:08
+you live happily. That's what you get. Survival reserves. The bike status is healthy and the system code is over
+50:14
+compliance. Yep. You just see interest
+50:19
+uh then you get uh uh an academic uh uh
+50:24
+reduces work income while housing meet 10 stress uh ble of stress and then ODS
+50:31
+detection uh so basically stress scenario
+50:37
+is also negative uh triggers emergency restore biologic
+50:43
+components and preserves scal uh response protocol reduce housing cost
+50:50
+position which is like uh 1 to 5 uh 6 to 11 and
+50:56
+12 to uh uh 12 to 12 13 14 15 16 17 12
+51:02
+to 17 uh fail safe mode uh and then uh bical protocol community
+51:09
+support temporary housing cost emergency basically
+51:14
+In emergencies when we have new people we we should give them temporary housing
+51:19
+but you know the temporary housing uh protocol stores biological compliance and they work there you know but you
+51:25
+know it's just an emergency response you know for people that actually want uh but you know this is a work in progress
+51:31
+because we're going to have many emergency there um uh verify
+51:38
+protocols are positive maintaining biological and economical inclusion you know the Go consition is very important
+51:45
+for me because the goal of this most vulnerable people in society that actually want to do something like myself I know it's time bureaucracy
+51:53
+uh but just a road map to it uh we got long-term stability uh biological mature
+52:00
+mature timeline the magical maturity time includes stages of region which is stage uh stability perspective uh year
+52:07
+one year 1 to three and then year 1 to six growth and year six to 10 maturity. Uh but you know this is like um the
+52:14
+foundation a hostel for survival is this like a host still a biological but you know the the good is hostile because the
+52:20
+house is a hustle the same thing exactly but they don't frame to the same thing because someone else is fragmented
+52:26
+system uh the year growth the growth of stealing accommodate equity equity development sure transparency because
+52:32
+you know equality is not equity because you know everyone's pulling the same stories equality but you know but you
+52:38
+know equity is putting the right giving people the right assistance right That's equity. Equity is not uh removing
+52:45
+the uh the barriers that that of us have under a or not. Uh dyslexic or not or or
+52:52
+like broken mentally or not uh to have the most chance of doing something much
+52:58
+uh while the maturity actually fall um through the 6 to 10. Uh but you can
+53:03
+think of this for people's ages um uh 1 to 3, 3 to six and six to 10 years. uh
+53:10
+you can get house of five years uh 6 to 10 years is the you know if you are see
+53:15
+I have a child is 10 years old uh I don't but you know a child is 10 years old they can be at full maturity then
+53:21
+because they understand the system because you know they understand enough about system you know to work it out n
+53:29
+10 cuz you know I want just work it doesn't work about money doesn't
+53:36
+economy do not lead to undefined complete uh B computation and then the
+53:42
+three cross partial assistance consistency like multivariable calculus uh things that we don't know we check
+53:48
+for unknowns over systems that we meant to knowization
+53:53
+and then gain you information to solve that problem over series and sequence
+53:59
+Hamiltonation moral focus individual dark model uh for
+54:06
+housing blotation single house compliance.
+54:12
+I you know you know the single house for compliance is just one person's house. Uh but you know I don't want everybody
+54:18
+to want to have one person house by one person then like me uh more focus on
+54:23
+families. Um but you know I can have two or more people uh because there's a housing crisis in the UK right now and
+54:29
+two people uh two people uh can live in a house uh to have a business there and
+54:34
+you can run a business in their house but it's the one person can sustain themselves in the house but you know the the way you live at the top but
+54:40
+basically everyone houses the rooms at the top uh the top floor twotory building top floor the first work you
+54:46
+need a bigger house uh to sustain each other uh but you know that's the main
+54:51
+part you know you have a building that's two store top bottom floor and top floor. But if you want them span out uh
+54:58
+like a lab, you can uh walk to the work, but you can have like a work when you work if you want to do that which I'm
+55:05
+pushing forward into. So you can live exactly where you want to work, you know, like uh if you wanted to if you two families a small business, you have
+55:11
+a shop, that shop is the house uh and then they live they have two for a flat
+55:17
+and this uh yep. But you know um for one person they need just a toilet and to
+55:23
+serve a structure that's cohesive work and not fragmented uh especially on the worst case scenario for complex kill
+55:30
+politicians uh the Brits basically uh conclusion
+55:37
+wisdom e basically um the eu wisdom provides a cultural pattern and support of
+55:44
+biological ensuring the economic systems are grounded in traditional knowledge and local verification. uh which is just my knowledge of
+55:51
+economics uh from philosophy. uh the W with uh the width of the system like you
+55:56
+know the span of the system you can have an X and the width of the X because it's the span but you can have a wet of the
+56:03
+but think of the think of the for the tenza position uh addition layer of the
+56:09
+biome eology but you know ecosystem but the width uh W the width uh it's like a
+56:15
+if you know what the tenza like a a quian is restriction system that's modeled after uh but this is based on
+56:22
+the Gian philosophy the into so the y w x y represent the problem of reduction
+56:27
+uh x was one problem and you solve that problem y but don't ask this problem the west of
+56:33
+the y ecosystem and you can get this problem this problem this problem this x
+56:39
+gate y gate z gate and gate the change model of the matrix and that system will
+56:44
+rotate itself to this one or begin the breakthroughs and the system will cor
+56:52
+7 plus 7 level structures The symbol shows the economist level with a biological practice promoting long-term stability and prosperity and build your
+56:59
+own biological uh biome uh sustainable systems. Build your own biome encourages
+57:06
+communities. I'm going to encourage you guys. Yes. Build your own biological economy integration. Build your future
+57:11
+build what you want. The time is now. You know have one pound two pound starters can start a pro and do what you
+57:18
+want. It get confusing a bit. Summarize the biical economics mission
+57:23
+uh biology pursuits economics. Yes. The biological
+57:29
+survival uh supports human survival and prosperity first. You first human first
+57:35
+life first work next. Uh survival reserves maintain unless someone can prove that to me. No. Uh maintain a
+57:41
+non-negative survival economy. Uh cultural uh grandation improve
+57:47
+something that sustains you. the butterflies in the battlefield, you know, working day and night to verify
+57:53
+yourself, you know. And then next summary, call to action. Join the revolution.
+58:00
+Join join. Try English yourself. Try a computer program that demands your finances, you know. Write it in C.
+58:06
+Python flow G. Build your own D function that he try
+58:12
+sustainable housing. Try and make a program that pays your house. Uh try a Bitcoin system. uh in rust that that
+58:20
+does this. I don't really care just open access is ready uh uh uh you know v you
+58:26
+know then build systems for life life sustainability and human ensure long-term prosperity I'm glad you help
+58:34
+guys you know then put it on the internet you know try to do it yourself persistent for life for your life for
+58:40
+for the life of you for the life of you then foundational resources key
+58:45
+resources uh obesence says uh for this you can go to GitHub uh
+58:53
+for resources uh land administration oh uh okay any questions okay basically this is Q&A
+59:00
+section but I'll try to go towards anyway uh the administration includes all from that recent um uh uh service
+59:07
+live tomorrow thank you thank you guys for watching this thank you okay guys I
+59:12
+hope you guys have a lovely day uh but you know the goal is to for this to be sustainable by itself you don't need any
+59:17
+external uh bodies any external bs uh giving you money like countries doing doing this nonsense of of doing money
+59:24
+laundering to service that that bankrupt uh 700 million pounds loss um lawsuit
+59:30
+lawsuits and wasting people's time and money and effort but that's why the biological ergonomics
+59:36
+repository matters too. Uh it's about biological economics because you don't want thorough council to be uh because
+59:43
+to me thorough council is just keep splitting the finances of of the system. Uh it's really Islam. Uh it's a Islam.
+59:50
+Yes. Uh in my view uh because it's economically you not vote. You actually
+59:55
+devote uh traditional white people. Uh but you know they have the money to sustain themselves. Only people that do
+1:00:02
+not do anything uh more. Therefore therefore that's what I'm saying to you guys. The the system is broken. It's
+1:00:08
+it's not fragile. It's just broken. It doesn't bend. It just reshapes any how they want it to. Uh cuz they have money.
+1:00:14
+They've cut the balloon. Thread on the balloon is cut. Basically put a basket and we as the poor people wear the
+1:00:20
+baskets but the rich people have the balloons. So basically they go higher and higher but the thread has been cut and we are falling down. We're getting
+1:00:25
+poorer and you know this will be some kind of more get rich then we get richer
+1:00:31
+the rich get richer which get the the poor get richer too. But now get the poor get poorer and that's what's
+1:00:36
+happening to us. Uh uh okay let's go.
+1:00:43
+Uh, so I'm going to stop this now. Uh, have a lovely day. Uh, go to my, uh, YouTube channel. Uh, find my social
+1:00:50
+media, my Tik Tok everything, and then go to my G link. Uh, and my pages. Go on OBS robots, github.com/obi
+1:00:57
+nexus, and then find that there. actually way to find the audiences from Kate
+

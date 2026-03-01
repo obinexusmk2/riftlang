@@ -1,0 +1,103 @@
+Unknown Speaker  0:00  
+The user. So the thing about this
+
+Speaker 1  0:05  
+read back animation is that, you know, the three nodes are there, but they're always there, you know, until they stop being used or have time out of new properties, everything can have one, Peer to Peer, peer to peer, bus topology, ring topology, just like a photo and system, things that can heal itself, because there's a way to recover from another node, another service, in the same thing you're doing before. You know, because I can switch, I can be doing the talks wrong. And, you know, if I'm not being prompted, if I'm not being doing it right, they can, I can switch my role at first and take it that talks on to do it. And that's how it works, you know, you know, because the dinner, basically every node XO, do two things, XO. And you know, if those two things are spread around, two programs, I mean to do it, or two plugin systems, polygraphic system for me to do it. The first node, two circles, then takes on role x and second things, or O. So basically, when o fails, all fails. Or when x fails, X fails, it goes offline. O can switch to x socks, and then x, O become x, and then was then we send X to O, X to X to stop fading, and then recover x, and then you get the old x working, and then that one will switch to O, and vice versa. You know, it's not X and O are jobs. You know, the jobs don't roast. It can be, but then the four train model. So basically I can have x, y, z, but, you know, X, X Y, X, X, A, A, B, A, x y, b, but you know, there's way to cover that based on the model. You see, this is false isomorphism
+
+Unknown Speaker  1:36  
+between the nodes and the and the
+
+Unknown Speaker  1:38  
+loops. You know, the loop
+
+Speaker 1  1:40  
+system. That's coherence, hallucinating. I'll come back to that again. So basically, I'm saying to you, if I've defined a job, a job, a job B and job X, Y, they do things. They do different things. But there's way that the topology, there's a model you can use that's for four, four turn words, you know, full healing. You know, basically, I can a, it can do B's job, and B can do Y. B can do A's job, fine. And then you can get x and do Y job, or Y can do X job, you know, because that's like, how the healer, if A and B have to work together, there's a team we can quit. There's a kind of formula can write down and try to find that formula right now, besides fuck it up, conclude your own topology for that system. But that's what's not there yet. So basically
+
+Unknown Speaker  2:27  
+topology will be a b, a b to x y, a
+
+Speaker 1  2:32  
+B are jobs. So basically the heterogeneous A B, a job. So X, a b to x y will
+
+Unknown Speaker  2:37  
+be A B X Y, a B X Y, A, B X Y, A,
+
+Unknown Speaker  2:43  
+B X Y. So that will
+
+Speaker 1  2:46  
+be b to y, b x y, b can be to x, b to commit y, and then now the eight commit to x and x commit y, and that will be the same thing, vice versa. You know, x can be to A and B, and B can be to and then y can be to A and B. And these are two groups. You know that by 1x A b, y to a b, b to x y. And these are jobs. You know how the system works, you know in the world, and this is just jobs you can do. And if somebody fails, there's a kind of a geometry can construct, business powers or locality and sparse different models of it. You know, business topology modeling to ensure the system can recover whatever the system was, whether a fixed point or the fourth was based on whatever program halted without, without activity was actively being observed with the observer system.
+
+Unknown Speaker  3:48  
+Oh, three, four minutes. Oh yes. So I'm
+
+Speaker 1  3:51  
+saying to you, so basically, go to here. That the ticket. Yep, I think bad. I just did that myself, because I just king. So what I'm saying to you think about this is a FIFA example. Expose the so basically, can find the games universe. One child can find it. So you're the worst case scenario for the system. So I can just be Docker. Expose all the games to the game, the process is there, just kept away from the prying eyes, you know, or maybe by the hand, can keep you in plain sight, disintegration for next game. But you're looking the wrong way. Children, especially, we're looking at the stuff they want, not the stuff they don't need. You know, you know, because I don't want to do on a freedom of expression, what humans are there? You know, basically the humans are there in the Constitution. You know, this is just human rights in the articles, but to have 30 human rights for the avatars, I'm not joking, you guys, that's a policy. Now, you know, every every other has a policy. Now, 30 human rights, 3130 avatar rights. Human rights. Make it reduces. Reduce it dynamic.
+
+Unknown Speaker  5:11  
+Human Rights rules,
+
+Speaker 1  5:13  
+okay, basically open loop and close loop hallucination model. So basically, thing about the open loop system is like, you know, okay, let's do this now. Oh, no, there's one this muku glimpse now. Muku glimpse is, like, the art is, basically, this is moving into the future. Basically, I kind of have a lot of the glimpse is, like, my senses, you know, like, you know, it just takes a glimpse again to get a win, or, like, a glimpse. It's a blink, you know, negative aura. So I think glimpse and this guy one, it's more positively aligned. So the thing about the glimpse is, like, you know, it's like, it's like, it's like a based on how systems are in the road. It's like people are like doing work. So this like a verb, pair of a diagonal topology is based on the glimpse, you know, it allows me to authentically press yourself by the how the glimpse, how they evolve, how they how they strategize. You know, the thing about this is the system is verifiable. It allows people to develop new ideas with a glimpse the groups. So when you listen to a reality of someone else you are, you are looking at the art and saying, Okay, who are you? Who is this person? But I'm looking at your avatar. No, you know. So basically, can touch the glimpse into the reality with such an idea, if they think this is just Batman and you
+
+Unknown Speaker  6:45  
+know, you
+
+Speaker 1  6:47  
+find out who's this person. And these people can bring a family enemy, you know how screen or you know, you never know, but you know they have authenticity. But the thing about the Group's new code that's glibs is a lawful YouTube learns authentically with that individual, how they express themselves. You know, not all the way around the whites, they're black. I don't care the one game. This just example I'm gonna give you now, scene six. Xbox, no, okay, so basically this is I'm gonna give you I hope I can find a thing this example. This is a fandom. This is Rina. Basically, Rina is
+
+Unknown Speaker  7:25  
+my favorite character. I love Rina from
+
+Speaker 1  7:30  
+chicken, basically, rage stuff, everything, you know, fandom, equality, no, I haven't done everything here. Let me stop here so the you can mod the games, but you know, you have to mod it with permission. You know, this is about people to respect the lightest. But you know, if you go in the games, you know you have to build on I want people to build your own thing, but let me just finish this. So basically, this is Rena example. This Rina from taking she's so perfect. I think she said I saw this character. Why? Because I love machine. Was pushing an unconventional machine. So I picked her as an uncle, as one of my fighters, but she's one of my fighters in Second Age. But, you know, she's very smart, she's very unplanned, because she's a woman. Hitbox is very small. Communicate her who she should know, she's not deadly, but which one touch and she's dead, you're dead. You know, because you know, you know you cannot touch again because she has more Mashima, he looks so hard, making an unconventional effect to the cannon of strong machiner like me. Players, I can, I can tell you this character is my main tracking it, and my next man is king. So basically attack, defense and offense. King is my other one, but things more grappler. So if you try to attack him, you grab you and you lose your whole life. But this my next one. I can't really go here, yeah, but you just checking it here. So this is been, I can wear this custom. I can get better, you know? I can find her personality, how carrying move to Japan and players Brina. But being a professor is based on autism. And I love Brina because she has a profile through the machine of bloodline. She's there and she hates people that don't understand. She's She
+
+Unknown Speaker  9:22  
+says here. Official
+
+Speaker 1  9:25  
+about this is to show the devil authentic profile and your represents Arena in the right way, in your view, the right way. Know, how bloody, how blood has stories. We don't know much about arena. You know, in chicken, not for now anyway, but you know, she's playable and she's dangerous, because no one knows anything about why she's so unconventional. King for trench, a roughly, and then Leo for like, you know, Leo, Leah has some kind of very special she can do both, really. But you know about really, I love about him so small. And try to pick him up, he will just reverse. It is a reversal. And he gets, you know, he's not scared of that, you know. And he can keycharge, you know, about this child is so much and hits you one move when you get agitated. Basically the books of Jane cannon, underrated, you know, can poke you, and then you didn't combo him, and then you can, you are range, and he didn't with you without, like, what that move that goes back FUBU, FUBU, FUBU kick and, you know, FUBU punch, you know, he just works. You know, that's love him. So this, I'm saying you have to understand that this, this term said, here, find them offset in the store, in the game yourself, like, you know, I can I find them anytime. You know, my friend, I'm especially I'm not stressed about working, because my job, it's my job. I'm working. Am I? Oh, for the two minutes left for five minutes. I'm saying to you the lot of things I'm thinking of, games I've played, ghosts,
+
+Unknown Speaker  11:09  
+all the stuff I played
+
+Speaker 1  11:11  
+in the past, all the all the things I've done, and this is like any development on the persona of the Avatar, obviously there, or basically it's my personal development. I can like your avatar. Many people like it. I can
+
+Unknown Speaker  11:27  
+take this question then build on it.
+
+Unknown Speaker  11:31  
+I remember building now,
+
+Speaker 1  11:32  
+basically I haven't got this properly down. But you know, the hospital, basically there's no hustles in my game. There's no hustles in my gym. But everyone has a house. No buying too much. Can buy a house. You can get a house. I can get a home. Can get a house. Can rent a house, rent a restaurant, like a digital house. You didn't need to rent anything. Buy. Can buy a different can buy it. There's no purchase ready. You buy a house, it's house. Never rent anything. And then it's a policy, gonna be home. Combine that home, you know, and they can switch that home to the compound Palazzo, you know, that go. So the home is like your house. Anyone can come in your house, gonna get like a 510, guests in your house, 10 guests, maximum, one to 10 you and 10 people can play in your house, in your flower, depending on the onion system and the reward, you know, to get people on your social media to connect our political
+
+Unknown Speaker  12:23  
+system, then you can get your compound. My compound has 100 people.
+
+Speaker 1  12:34  
+Okay, so basically, your compound has 50 people, maximum 50 people, server people your compound, that's allowed. So for you in your home, 10 people, maximum, your, your, your and then in now the plaza. So basically, the compound, you can do all things, mini games. But you know, mini games, your homes are limited. We can do them. You can do a lot of mini game. Okay, let's keep talking busy. All the mini games in the busy. You have a house, free house. House. Can get 10 people. Can get out from 10 people too. Same thing as a home. Can get all the mini games. You can get five mini games. Okay, big, yeah, unlimited mini games in the house and home. But you know, any mini game you play, pass your house at home now your house at home now your compounds leaving them mini games. You know, things in the games and games, you know, mini games, games, you can maybe you try to try to work for other people in the game. You know, you know, do mini games, mini shops. But the goal is to allow people to direct pressure. Go online, actually get some things done while the web and then build direction was equitable to reward money. You know, basically get like a one pound. You get like a 1000 1000 kilo equals anything in kilo is like 1k pound, 1000 pounds. Because the 10 kilo is is 1000 and in 10 million is million. Is million. So you can get 1 million bucks. That's royalty. System. It's about equity. And see the thing. So system, is there, okay for five minutes now, and I get a plaza now, the plaza, so you get one to 50 people in your Plaza, a new plaza.
+
+Unknown Speaker  14:22  
+So get one to 100 people in your Plaza,
+
+Speaker 1  14:26  
+and then this one, then if you know, if you like a in a community, one to 1000 people, you want a neighborhood, you want, like a plaza unit. You know, that's pausing again, that's one community Plaza. Because you get 100 then we can get 100 900 people, owning, owning, like 100 plazas,
+
+Unknown Speaker  14:52  
+you get nine people only
+
+Speaker 1  14:55  
+times 100 900 plazas, plus 101 because 10,000 101,000, 10,000 Plaza there's a one, there's this one Plaza unit. Now you can be just one bio that's one biological home. That's where you can leave work and do everything you know, even step by your house or your room to get the money, which you know you actually working in your bedroom. It's you do a lot of online services. You know that because you know you work there, you live there, you know you actually work. Can do Amazon. You can do anything. But then about this scripted interface automate your life to be like a cron job, you know, allows you to breathe and work and say it won't be playing against breathing, living and working. You know, working and living here because you live, you know, it doesn't go out. You guys go out. I'm thinking about physical Plaza in the road, like a conservatory in the river. So if you can actually look at the way look at outside, everyone should have, like a plaza in a row, some kind of a gaming hub in the road to have some kind of equity within the air the breathe outside and inside, so it's ventilation. So we were busy. Ways to interact with the human being, you know, must be there, you know. So they don't just block you and be depressed in that room, you know, you know. And be angry, you know, of a loss on Second Age, something like that. That's kind of future. Beautiful gaming guys. Look Good. Series. Nnamdi, thank you very much. And have a lovely day. Github.com, which the GitHub things. Oh, I've got to talk about the IMF, but this IMS is okay. Thank you guys. Have a lovely day. This is basically the iOS has killed me a lot. I build it, fix it or show this so I can never kill by IMS, because, you know, the IMS basically go off. This documentation, all of this is to ensure that there's this kind of thing. Once you hear the IMF go off, it's too late. I want to show this. I must have this IMF. You know, I keep dying to it like I don't want to die for IMSA. No more intelligent munition systems. Okay, guys, thank you. Have a lovely day. I'm not really good now, active. Stop.
+
+Unknown Speaker  17:15  
+I'm going to cut up this now Stop this
+
+Unknown Speaker  17:19  
+and that time I go here.
+
+Unknown Speaker  18:09  
+Expeditions.
+
+Transcribed by https://otter.ai

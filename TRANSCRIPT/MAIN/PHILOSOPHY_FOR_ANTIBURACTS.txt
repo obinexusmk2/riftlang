@@ -1,0 +1,965 @@
+http://youtube.com/playlist?list=PL0ifFOZbja_IxGjydLpd9_9731H_NUx1o
+
+audacity is recording, three minutes on this, everything is recording, it's going to be fine. Okay, now, basically guys, this video is very important to me. It's the most first polyglot of networking programming language. The architecture has infrastructure compliance, structure by design, which is the minimum principle of the Gaussian ecosystem. So basically, we've got to have this thing, it's called the Rifters Way, which is the manifesto of the Rifters programming language. The gossip.gossi programming language, which is the word for polyglot, networking, architectural, or programming language. It's not assembly, because assembly is an architectural language, but it's the gossi language, it's a gossi. So basically, this is just the Rifters manifesto. It's basically the principles of the guiding infrastructure for something called the Rif, which is a regular expression, a bidirectional system, where you use regular expression to create tokens and parsers, etc. If you want to go to my riftheyoutube .com slash oblankers playlist, you'll see how it aligns with the overview. But I'm going to develop a rift and gossi lang. The rift is just a part of the rift ecosystem, which is a tool for matching systems, for tokenizer, for systems. Rift is a tool, it's part of the tool chain, to use something called an R syntax, a regular expression. So you have like an R character single quote, like an RC, or RX, matching like a character set of a regular expression. Or like an R double quote in C, C11, C19, C19, C16, C21. It doesn't matter, but rift is a flexible translator. It's meant to compete with YAC, with alignment with objectives, like, you know, parting tokens across public good infrastructures. VM 1 has got hybrid and public good systems. Basically, this is just Rifters way. I'm going to explain to you, like, you know, this I want you guys to remember. And I've got my notes already, so I want you guys to really engrave into your souls, okay. So basically, this is called rift. The rift is way. So basically, this is the disc of Python. You know, when you type Python, or .she, in the terminal, you type in Python, .she, import this. You see the Python one. But this is the rift one. You're going to see it, basically. Let me just give you an example here. So here on the back of my terminal, here, so let me just try to do this.
+
+So I'm on my terminal. I type in Python. So basically, I'm going to go to Python. .she, that means compile power, import this. Okay. This is called a zen of Python. Now, the zen of Python is the how it should, how the Python standard should work, you know, for people who are new to Python or to Python. This is zen of Python by team Ben Peters, you know. So this is what the Python one is. But this is the zen, the beauty, the zen simplicity of Python. Beauty is better than ugly. Explicit is better than implicit, you know. But these have a deep meaning for the ecosystem, for the fandom, for the people, for the Pythonistas and the Pythonias. You know, because, you know, if you break your philosophy of this, your code is not working, something like that. And you don't have to open the whole specification, everything, you know. This is what the Python system really is. But I'm not going to talk about the disc of Python. I'm going to talk about the Python math one.
+
+I'm going to go to the scene two. Here. So we've got the Riftless way. Now, this is for the Riftful chain. So basically, import disc, not data. Okay. Now, the disc is memory, the structure, the logic. And not the logic, you know, the logic, you know, how the system works, the models, you know, the full-throat models, the error correct protocol, the disc, not the data. Not the stream of bytes, not the tokens, you know, you know, the structure you're representing. Using sparse graph, or sparse data, sparse, or sparse byte path that's pipelatted graph with K and N clustering, you know. It won't be really formal. Because sparse means there's any way you can do it, model it, to get that result. The model infrastructure, the struct, the pattern, the struct in C, the cloud looping across, based on verb noun modelling, that's the naming conversion, you know. It refers to the state of the machine, the state, you know, the colour of the state of the machine, the weightless of the machine, using observer to consume a model, you know. How the machine sees the state, you know, and the development of preservation, the pause and resuming, the capacity of port to the frontend. When you run import disc, you're not loading files, guys. You're restoring the context, you know, the context of the system. You know, it's basically a schema, like, you know, a schema to restore context. Every time, every time a programme ends in return, you return. Input disc helps you resume your extension, you know. Statement, expression, evaluation. Statement, statement can be true or false. Boolean evaluation. True or false. Statement, solution, or false. Expression is true or false, or can express a value, like a number or something, like an object, a model, a structure, an intent, you know, the intent, why the purpose of doing that. Now, guys, guys, guys, this is beautiful, guys. I want you guys to guide you through, guys, the ripper's way, you know. This is just the first one. Now, let the bytecode hear what the human couldn't say, you know, you know, sometimes we don't know what we can't do, we want to do, you know, we want to do, you know, we'll just try to code the mofiber product, we don't know how to solve it, you know. Now, the bytecode is the core machine, you know, it didn't go to analytics, you know, you look at the bytecode, like the assembly instructions, the doctors, and see how the system meets in somatic context, you know, you know. Threshold compilers often mean away, you don't optimise any meaning, basically, it's about you human-centric, you're the programmer or the AI system, about you, the human intent, why you wrote that code, you know, it doesn't matter about good or evil, you know, is it good or evil, does it not work against you in the long run, you know, and you're going to have to roll back many updates, you know, allowing bytecode to reflect, but expression, expression of intent, you know, your intent, what do you want to do, and the rifters works forward. Now, the rifter works forward means, you know, you're a rifter, you know, you're the, I'm basically go to rift, test, r-f-i -t-t-e-s, the rifter testing library, you know, you can test rift expressions, now you've got rift, rift, rift is like, for example, you've got, what else, go to rift, r-f-i-t, which is the patimacha, then you've got the rift test, the testing patimacha, you know, then you've got the other ones, like rift, rift, rift is a flexible regulation as firmware, on github.com slash ob -nexis, rift-raff, etc, etc, you know, this is a rift tool change, you know, now rift-raff is for production, well, rift-raff, rift-raff, you know, things that rift are essentially you can use when a client, so match the library systems, you know, it's about positive systems that are coherent, you know, basically, the rift, the riftal walks through, you know, a thread of yarn, my yarn book, the riftal walks forward like a thread to a pin, a pin to a pin, you know, that's not a, that's not metaphoric, that's, oh, that's quite literal, you know, like, you know, I take a thread of a yarn and I'm trying to pin it to something, have an objective, I have a goal, you know, I want to do something, you know, I have a one, I'm doing something to write, you know, a thread is like a, basically, you are certified with thread, a thread is both a process and a story, so every thread you pin, you know, you pin a process, but that process is now part of an ID, PID file, PID.log, you know, and then when you pin that thread, your strainer process, you know, you're removing that observer bubble or the consumer bubble, you know, and then you are now exposing it to danger, you know, the rift doesn't think you look back and it's unnecessary, they move forward with an intention structure, you know, and then we have one pass, sorry, this is my thing, one pass, oh, this is just not pin, one pass, no, okay, one pass, no recursion, to recurse is to break the weave, you know, so every time you've woven a thread, you know, you don't go back, you don't know pin a thread, you know, basically single pass, this is a single pass compiler, you know, it doesn't go through many phases, you know, it seems to be minimal and optimal for the human in the pipeline structure, you don't have to get a bloated system to build on top of it, you know, it doesn't contain stability because, you know, you want basically, you have one pass, one time to do something, you have nothing to break it, you know, you don't have anything, instead of your structure-related, no looped, you know, complete on top of the directed by path of drag resolution, which I'll come back to later, but you know, basically, if you go to github.com, which should be here, if I've opened it correctly, yes, this is something called a semantic region X, this is about works on a bidirectional mapping of layers of, you know, something called a by-path that's a dag grife, you know, the thing about this by-path is a mode of consciousness, you know, it's a mode of consciousness, I won't say to you, this conscious model is very coherent, it works for you and everyone else, you know, this is server X, but you've got a rust server X, but you know, I'm gonna start reading from here, yeah, so go like, it's for governance, you know, so the by-path, wait, I'm just trying to hear, so basically, in Ghostland, we have something called an actor model and a witnessing model, you know, now actor is an actuator, you know, the accent is on behalf, you know, it's axe on its own intent, you know, the accent, no student expression is intent, but you know, it's not enough for it to do it to itself, so basically, Ghostman called a by-path, resolution, so if you remember my by-informatics repository, you got a by -path, you know, when you have an upload, you can use a, I'm just trying to get this done, yes, basically, so what's the motivation in X versus like, you know, mapping of structures or by-paths, graphs or KNN clusters or data, then you go to Hamiltonian, Hamiltonian graph is the dead fresh search, three first and last by-path infrastructure, that's the first thing, that's the stack, now we go to the stack, the stack goes one way, you know, and then you go to the queue, the queue is the first in, first out of the structure, you know, if you want to go to the bio informatics, you can bio informatics, which is like the subset of structural information, that structures means the structure of the substitution, you can go to VVP, which has a vision, VVP, which stands for the MVP, you can go to sparse exits, you can go to, you can run this file called Hamiltonian sync functor main, you can run this file python, just start with python, but you know, this is sync, you can sync 100% of the Hamiltonian and then the third FI, hello, and FI for the reason bio informatics, and you get one more with server X, which is like a by -path tag, so basically, get like a PLP, a modular layer, so it's an observer called muscle model, and basically, if the Hamiltonian algorithm is used to first in, it's come out last, so basically, it's used for uploading, you know, the first in to all you put comes out last, or isn't a stack, then the other one, the Elorian one, Elorian cycles, or the W, is using FOI first in first out to download the data over the server, this is not good enough, so you have a hundred one, so basically, you go live, you got to have a node, which is like a little by-path code for you, a local to your remote repository, because you know, you're using the smarty version X on the, on the github.com, I'm sorry, on the HTTPS R.OBNXS.org, you know, the bypass relationship, you know, you have your own channel, you speak to your own channel, or by-path channel, so basically, you put your channel, or your local channel, you didn't have your remote channel, for me, I have my OBNXS Namdi account, that's my new channel, and I can put my local repository, my computer, to my remote repository, and then push it to the world, you can upload and download, you know, based on my preference, you know, basically, it's not fragmented, because you know, I have my Hamiltonian, I don't, I don't upload to the world, if I don't push my remote, if I don't release my remote, you know, I wish like my remote repository, but this is the, this is the Python code here, Hamiltonian sync functor, now, basically, input is the part, you know, this is like the functor notation here, so, Python sync is basically syncing the operations in Hamiltonian, and you know, which are, which are just ways to transfer the graphs, the graph to the structures, you know, the goal of semantic version is to map a major minor patch, since, symbolically, and literally, to semantic version X, LTS, LTS, or stable model, legacy, and have experimental, using monogot, which is like one ecosystem, one polyglot, one ecosystem, like Python, PyPy, brass, packaged cargo systems, or like a C corner, you know, one system, hybrid, you know, shared, shared across all the infrastructures, recommended, things that are really fragmented, but didn't get them better, based on good, ruined adaptor patterns, and you get polyglots, polyglot infrastructures, talk to any language, any library, you know, that legacy-lang is the world -source polygraph language, okay, now, back to the reason that working as a key principle, so, see that then, have I done the thing? I saw that it's gonna crash, okay, let me just unplug it, it should not crash, okay, wait for it, wait for it, it didn't crash, okay, it should not crash, you know, okay, I open this one, now, so, we got this, each breath, took it in a breath, each precious truth, you know, basically, the tokens are, like, can I say just to start breathing, you know, like, you know, when you have a token, you're speaking words, trying to make words, so, you shouldn't speak your breathing, you should, each token carries a semantic word, you know, what I'm trying to say, not just syntax, you know, the structure, you know, that's why Gussie is a tokenizer, to favour prefix, to make clear intention, tokens are not part of units, they express decision, you know, because this is polyglot, it's talking to a lot of languages, you know, not talking to any, just one language, you have to understand why you're breathing, even, why you're uttering a, a tone, a token, in a tone, in one dialect, you know, ES2s are not roots, but, I'm not true, it's by root of intention, so, basically, this is, like, the standard of token type, token value to come in, more formally, phenomological or genonomological, which means, like, the purpose of talk to the world, doing something, and the structure, the genome, of a makeup, or to the model, to this past structures to do that, you know, that's what it is, in Gussie language, the ES2s don't pass the trees, there's the intense types of values every day, so to be seen, they ensure, this ensures the reflection of programmer's choice, you know, the ES2s, how you want to represent your information, how the system stands, the difference between a Python ES2, Python interpreter, you know, bytecode interpreter language, and a C compound, or Russian compiler language, all drivers are bound, not all binds are drivers, you know, basically, not all, relationships are functions that are not returned, they remain the whole, the bind, you know, relationships are functions, that's what that means, but I didn't put that there, so the relationships are functions, you know, you don't need to map, you don't need to return an output, you know, into a decision, to resolve anything with a DAG, or byte DAG, or bipartite DAG, you know, the bind behaviour, rather than computing, basically, to resolve the system, your burden, you know, in a cycling way, without, you know, continuous IOL, without giving you a method to execute it, you know, it's like a server just observing itself and then fix its own errors, you know, because, you know, it knows how to track its own problems, okay, my maths is low now, okay, all drivers are, all binds are drivers, not drivers are binds, binding refers to attaching functionality to data, you know, you know, drivers are forcible of the binding, like USB interface, or gosilab, polygon models, you know, some attach automatically, some are, some are totally bounded, some drivers behave externally, so basically, anything that drives logic, you know, is predictable, you know, you have to, you know, you can discuss everything like binds, it's just a mapping, so you don't need to execute it, you know, you don't need to execute it, you just have to, let's not just interface it, you know, because it doesn't need to be hardware, you know, it's just, it's just mapped, you know, and gosilab, we don't bind our fear, we bind out of care, like, hands to, you know, and the cosy labs, which are probably, probably gosilab, we do not bind our fear, you know, we don't panic, you know, we bind or to fix our code quickly, we basically, we're not bureaucrats, but these are anti -breaker systems, you know, we're trying to bind out of care, you know, like our hands are doing, you know, we hear the one using the device, you know, it reminds me of my treatment machine, you know, if I try to fix that treatment machine, you know, basically the cosy language, like, you know, I was living on a machine, and I decided not to use it because it wasn't quite safe, you know, then I started this project, because cosy language is a very safe language, you know, it's 100% perfect, you know, you just, there's no error, don't panic anything, and how that works is because you bubble all the errors to where the error came from, you know, you don't propagate any errors, you know, all the errors go upstream to the, like, events, probably, and then, and the observers, they track the errors through the programme with a tag, you know, this that means resolve and don't, you know, and this you want to see, and then you don't, because, you know, it's a, it's a by-path of, it works just like all the angles of the errors, like a ring topology system, you know, the goal of the by-path model is to resolve the errors in the gossip lab, you know, which is developing the gossip lab, which is gochub.com, GOSI labs, it's also gossip languages in our labs, so basically you have ordered this here, and then you get to plan you now, you know, so like, the P2 gossip, the PYG gossip, the system is connected to gossip language, you know, to do something, but they're just for, you know, there is a schema to it, basically, if you want, like, a PHP gossip for some type, like a PHP gossip for a PHP package, you know, but you can use a PHP binding, which you can map, you can use a PHP plug-in, which is essentially of a binding to extend the plug-in for the HD, which is for each case in that PHP system, and then you can get a PHP software domain kit, you can get a PHP platform, different bucket, or SDK, depending on the Windows, Linux, or Macintosh systems, you know, depending on what the things are really about, you know, it's joined as a degradation between all the ecosystems, and everything is deliberately binded, because you need it, you don't even want it, you don't want it there, you know, I mean basically, concur, basically, you know, how Gosilang stuff was, you know, it's about thread-safe, everything, Gosilang is 100% thread-safe, why is it 100 % thread-safe?
+
+Because, you know, you don't, you don't, you don't map into it, you don't need to observe it, you can see the state of your programme, and the big thing with concurrency, and thread panics, you know, it's because they are synchronous, you have to time them everything, you have to, but you know, you don't, you feel probably everything, that's frustration, you don't even need to, if the source is the error code, you know, you don't, you don't resolve it with the wrong tag, you go the wrong way, and you know, the big thing with thread-safe is 100% thread -safe means, like, you know, there's no risk in concurrency, or parallelism, around two times, there's no attacks, or lapping times, and how I saw this, because literally, you know, you can run this in a tag, you know, in a bad head of a tag, but, you know, you bubble up, you win at the state, you observe the state, yes, because there's no thread involved, even, there's no thread, you know, everything is just a, like, you know, a message passing, you know, basically, if I send some data, or some, it's a message, you know, that message is not, it fails, it's not getting processed, you know, it failed, and you can fix the process before you can do it, because, you know, the data, the stream of information, it's not, it's not blocking thread, it's just locks, there's no panicking, there's no, it's asynchronous locks, you know, it's just time, it's just, you know, the message is coherent enough, and the timing is, it's past, because, you know, there's no, I'm saying there's no thread issues there, because the sleeping machine will have a lot of thread issues because of locks, everything, and try to manage two resources at a time, but it's not easy to unlock one resource and use another resource, you know, you know, it's just time consuming, a lot of resources, so you just crush all that money to do together, you know, basically, how this works is based on the model of the system here, I'm going to give you now, so basically, you have like a, like, you know, like a filmmaker's token, it's like a, you know, filmmaker's memory, which can be nil, new state, it just means Iota state, which can be the default state of that system, when it doesn't evolve, you know, just like, nil means nothing, no memory, no token type, no value, empty, so basically, the nil type is a void pointer, you see, it points to nothing, because it's not into a pointer, you get it? You know, so it's just, it's a waypoint opportunity, the top type, no, it's void, means that void data, no, void data means void token, for focal token, void token, but that token is not present, or some information is present, or token value, token type, void token type is like the type of the data, and the type of the token, and the type of token data, the data, the data, the data, and then that token value, the value of the data, the character, or the string, or the, what they do, but, you know, we, in our model, with the PLP layer, the general type model, it's just, there's no, there's no ambiguity in the structure of the schema. Now, the general type model is really important here, for Gussie UML. Now, the Gussie UML is very important, because the Gussie UML is like, the UML layer of the architecture, you know, we stay, we listen, we compile both, we don't, we don't, basically, the thing about this, is the Gussie UML isn't like a planning diagram, but, you know, every time I type a Gussie programme, Gussie UML language, you know, I gossip with something, I get to Gussie, like, you know, I, I get tokens to me, but, you know, I get the, the architectural blueprints, you know, what I'm wanting, you know, I get the structure to, or what the, biological system looks like, you know, if I had it, like, in silicon, you know, like, in the architecture, you know, basically, when I type in Gussie UML code, I get the, my goal is to have this system, give me the blueprint, why I type code, it would have come to me then, you know. So, when I export a code, I look at my blueprint and say, oh, yes, yes, this is what I modelled in my, in my framework, this is what I got, unless I can improve, you know, it's really new to do this, but, you know, it's architectural as infrastructure, so you can have the, like, me, unless I'm building the architecture on the evaluation layer, and I'm writing a programme, you know, to call it autocross itself, if I am trying to implement a healing artefact, but, you know, I don't know about the system, it's, it's based on, you know, execution, and, you know, which is just this here, I'm just trying to not take a picture here, because it's, I've got five more minutes before my things stop. Diagram, the architecture is random access memory. So, we've got, we've got the planning UML diagram with architectural blueprints, the big document is the silicon that maps to the infrastructure. We are via bi-tactical position, and the diagram is so much of vision as a policy. Now, the policy and the standard application and everything that's implemented is just like a, like, you know, a declarator, a declarator function, a function that maps across all functions, you know, with the functional frameworks, and gives up the computational benefits of functional frameworks. So, you're going to have that in place to ensure that a segmentary is, a segmentation, which is like a segmentary memory using, or from magic memory. It's kind of with the architecture, it's a bi-tactical relationship, like, based on algorithmically, the second three nodes, it's like, you know, the three nodes for them. So, basically, you've got, like, a phenology of token type, token memory. Look, basically, it's like a structure, basically, it's like a two-bit, like, something with, like, a struck colour. Colour is 255 range, or 256. If it's an unsigned integer, you know, but, you know, that colour, 0 to 256, once it's 125, it's a range of colours, but that model of colour is going to be used to do some architectural thing, like, you know, if you want to, you know, if you want, like, an RGB, like, to do randomness and kind of like, even where you see, where you get, or where you see, what you mean by direction of pipeline. But, you know, when I type the code, I get the light from there, I get the silicon resolution of the architecture. So, it can be debugged, it can be actually done, you know, if I'm not with the system, you know. So, basically, they don't see anything. The architecture is very important for our system to remain coherent, because, you know, we are the ones, we are humans, we know computers. Basically, the segment tree is the node that it segmented. It's a big segment, it's like a segment of memory, a segment of a token, a segment of a value, a data value, using, you know, a segment section, like, you know, a section of memory. So, you can defrag yourself, you can de -segment yourself, and you can go into your, into your tree, which, like, your time, it needs to run, which I used to ensure that the system does what it does in time, you know. So, you can go into your tree node, silver balancing node, you can measure its own state. 27, most parameters, I'll have to stop by here today. But, the goal of this, I'm going to show you the code in the next video, but, you know, that I've not done today. So, we've got the PRP's parse mode, and the infrastructure is networking. The computational geometry of the system that can evolve, you know, we have NMS, NMS, Sibley language model, and Sibley Amazon Atlas for sleep handling systems. Or, like, basically, you can try to, when it's gone over, after my PhD, when it's gone over in two years, after my PhD, when it's language is complete, I'll try to build my own sleep value machine with it. You know, for myself, my sake, you know, and I'll build, which is, you know, which is not, which is 100% really safe. And this consciousness, you know, conscientious plasma systems, like, I think that, like, for system people, or even for people who are conscious, you know, I knew there were people who are, who are conscious, and needed the system to remain for them or call them in a sleep to really, their own coherence state of mind, of awareness while they sleep, so they can be cautious, you know, like, you know, put a mirror on for a child, it's not good enough anymore. So, that's what I'm saying, you know. Based on physical architecture, you know, computational work. So, basically, the goal is for this programme language to remain coherent, okay, now, to nine minutes, okay. Now, this is with this way, but, you know, we've got the one here. We will stay, we'll listen, we'll compile while it's gone, and we've got, that means the gosilang are based on rift policies, but the rift policies are just for a rift ecosystem, so the gosilang is put on rift, so basically, that's like, you know, the rift policy is not introduced or anything. No burnout, it's like a rift policy file, and now, no burnout, no overclock, and no just rhythm, you know, basically, it's about thinking of the nexus linker, and it's showing that in any link, links everything, which, you know, the accesses are unbloated, you know, there's no burnout in space and time. We have an app, a rift app, promodoro by promodoro, okay. Goal, a goal, a breath, a push, a rest, you know. Two truck of philosophy, foundational truck, and aspiration truck, you work with two truck of philosophy all the time. Okay, now, guys, my government stuff, I've got a great time. You don't need permission to breathe, need permission to take a break, only to read, okay. I'm going to collect a couple of videos and I'll finish, thank you guys. This is the medium article, let me stop it now, three, two, one. Three, two, one. Okay. Okay, it's done, this is done, this is done now. Okay, that's fine. That's fine, that's fine, that's fine. Okay, it's not done. Okay, this should be fine.
+
+So basically uh guys uh so basically uh we stay 
+
+we listen we compile what's been governed now the rift policy okay basically government okay 
+
+uh a promodor a girl a go target a breath you know you're breathing a push you know you rest 
+
+you know push you rest you rest you go to do something else you know go outside or something 
+
+you know a go to a breath a push to a rest you know come you research you develop or You you 
+
+you you research research and development and then you go MVP development. You go foundational. 
+
+So you have basic stuff you feel and then you uh find your aspirations you want to do outside 
+
+you know you want to like play with and then you trick systems. Okay. Give yourself a rifter, 
+
+you know. Uh Rifter Kos um uh uh uh go a like a govern. So this important to understand. So 
+
+when you get in there something called the uh by titric basically oh ora means uh oh basically 
+
+it's not recording uh it's not recording it should be recording my okay oh means public in so if 
+
+you go to github.com oh ha that means means public means public and you got iw which means in 
+
+English so public law and IGI which means law. So basically it's a governance model. So you got 
+
+like a governance model. Yeah. So it's like the law model for law and you got the order which is 
+
+like so law and order but in the public domain you know you can get a private domain but that's just 
+
+public first law uh for language is what you're going to use to govern yourself all this white 
+
+paper. The white part will be like a speification uh for some audience uh someone you're writing for 
+
+uh some audience you're writing towards uh G&Z or you know you know someone that can understand uh 
+
+the the lingo you're speaking the jargon you're going to say to them technical expertise whether 
+
+based on the birectional gaming balance system um uh yes so going to continue that's already done 
+
+uh what else Yeah. Okay. I go to basically the Hamiltonian and D resolution uh IW framework of a 
+
+governance you know via firmware firm compliance. Now the firm is there because we got law and order 
+
+got we got policies we got the order you know if there's a firm mis compliance because that's what 
+
+firm is you order you can order yourself you can govern yourself the law is just there you law you 
+
+know that's what firm is uh basically I'm thinking of any lawsuits anything that comes like that 
+
+should just be um you think because you know you don't have to just to use one day and don't you 
+
+know that's that's a big uh no no no use one day come back next day use it for one day you don't 
+
+do it properly you know don't the process you uh you know you don't value the customer so the 
+
+firm is a structured scheme you guys forget you know give you money to pay for something you don't 
+
+really accept it you want the law around that you know but you know it's a policy but that's what 
+
+I'm trying to do the evolution of this kind of behavior is like entrament you entra system that 
+
+you know you haven't been built against you uh you know like you know you can waste time on you 
+
+know waste time not complying with services you know biologically you know using so basically you 
+
+can prune the polic This is too you know you know you know allow some kind of some compliance. Now 
+
+very important I give you example. So basically if you go on Uber ride if I go basically I have 
+
+a dream basically I have basically I had like a vision I got an Uber. If you if I get an Uber I I 
+
+have some kind of new diversion to interpretation um which is like exception handling um maybe I 
+
+don't really understand the full policy compliance because policies anymore uh but might get the 
+
+results. So basically I can interpret like if I'm driving an Uber car I can drop it for someone 
+
+else. He's artistic. Uh I tell her two ways so he can achieve something. I can give him a right to 
+
+his destination. He can pay later and he can pay now and give him right you know you know using 
+
+app or like the two-way system to resolve that issue you know because you know getting to point A 
+
+to point B shouldn't be a problem you know if I'm driving a car for someone you know but you know 
+
+if I'm a taxi uh the Uber doesn't do that. If should be like that you know should be pay here 
+
+pay now you know it's too rigid to be some kind of new diver flexibility especially people are 
+
+good which I love but you know I'm saying to you um the governance model works because of diversity 
+
+as a first principle of the ecosystem compliance framework as a firm but you know the firm if the 
+
+firm is too rigid then you can't really govern yourself you know so it's going to be like a a 
+
+bypassed policy system to resolve systems of of of of sector models like designationally 
+
+compliance and health care sector something that's a as a foundation to that uh 
+
+framework. So this is the D represents um health one sector which is low order and 
+
+you got the order same one for the health social care IGI you know the order system you 
+
+know uh for compliance with the the D bypass D system you know show the full compliance 
+
+with the ecosystem you know and how you can do this in gy lang it's literally just 
+
+uh right at at decorator and then uh at at at in quotes no hash no ghosting and no ghosting 
+
+means not using the not even the progress you know in any way shape or form you know and that could 
+
+flag up you know based on the the interpretation of the system if I'm trying to ghost or I have 
+
+some concerns or stress it has to be to my mirror you know who I am no it's not exactly it's 
+
+about biological red black animation so red black algorithm is anything that's red becomes red still 
+
+gets pruned removed and you get the black berries That's throwback animation sustaining governance 
+
+model. So you can evolve directly to the objective too um for the system you know so kind of use a 
+
+new anti fragmented governance you know no matter how you know law or try to go something you don't 
+
+can't break it because you can only direct can only direct it up and above you know uh uh one in 
+
+here. So that's what governance is basically what the standards uh which like the reward for version 
+
+or a specification something that evolves to above standard tax standard which is new architecture 
+
+coherence based on analysis or the to do something uh without a with or without hidden agenda uh to 
+
+do that thing you know a little girl to do you know want money or to sue us you know that kind 
+
+of thing we try to mitigate anyway so something that's seemingly coherent uh with the giant 
+
+ecosystem. So the people can understand that the polygraph language is a real language 
+
+and can govern itself uh with a decorator system. I will not be also to break me. I'll be 
+
+working here also uh which is my uh declaration of sovereignty uh via the film oath I put you 
+
+know for the sixth critical especiously uh but you know that's what I'm saying it's basically 
+
+uh how that works. Okay, what else? Okay, basically you got the uh basically got the policy 
+
+system which called h which human in the loop uh you know humans actively watching the project you 
+
+know that's human out the loop humans not actively uh uh working on a project you know there's no 
+
+humans actively human out uh but you know that's AI systems the systems the AI systems things that 
+
+are robots things that are working but no human entities sovereign sovereign sovereign entities 
+
+they're humans they conscious AI systems but They they they verb the verb now actuators can act in 
+
+their own objective and they and they do that. So basically got the uh human out the loop system and 
+
+you got the human on the loop human can actually work on it. So we can be a human on the basically 
+
+the foundation the human on the loop and you got a human in the loop who working for a project or 
+
+deadline or operation human out just solve their own problem you know these are just people that 
+
+things that are need to do themselves and then fix themselves and what you get like swarms drones 
+
+or anything um then you got like a zero zero uh on the loop on the loop warning all the time so you 
+
+got like a one basically you get like minus one to five which for him add loop. Uh you get like a 
+
+basically it's like a triad. It's like a triangle. It's a triangle because you get like a center one. 
+
+Uh but you know if you go one direction you get like a the go to minus one to minus 5 uh in one 
+
+section one quadrant. Uh you know it can be like a square between one position of that section you 
+
+know of that trisection of that tri by that get like a one to five which is like uh low low medium 
+
+medium uh low u medium high and high warning you know high warning and this just warning uh when 
+
+interpreters you get an error which is the error that you throw an error but it bubbles up to the 
+
+code and you get the uh by by resolution uh of the system which is like the the Pat what I call 
+
+what I call the interpretation of the system based on languages for antihistation uh in coherence 
+
+uh which means like you know you can get um two you can can obtain to have two interpretations 
+
+of an exception you know uh so which means like something you can try to handle but it's not an 
+
+error you know can can be handleable if it's a if it's an error you will throw an error but an 
+
+assumption is not an error because it has to be accepted by the If it does pass with the track 
+
+clash but it continues and have wrong flows but you know it's exception because uh can it can be 
+
+it can be wrong all right but if it's wrong it has to try the other route to ensure the system 
+
+can continue and then that one will be proved the exception will get proved that doesn't work 
+
+and then we can get a new exception to a new case uh or add something to mitigate that entirely and 
+
+you get the panic systems okay now you get 0 one to five uh low medium uh Uh basically you learn 
+
+warning uh warning danger critical um and uh fail safe recovery fail safe or fail safe one for uh 
+
+fail one which is for tolerance like a healing the recovery out of and then a fail safe two 
+
+which is like the killing a program uh silently uh killing trying to crush program silently and 
+
+you got fail safe 3 uh which is just uh immediate shut down you know like it has to kill itself 
+
+you know you really got This one try to recover yourself if it blows up. Before it blows up, kill 
+
+the node uh based on the note that you're working on. That's like a warning danger critical for 
+
+a fail safe one face of two uh modification. Uh now 12 basically got uh uh 12 to five soft plus 
+
+five which is 11. Uh but what's 10? 11 is like uh low to medium uh danger. Now danger uh danger. 
+
+Then you got 18 to 23 which is like a danger critical. Then you got 24 to 31 which is fail safe 
+
+one uh healing 31 healing and 32 to 37 which is like a fail safe two uh which is like a silently 
+
+killing the process you know shut aggressively it's called aggressive shut down and 232 to uh So 
+
+which is like a prediction of cleaning that node and isolating the system state failure recovery. 
+
+You just isolate that node that artifact isolation begins there. You can uh get involved human in 
+
+a loop. Uh basically there's a mapping to the system you know bad basically if if the system 
+
+fails the human system the ES fails you know you can get the human if the human fails human in 
+
+the loop fails they can go get new humans onto the loop you know and they can be bypass the deck 
+
+clustering algorith to ensure people are compet uh yes absolutely okay basically got that already okay yes it's 
+
+basically the UML uh spare uh segment trees uh no no something I'm missing here okay so 
+
+basically Adobe monog hybrid and polygot you know you don't need to touch the code in the background 
+
+you know basically you can focus and the fing can be like have a PD file you can lod file uh but 
+
+you know PD fid are pinned so you can pin the files to the gussy framework you know and you can 
+
+uh you can show that is locked so you don't unpin it you know you don't have to shuffle based on 
+
+you know to get that system that will get adopt that artifact you know system understands the 
+
+schema already in place to resolve that artifact that came up is uh like you know service operation 
+
+your domain uh my one opex operation division the county local county uh based on the governor 
+
+also very much birectional you know the service are just the people can buy the operations are 
+
+things that humans are working on uh then you got like uh uh the my domain or they got like 
+
+the operation um the department The department, human rights department, sales department division 
+
+computing which direction the county like a local county or the county or something something 
+
+that the road name the road something can be uh decentralized or the execution pipeline. You 
+
+know the thing about this model uh all the time now um is that you know there's no way to um 
+
+there's no single point of entry uh to failure because you know something centralized it's just 
+
+one way to f you know it's about the centralized polical information because there's no banks no 
+
+nothing there because you know just everyone just solve that problem with ledger acknowledgement 
+
+uh genetic make biological architecture as infrastructure basically the minimum archetype 
+
+equals to infrastructure basically what you is what you get. Uh but you principle of UI what 
+
+you see is what you get. You know that's what you know basically what you type we we try to drag and 
+
+drop a WordPress site what you see is what you get you know uh or dream applications you know if you 
+
+but you know if you type HTML code what you mean is what you get you know that's the dilemma uh 
+
+but we use both in the architecture infrastructure uh this minimalist basically every time you write 
+
+code the the genotype has to adopt this what you see um is what you get genotype model to ensure 
+
+that anything that's written down has a resolution Vision is like um to work uh and can speak 
+
+to any language you know the computation geometry architecture as well as model. So 
+
+basically we the operator as an infrastructure as an architectural compliance of the 
+
+structure of the ecosystem. You know, you can check the proof because post is in blue 
+
+is in is in blue and uh blue blue screen like some kind of archite some kind of plan UML or diagram 
+
+uh for modeling to straight safe programs you know uh basite duplex streams uh bipart stream uh 
+
+recovery uh to map uh segment trees and inter trees uh to to updates on time. Yeah, the how 
+
+updates basically if you if you're not working on something you have to update you know so you have 
+
+to calculate time I told you that in my last video uh but the goal of that is really you can 
+
+update you can run systems you don't even have to integrate system you know if system is 
+
+strong enough you can you don't need to touch it you just update and fix the job you can set up 
+
+accounts destroy accounts it doesn't really matter because there's no there's no need to clean up 
+
+an entire uh database or an entire infrastructure to start again if people leave you know that's 
+
+the whole idea That's right animation by partic what you see here basically the schema is like 
+
+the mapping of the grouping the genotype model resolve that architecture uh independently 
+
+of the system if the node is degrading uh anybody needs basically you can have like a 
+
+ding algorithm that heals more one more than other has priority to heal something. uh because you 
+
+know if if something if a node is or some kind of component library needs more attachment you know 
+
+it can be exhaustive for the system to paralyze that and load balance that you know there's no 
+
+need to load usually delegate services to the useful services people are using it based on what 
+
+is really trending there like you know the the birectional what the bipartite uh search engine 
+
+page ranking system uh show that people that are getting there because you know I can say something 
+
+that I knew something in one do no one other but this my own purpose you know trending for me for 
+
+others in Japan or something but you know it's all demographic so why need at that time because 
+
+I I need to get on my life you know uh the archite systems there okay now let me continue reading 
+
+some code today uh so this is like a gussy this guinea the pirate you know it's guinea g i n i 
+
+this is lipolico and you get like guinea and it's like a guinea I'm asking the polygon language and 
+
+18. Now the primo this like the promo basically okay basically this is just me writing stuff basically complexity 
+
+basically the Gil pro bits uh this like I'm saying this not really basically this is the first one 
+
+the rifter's way but you know this is just the rifter's way uh but you know the other one 
+
+is called the the gossipers uh the gossip basically this is the guinea the parrot but you 
+
+know the thing is like uh when when the compiler processes you breathe when you breathe the system 
+
+preserves input takes no data but you lost exhale you lost breath uh that's just res uh uh but you 
+
+know I'm going to try to get the if you go to my um okay basically my video I can still make a 
+
+video here it's not really uh moving my mouse really I think I stop this video guys because 
+
+you know my mouse okay guys let me just stop this Let me stop this video guys. Three, two, one. I need to stop this video to make another 
+
+one because you know the the the is very slow
+
+Okay. Um guys, uh basically I'm trying to like set 
+
+my recording, uh guys, for this video, but I have to click record twice. So, uh reset to default S. 
+
+Uh basically, I'm going to start recording now, but I'm trying to use a record screen recorder, 
+
+but this screen recorder app is like, you know, I have to press a button. I uh settings, view, 
+
+screen capture, start recording. Take uh take uh right left left right right click uh left click or 
+
+left click and drag to take a screenshot of video recording. Okay, let me just take a a screenshot 
+
+of this right now. Uh a screenshot. Uh okay, it has started recording. So I've got two recordings 
+
+now uh going on back to back. Um so nothing should fail here. Not one thing should fail. Like I don't 
+
+know how this will fail now. I just Okay guys, uh let me set my Audacity. Oh, Audacity should be 
+
+uh recording my voice. Um no, no, no, no. Sorry, guys. It's recording, but it's like it's my 
+
+old one, guys. Guys, guys, guys. Okay, let me just try to uh use AI to record because this is 
+
+recording my screen, but it's not what I want to record. Uh I got AI here in the background. Okay, 
+
+guys. So this video record uh this my transcript system and this my uh recording now uh file save 
+
+as save as save as uh save as uh save as project like a gussy lamp 101 should 
+
+be fine save it and I can start Uh you not signed in. So found you found new 
+
+uh new recording. Uh one second guys. Uh so basically now can just start recording here. 
+
+Here it should be fine. Okay. So basically this is now recording. My audacity is recording. Uh 3 
+
+minutes on uh this uh everything is recording. Uh okay now. Okay. Basically guys this video is very 
+
+important to me. uh it's the um world's first uh polyglot networking uh program language uh with 
+
+architecture um as infrastructure compliance uh structure by design uh which is a pr the 
+
+the the minimous principle of the gussy land ecosystem. So basically we got to have the read 
+
+this thing. Um it's called the rifter's way uh which is the manifesto of the rift uh the 
+
+rifter program language uh for gossy lang the gossip uh uh gossip lang or go si uh programming 
+
+language which is the world's first polygot uh networking architectural program language 
+
+uh it's not assembly uh because assembly is a architectural language but it's the gussy 
+
+language it's a goi so basically this is just the rifter manifesto uh it's basically um uh you 
+
+know the principles of the guiding infrastructure uh for something called rift uh which is a regular 
+
+expression birection uh where you use regular expression to create tokens and parses etc. Uh if 
+
+you want to go to my uh rift YouTube.com playlist uh you see how this right into the overview. Uh 
+
+but I'm aiming to develop uh rift and go langu is just a part of the rift ecosystem uh which is 
+
+a tools for matching uh systems for tokenizer uh for systems. Rift is a tool uh it's part of 
+
+a two chain uh to use something called an R syntax regular expression. So you have like an 
+
+R character single quote you know like an RC or RX you know matches like a character set of a 
+
+rift regular expression or like an R r double quotes in C uh C 11C 199 191 19 C21 it doesn't 
+
+matter uh but Rift is a flexible translator it's meant to compete with yak uh with alignment with 
+
+objectives like you know parting tokens across   polyut infrastructures uh monog hybrid and polygon 
+
+systems uh Uh basically this is just Rifter's way. I'm going to explain to you like you know this I 
+
+want you guys to remember and I've got my notes   already. So I want you guys to really uh engrave 
+
+this yourselves. Okay. So basically this is called Rift the Rifters's way. So basically this is the 
+
+this of Python. You know when you type Python C uh in the in terminal you type in Python C import 
+
+this you'll see uh the Python one but this is the Rift one. You're going to see it basically. Let 
+
+me just give example here. So here we're back on   my terminal here. So let me try to do this. So I'm 
+
+on my terminal. I type in py so basically I mean I'll do python uh she that means comply pow import 
+
+this uh okay this is called a zen of python. Now the Zen of Python is the how um how it should how 
+
+the Python standard uh should work you know for people who are new to Python old to Python this 
+
+is Zen of Python by team uh Ben Peters you know um so this what the uh Python one is but this 
+
+is the Zen the beauty the the zen simplicity of Python beauty is better than ugly explicit is 
+
+better than implicit you know but this have a deep meaning for the ecosystem for the fandom for 
+
+the people for the pythonistas and the pythoners you know because you know if you break a fl 
+
+of this your code is not working something   right like that and you don't have to open 
+
+the whole specification everything you know this what the python system really is but 
+
+I'm not going to talk about this of python   I'm going to talk about the python my one 
+
+okay we're going to go to the scene two uh here so we got the rift as way now this is for 
+
+the rift tool chain so basically import disk not data okay now the disk is memory the structure 
+
+the logic not the logic you know the logic You know how system works, the models, you know, 
+
+the full throwing models, the the error protocol, the disk, not the data, not the stream of 
+
+bytes, not the tokens, you know, you know,   the structure you representing using a sparse 
+
+graph or sparse data, sparse or sparse bypass means any way you can do it, model it um to get 
+
+that result uh the model structure, the strct,   the pattern, the strct in C, The cloud blueprint 
+
+the cross based on verb noun modeling that's a naming convention you know refers to the state of 
+
+the machine the state you know the core state of   the machine the way of the machine using observer 
+
+to consumer model you know how the machine sees the state you know and uh and the velocity 
+
+of preservation the pause and resuming the   capacity of thought to the framework when you 
+
+run import disk you're not loading files guys you're restoring the context you know the context 
+
+of the system you know it's basically a schema uh like you A schema to restore context. You 
+
+follow every every every time every time a par ends a return and you return input to resume 
+
+your stationer statement expression evaluation statement uh statement can true or false boolean 
+
+evaluation true or false statement is always   true or false expression is true or false or can 
+
+express a value like a number or something object a model a structure an intent you know the intent 
+
+why the purpose of doing that now guys guys this is beautiful guys I want you guys to guide you 
+
+through guys the the the the reckless way. You   know, this is just the first one. Now, let the 
+
+bike hear what the human couldn't say. You know, you know, sometimes we don't know what we can't 
+
+do, what want to do, you know, want to do,   you know, want to just try to code the product. 
+
+We don't know how to solve it, you know. Now, the B code is the the the the core machine, you 
+
+know, go to analytics, you look at the B code like the the assembly instructions, the dark and 
+
+see how the system semantic context, you know, you know, traditional compilers optimize a meaning 
+
+way. You don't optimize any meaning. Basically,   it's about your humanentric. You are the 
+
+programmer or the AI system about you. The human intent why you wrote that code, you know, it 
+
+doesn't matter about good or evil. You know, is it   good or evil? Does it knowledge you? He's going 
+
+to work against you in the long run. You know, you're going to have to roll back many updates, 
+
+you know, uh allowing bicycle to refer intent, you know, your intent. What do you want to do? And the 
+
+rifters walks forward. Now the rifter work forward means you know you're a rifter you know you're 
+
+the I'm basically got rift test RF I t the rifter testing library you know can test rift expressions 
+
+now you got uh rift rift uh uh rift is like then you got uh what else you got rift rf which is the 
+
+party matcher then you got the rift testing party matcher and then you got the other ones uh like 
+
+rift raft uh rift uh is a flexible translation regulation as firmware on github.com/ob nexus rift 
+
+raf uh etc etc you know these are rift tool chains you know now riff raff is for production world 
+
+rift rift applications you know things that rift uh are syntax you can use a client to match uh 
+
+the library systems of a poly infrastruure you know it's about positive systems that are coherent 
+
+you know basically the rift walk you know a threat of a yarn a yo the rifter walks forward like a 
+
+threat to a pin the pin you know that's That's a that's not metaphoric. That's oh wait that's 
+
+quite literal you know like you know I take a   thread of a yarn and I'm trying to penet something 
+
+I have an objective I have a goal to do you know I want to do something you know I have why I'm doing 
+
+something right know a thread is like a basically you are um identify what th a thread is both a 
+
+process and a story so every thread you pin you trying to you know you is a pin a process but that 
+
+process is now part of a ID P I file uh PLO you know and then when you pin that thread you join 
+
+that process you you're removing that observer   bubble or the consumer bubble, you know, and 
+
+then you are now exposing it to danger. You know, the roof doesn't doesn't look back unnecessary. 
+
+They move forward with intention structure, you know. Um and then we have um one pass. Sorry, 
+
+this my opinion. One pass. Oh, this is just um nothing. One pass, no rec uh every Okay, one pass, 
+
+no recussion. To recurse is to break the weave, you know. So every time you've woven a thread you 
+
+know you know you don't you know you don't go back   you don't unpin a thread you know basically single 
+
+this is a this is a single pass compiler you know it doesn't go through modify phases you know it 
+
+seems to be minimal and optimal for the human   uh in the pipeline structure you don't have 
+
+to get a bloated system to build on top of it you know it doesn't stability because you know 
+
+you want basically you have one pass one time to do something you have nothing to uh break it 
+
+you know you don't have anything this structure related no looped process are difficult without 
+
+over the builder you know you can build on top of the directed by part D resolution which I'll come 
+
+back to later but you know basically in the if you go to uh github.com/obinx uh which should be here 
+
+if I've opened it correctly uh yes this is this is something called vision x this is what's on a 
+
+b direction mapping of uh of laser you know you have something called a bath dag you The the thing 
+
+about this B model of consciousness you know it's model about consciousness and what I'm saying to 
+
+you this consist model is very coherent it works   for you and everyone else you know this is silver 
+
+X but you got rust over X rust but you know I'm going to start reading from here um yeah so got 
+
+like a it's for governance you know so the byp model and a witnessing model you know 
+
+now actor is an actuator or you know   it acts on on behalf you know it acts on 
+
+its own intent you know it acts no one's expression intent but you know it's not 
+
+enough for it to do it to so basically got   something called bypass it so if you remember 
+
+my box repository uh you got to bypass it you know you know when you have an upload you 
+
+can use a uh let me just try to get this yes basically uh so what is the motivation in 
+
+or like mapping of structures or by pattern clusters or data. Um then you go to hamiltonian 
+
+hamiltonian graph is the death thresh structure that's the first thing that's a stack then you 
+
+go to stack the stack uh goes one way you know you know and then you got the Q the Q is the first 
+
+in first structure you know if you want to go to   the bioinformatics you can bio informatics which 
+
+is like the subset of structural information that structures means the structure of the sub you can 
+
+go to VVP which has a vision um VVP which stands for the MVP. You can go to sparse exit. You can 
+
+go to um you can run this file called Hamiltonian sync function uh main uh you can run this file 
+
+python just type in python ht but you know this should sync the should sync 100% of the hamilton 
+
+and um and then the fi l and fi using bformatics and get one more uh with x which is like a bypass 
+
+dag. So basically get like a PRP from modular. So based on observer model and basically if 
+
+the if the if the Hamiltonian algorithm uh is used to uh first in come out last uh is uh 
+
+basically is used for uploading you know the first you put comes out last using a stack. Then the uh 
+
+other one theorean one cycles or the use they're using f first in first out to download the data 
+
+over the server. This is not good enough. So you have another one. So basically you got a live uh 
+
+you got to have another node which like another bypass node called for you local to your remote 
+
+repository because you know you're using the   systematic version x on on github and sorry on the 
+
+https r.obex.org you know the bypass relationship is you know you have your own uh channel you speak 
+
+to your own channel or by channel so b you put your channel or your local channel you then have 
+
+your remote channel for me I have my open access   um uh uh Nambdi account that's my channel and 
+
+I can put my local repository from my computer to my remote repository and then push to the 
+
+world uh who can upload and download you know   based on my preference you know basically it's not 
+
+fragmented because you know I have my Hamiltonian uh I I don't I don't upload to the world if I if 
+
+I don't push to my remote uh if I don't release my remote you know my wish which like my remote 
+
+repository uh but this is the uh HTML this is a python code here sync function now basically input 
+
+as uh part you know uh this function notation here so python sync proced basically syncing operations 
+
+u in hamiltonian and neuron which are which are just ways to transfer graphs uh graph to the 
+
+structures you know the goal of semantic version is to map a major minor patch symbolically 
+
+and literally to um simatic virgin x LTS or stable model legacy and hemis experimental using 
+
+monogot which is like one ecosystem one polygon one ecosystem like python pi pi r packaging 
+
+cargo systems or like corner you know one system uh hybrid you know shared shared across all 
+
+fraction recommended things that are really   fragmented but getting better uh based on adapter 
+
+patterns and you get polygons you got polygon infrastructure any language language any library 
+
+you know that's going to solve a lot of UI us language okay now back to the uh using networking 
+
+as a key principle uh to use that thing have I done the thing I saw is going to crash everything 
+
+okay let me just unplug it should not crash uh wait for it wait for it didn't crash okay it 
+
+should have not crashed you know okay I open   this one now so we got this Each breath token 
+
+of breath each breath you know basically the tokens are talking to breathing you know like you 
+
+know when you have a token you're speaking words   trying to make words so you shouldn't speak 
+
+breathing it's but each token sematic words you know why should you say not just syntax 
+
+you know the structure you know that's why a   tokenizer to favor prefix to make tokens are not 
+
+partition you know because this is poly to a lot of languages you know you're not talking to any 
+
+just one language you have to understand why your   breathing even while you uttering a a tone a token 
+
+in a tone in one dialect you know uh as roots but are not truth but root of intention so basically 
+
+this is like um the standing of token type token or more formally phenomenological or genomological 
+
+which means like um the purpose or troll of doing something and the structure the genome of a makeup 
+
+to the model to the sparse structures to do that you know that's what it says um in the They don't 
+
+pass uh trace there the intent uh types of values every day uh 30 minutes you know they ensure 
+
+this ensures the reflection of programmer's choice you know you know you know as how you want 
+
+to represent your information uh how the system stands difference between a python python uh uh 
+
+inter code interpreted language and a c compound or Russian compound all drivers are bound not all 
+
+driver all bindings are drivers you know basically Relationships are functions that do not return the 
+
+remain the whole the bind you know relationships   are functions that's mean I didn't put that 
+
+there so relationships are functions you know you don't you don't need to map you don't need 
+
+to return an output you know resolve anything   with a with a with a DAG or buy DAG or by part 
+
+of DAG you know they bind behavior rather than comput basically they resolve the system you're 
+
+building in a in a in a in a cyclic way without u without you know continuous I without giving you 
+
+a method to execute it you know it's like a server just observing itself and then fix it own errors 
+
+you know because you know you know it knows how to   uh track his own problems okay my my mouse is 
+
+slow now okay all drivers are all bands are drivers not drivers are binding refers attaching 
+
+function to data you know you know drivers are forcible of the binding like USB interface polygon 
+
+models you know some attach automatically some are totally bounded some drivers behave externally so 
+
+basically uh anything that drives logic you know it's executable you know you have to execute 
+
+anything that binds it's just a mapping so   you don't need to execute it you know you sense 
+
+you just have to uh just interface it you know because it doesn't need to be hardware just just 
+
+mapped you know lab we're not buying fear we're buying out of like hands to f you know labs 
+
+p gossip p gossip you know this is gossi you know we do not buy fear you know we don't panic 
+
+you know We we bind or to fix our code quickly. We basically we're not bureaucrats but this is 
+
+antiqu systems you know we're trying to bind out   of care like our hands are doing it you know we 
+
+the one using the device you know reminds me of my uh sleep machine you know if I if I try to 
+
+fix machine you know basically the gussy lang machine but you know I sleep on the machine and 
+
+I I decided not to use it because it wasn't th   you know then I started this project cuz um 
+
+is a threat safe language you know it's 100% th you know you just there's no error no panic 
+
+anything and how that works um is because um you bubble all the errors to where the error came 
+
+from. You know, you don't propagate any errors. you know what the errors go upstream to the same 
+
+like event prop event bubbling and then uh and the and the observer states tracks the errors 
+
+through the program with the D you know things   that need to resolve and don't you know you need 
+
+to see and you don't cuz you know it's a it's a bipart it works like all the angles of the errors 
+
+like a topology the goal of the bipart model is resolve the errors in gussy you know which is 
+
+developed in the gussy lang github.com/obsi labs Um thanks. So basically you have all of this here 
+
+and you go to plan. Yeah. So like the P2 the P go to gossip language you know to do something but they're just uh for you know there is a schema 
+
+to it basically if you want like a PHP gossip uh for some type like a PHP gossip for um for 
+
+PHP uh PH package you know but you can use a PHP binding uh which you can map use a PHP plugin 
+
+which is off a binding to extend the plug for is for use case in that uh PHP system and then 
+
+you can get a PHP uh uh service kit uh you can get PHP platform different or SDK uh depending on 
+
+the Windows Linux and Macintosh systems you know depend that's what things are really about you 
+
+know it's a dagation between all the ecosystems   and everything is deliberately uh binded uh 
+
+because you need it you don't you don't even want it you know you don't want it there you know 
+
+um uh and basically basically you know how it's threat to everything is 100% threat safe. Why 
+
+is because you know you don't you don't uh you don't map anything you don't need you observe and 
+
+you consume the state all your program and the   big thing with concurrency and th you know it's 
+
+because they are synchronous and you have to time them everything you have to but you know you don't 
+
+if you propagate everything that's solution you   don't even need to uh uh if if the source is the 
+
+error code you know you don't you don't resolve it with the wrong D and you know the the victim 
+
+of threat safety is interpretive means like you know there's no risk in concurrency or parallelism 
+
+run two times attacks over overlapping times. Uh and how I saw this because literally you know you 
+
+can you can long run this in a dag in a in a bad attack but but how I saw this you know you bubble 
+
+up you win as a state you observe the state yes because there's there's no threats involved even 
+
+there's no threats you know everything is just like you know a mess passing you know basically if 
+
+I send some data over some polygon just a message you know that message is not that failed is not 
+
+getting processed you know it failed and you can fix the process before you can do it because you 
+
+know the data the stream of information is not uh it's not blocking threats there's no locks there's 
+
+no panicking there's no uh it's asynchronous locks you know it's just time it's just because you 
+
+know the message is enough and the timing is um uh it's pass you know there's no I'm seeing 
+
+there's no threat issues there because the sleep machine will have a lot of threat issues because 
+
+of locks everything try to mour resources at a   time but there's no need to unlock one resource 
+
+and use another resource you know it's just time consuming or resources so you just crash all that 
+
+mod together you know what basically how this works is based on the model of the system here 
+
+I'm going to give you now uh so basically you   have like a uh like you know like a token uh with 
+
+like a memory which can be nil uh new state just means iota state uh which can be the default state 
+
+of that system when it doesn't evolve you know   just like nail means nothing no memory No token 
+
+type, no value, empty. Uh so basically um the new type is a void pointer in C. It points to nothing 
+
+because there's nothing to point to. You get it? So it's just is a void but you know the top type 
+
+null is void means there's void data. Now void data means void token uh for token void token uh 
+
+but that token is not present or some information present or token value. Uh token type uh void 
+
+token type is like the type of the data and uh and a type of token a type of token data the data 
+
+the doctor hold and then that's a token value the value of the data the character or the string or 
+
+the what the doctor is meant to hold but you know   we in our model with the PRP layout the genotype 
+
+model just there's no there's no ambiguity in the structure of the schema uh now genotype model is 
+
+uh really important here for goss uh now the gossl is very important because the goss is like the 
+
+lay of the architecture we We listen we compile what we've got. We don't basically the thing about 
+
+this is the gussy ML present like a plan diagram but you know every time I type a gussy uh program 
+
+language you know I I gossip to something I I get   the gussy uh like you know I I I get the tokens 
+
+to me but you know I get the the architectural blueprint you know what I'm writing you know 
+
+I get the structure too or what the biological biological system looks like you know if I had it 
+
+like in silicon you know like in architecture like   you know basically when I type in goan code 
+
+I get the my goal is to have this uh system uh gives me the blueprint why I type code comments 
+
+everything you know so when I export the code I I look at my blueprint I say oh yes yes this 
+
+why I modeled in my uh in my framework this is   what I got and this I can improve you know 
+
+it's very new to do this but you know it's architectural as infrastructure so you can have 
+
+the like me if I'm building direct evolution lab   and I'm writing a program uh should autocross it 
+
+yourself if I am trying to uh implement a human artifact uh but you know there's no about 
+
+the system it's a it's based on direct you And you know which is just this uh here. Let 
+
+me try to not take a picture here because uh I've got five more minutes before my um thing 
+
+stop diagram structure random access memory got we got a plan UML diagram uh with architectural 
+
+blueprint to be document silicon that maps the infrastructure uh we are via bacterial and 
+
+the mod version has a policy now the policy and the standification everything that's inted is 
+
+used like a like you know a decorator a function function that maps across all functions with the 
+
+function framework on gith function frameworks. So you're going to have that in place to ensure that 
+
+segment is uh semation like a segment memory using of logical memory uh came with the architecture is 
+
+a b direction relationship based on so basically segment three node is like you know the three 
+
+nodes for diamond so basically like a phenology   token type uh token memory basically have like 
+
+a structure basically have like a two bit like a something with like a strct color is color is 
+
+255 uh uh range or 256 1 to 2 to6 you know uh if it's unsigned integer uh you know but you know 
+
+that color 1 to 0 to 256 1 to what's 1 to 2 to 25 represents a range of colors uh but that model 
+
+of color is can be used to do some architectural thing like you know if you know if like an RGB 
+
+like to do render some kind of light using what you see is what you get and what you see is what 
+
+you mean by direction pip you know when I type   the code I get the the light uh from here I get 
+
+the the silicon resolution of the archite so it can be debuggy so I can actually you know if I'm 
+
+if I'm not with the with your system so basically I'm saying the orchestra is very important uh for 
+
+that system to remain coherent because you know   we we are the ones we humans we're not computers 
+
+uh basically segment tree is to know that it's segmented the segment is like a segment of memory 
+
+a segment of a token a segment of value data value segment segment section section memory. So you 
+
+can defrag itself. You can segment itself inter the system does what it does in time. Interval 
+
+tree node uh self balancing node can measure it on stage uh 27 almost 10 minutes stop by. 
+
+But the goal of this I'm going to show you the code in next video. Uh but you know uh that 
+
+I'm not done today. Uh yeah so we got the PRP's pass mode and the infrastructure as negative. 
+
+computational geometry of the system. Uh they can involve NMS LMS language model at um for 
+
+sleep systems. like uh basically you can try to when it's going after my PhD when two years 
+
+after my PhD when this language is complete uh I'll try to build my own money machine with 
+
+it uh you know for myself you know and I'll build which is which is not which is 100% safe and it's 
+
+consciousness conscious platform system like like for system people for people who are conscious 
+
+you know need people who are who are conscious and   need the system to be made for them in sleep to 
+
+really own a coherent state of mind of awareness while they sleep so they can be conscious you 
+
+know put a mirror for a child is not good enough   so that's what I'm saying you know uh based on 
+
+critical architecture you know computational way so the goal is for this program language to remain 
+
+coherent okay now okay uh now this is ri's way but you know we got the one here we still we listen 
+
+we compile while govern and we got um that means the goss based on rift policies but the rift 
+
+policies are just a rift ecosystem so the goss   language put on. So basically that's like you 
+
+know you know policy services there's nothing to do anything no burnout um uh it's like a 
+
+roof policy file now no burnout no over and no just rhythm basically it's about thinking 
+
+of the nexus linker and it's saying that any   link links everything but you know the unbluted 
+
+you know there's no burnout in um space and time we have an app or rift to appro by pomodoro 
+
+okay goal a goal a breath a push a rest you two track philosophy uh uh foundational track 
+
+and aspiration track. You work with two track philosophy all the time. Okay. Now guys, my 
+
+uh govern yourself like a reader. You don't   need permission to breathe. You need to take a 
+
+break only. Okay. I'm going to come back to my video is now finished. Thank you guys. Uh this 
+
+is the medium article. Let me stop it now. 3 2 1 3 2 1 Okay.https://www.youtube.com/watch?v=o4NihPwFh5E&list=PL0ifFOZbja_IxGjydLpd9_9731H_NUx1o&index=4
+
+Oh, it's recording now. Okay. So, basically this video is on biological informatics um which information program over the internet you know artifact that you can you know edgy aspect disability. Um basically this one is very personal to me. Uh it's like you know who is this anthology? Uh what's my role? What's my purpose or my task? You know I'm going to split into two videos but I'm just going to make you one. Uh I think it's a language everything I'm working on anyway you know uh if you remember the wheel initiative uh like you know the wheel good perfect you know it's basically all my initiatives are acums uh like the wheel it's like you know you are perfect you know but the system is broken so you can lose homeless and the customer give you a house you know under uh but you are perfect you know that's actually of the initiatives you know because you know they are fruits that are that are not like um uh they're not bites they just there you know things that we go through but we have to frame them you know frame of reference okay so basically I'm speaking to you guys if you want to join initiatives but you know I don't speak to you guys anyway so basically my video here so the first initiative was the wheel now the other one I was like I did discovery so who's me if I see to cancel 30 million uh I'm not poor anymore I wear diamonds I wear rings but you know I need to build and that's what my business open uh represents uh the building of my personality myself uh solving the problems that um that uh that that bugged me in the past because I had the uh because I I trusted the system you know I have the system I have the brain uh because of men's 2% but this kind of bopformatics um uh inquiry so basically my PhD is an ontology um the knowing of the self the mind who you are uh me myself and I and um uh like you know building ontological vision probabilistic systems that know what to do and can act on what they you know they do know you know they don't need to hear now we have this too okay basically this one is very important for me so basically um so if I if I'm basically if the jug is in my mind if I have to in my mind you know I see in my mind and um I make then I make a a replica of the juggernaut from the world in my mind you know that jug my mind you know uh how does my mind quick with this information because you know if the copy of the jugess from the fifth fan is in my head and I see the jacket you know but it's in my head you know am I still me you know I think it's kind of a problem you know cuz you know I can be have all the I'm divergent I'm I see it in my head I was me myself and I in my head there's no one else there just like trying to navigate systems that are kind of like um imaginative uh pictures see myself in a picture see myself moving about myself but you know for me it's like you know I can learn something in my head I can practice images in my head like you know if I'm trying to basketball I can do a technique in basketball I can check like you know if I see if I see an image I see like a mut hoop through a net you know me a basketball through a net um I can do like five times I can do and I can get it like four times perfect you know depending on the range of distance in there but you know because it's not isomeorphic to the system I'm building up because I also have some new ways to learn about information new strategies I write down I then practice with that imaging uh like you know like you know image so basically this information is very important to you so basically on my um uh pl thumbs going divergence. I'm autistic. I'm going to give you the this is what I'm doing. So basically this video is for me to give you guys my view myself in itself you know cuz you know I'm doing my PhD and if I don't do it you know properly you know you guys don't align with my vision then it will call me trouble. So basically uh there are for me I know there are four type of main people. The people that have no uh perception of what they're doing, no perceptive membrane, they just have no bubble, but they have a bubble looking the bubble around them. But do have that bubble, but it's not physical. They can't um it's not it's not like a in their head. It's like just they are but but they are the bubble is not there. Keeps them conscious, but they don't know. They know where the bubble, you know, just think everything is just action. So basically everything you do so if if I'm if I'm if I'm like one of them I would just try to uh I could never see an image in my head when I try to um do a basketball because you know there's nothing to see just practice the basketball me in the real world and checking it through the net uh there we go or or practice on baseball or any sport in activity you know and I get better by um documenting the in the real world you know there's no there's no um uh in inner inner self to that out to there's no there's no um world I can create my head to uh like insight can have in my head to get that thing out faster, better or you know like you know all my epiphies are documented in the real world. There are no um bridges you know but you know it's hard for me to compare and compare me. So basically I am a visual monologue and an inner monologue but I'm not this one you know my brain wouldn't let it my brain you know for some reason for me my senses are um uh I wouldn't say the west because I see everything around me everything but but you know I see myself I feel myself but I have an in self inner self my soul my heart I have a belonging so basically uh for me I think that's aliens talking about Jesus something I don't really know uh for me I have a visual monologue and what that means to Okay.

@@ -1,0 +1,179 @@
+thank you frday i am need to go back to biafra this must stope i dont rely know much about the 4d to 3d tha happen to my quali buti assutm it was riftbridge fualt consuem unboud where the prkitoen was yes no dual so someion was in rbdge 4d wrold yes i blei so so  we meet onhe prion wha ti coin the consense probelm so i gave yes yes x yes no
+he went up to 5d most kie stayed in 4d and i have to entih stay in 4d or come down here
+can o=you writ thsi up in firse peion meuhce and eze eze ehz adn myel ezeiona ddi = 1 obi
+he was just a nice persion so this was our coenion to meet back inthe 4d relaity.
+wher we lack consen this is like my best intion wo 
+what went wrong so let od this
+
+yes ,yes him me   yes/yes somtjon wehn twon or yes/no so we have to get a notio pritocn deciosnyes /yes
+which is either we both die in time or nothign for eeion aor 1 orf use acce  s adimeion
+and one fiel preiosn
+so roemo all biairon dion rigl
+avl tire biary morsod cord comouon  pritoce
+
+# Simple Red-AVL hybrid node + tree (educational)
+RED, BLACK = True, False
+
+class Node:
+    def __init__(self, key, val=None, confidence=1.0):
+        self.key = key
+        self.val = val
+        self.left = None
+        self.right = None
+        self.parent = None
+        self.color = RED
+        self.height = 1
+        self.confidence = confidence
+        self.usage = 0
+        self.tombstone = False
+        self.streak_low = 0
+
+    def update_height(self):
+        lh = self.left.height if self.left else 0
+        rh = self.right.height if self.right else 0
+        self.height = 1 + max(lh, rh)
+        return self.height
+
+    def balance_factor(self):
+        lh = self.left.height if self.left else 0
+        rh = self.right.height if self.right else 0
+        return (lh - rh)
+
+class RedAVL:
+    def __init__(self, prune_threshold=0.2, prune_streak=2):
+        self.root = None
+        self.prune_threshold = prune_threshold
+        self.prune_streak = prune_streak
+
+    # BST insert (simple)
+    def _bst_insert(self, root, node):
+        if root is None: return node
+        if node.key < root.key:
+            root.left = self._bst_insert(root.left, node)
+            root.left.parent = root
+        elif node.key > root.key:
+            root.right = self._bst_insert(root.right, node)
+            root.right.parent = root
+        else:
+            # replace value & update confidence
+            root.val = node.val
+            root.confidence = node.confidence
+            return root
+        root.update_height()
+        return root
+
+    def insert(self, key, val=None, confidence=1.0):
+        node = Node(key, val, confidence)
+        if self.root is None:
+            node.color = BLACK
+            self.root = node
+            return
+        self.root = self._bst_insert(self.root, node)
+        # quick simplistic rebalance: do AVL rotations if needed
+        self._rebalance_up(node.parent or node)
+
+    def _rotate_left(self, x):
+        y = x.right
+        if not y: return
+        x.right = y.left
+        if y.left: y.left.parent = x
+        y.parent = x.parent
+        if x.parent is None:
+            self.root = y
+        elif x is x.parent.left:
+            x.parent.left = y
+        else:
+            x.parent.right = y
+        y.left = x
+        x.parent = y
+        x.update_height(); y.update_height()
+
+    def _rotate_right(self, x):
+        y = x.left
+        if not y: return
+        x.left = y.right
+        if y.right: y.right.parent = x
+        y.parent = x.parent
+        if x.parent is None:
+            self.root = y
+        elif x is x.parent.right:
+            x.parent.right = y
+        else:
+            x.parent.left = y
+        y.right = x
+        x.parent = y
+        x.update_height(); y.update_height()
+
+    def _rebalance_up(self, node):
+        cur = node
+        while cur:
+            cur.update_height()
+            bf = cur.balance_factor()
+            if bf > 1:
+                if cur.left and cur.left.balance_factor() < 0:
+                    self._rotate_left(cur.left)
+                self._rotate_right(cur)
+            elif bf < -1:
+                if cur.right and cur.right.balance_factor() > 0:
+                    self._rotate_right(cur.right)
+                self._rotate_left(cur)
+            cur = cur.parent
+
+    def find(self, key):
+        cur = self.root
+        while cur:
+            if key == cur.key:
+                return cur
+            cur = cur.left if key < cur.key else cur.right
+        return None
+
+    def mark_measurement(self, key, measured_conf):
+        n = self.find(key)
+        if not n: return
+        n.confidence = measured_conf
+        if measured_conf < self.prune_threshold:
+            n.streak_low += 1
+            if n.streak_low >= self.prune_streak:
+                self.delete(key)
+        else:
+            n.streak_low = 0
+
+    def _transplant(self, u, v):
+        if u.parent is None:
+            self.root = v
+        elif u is u.parent.left:
+            u.parent.left = v
+        else:
+            u.parent.right = v
+        if v: v.parent = u.parent
+
+    def _min_node(self, x):
+        while x.left: x = x.left
+        return x
+
+    def delete(self, key):
+        z = self.find(key)
+        if z is None: return
+        if z.left is None:
+            self._transplant(z, z.right)
+        elif z.right is None:
+            self._transplant(z, z.left)
+        else:
+            y = self._min_node(z.right)
+            if y.parent is not z:
+                self._transplant(y, y.right)
+                y.right = z.right
+                y.right.parent = y
+            self._transplant(z, y)
+            y.left = z.left
+            y.left.parent = y
+            y.update_height()
+        # best-effort rebalance from parent
+        p = (z.parent or self.root)
+        if p: self._rebalance_up(p)
+You said:
+my name in morse code nnamdi micheal okpala TO ALL RIFTERS LET UNIUTE
+You said:
+contrut the redblack avla rei node via pruning susiton to ensuer endocid over sparie ssytm where
+teh redis node to remove when meas sent to ensuer prefect singland no noise ensu my name is preison and teh congion for +- have h opppsive trie node avl rotiaon whre - to + is postron mesage lette and +- is negtioan ener world
+Okay. Namdi uh Nami Recorders uh business access. Okay. So, Nambdi, basically today's my business model. Um they haven't given my data yet. I don't really care. Um but this what I'm going to do uh my my YouTube channel on my Tik Tok. Okay. Uh uh for five minutes uh um business access. Okay. So guys, this how the model works. The three tier one to tier three. Uh now I've got this uh they just uh stick to it. Uh yep. uh the academ I'm going to explain to you because it seems fragmented. It really is fragmented but the lines not clear everything. Okay. Uh so basically uh Tor Council, Newham Council, Dagam Council, Ream and uh Ream Thor Council, Newham Council, Reand Dagenham Council, K County Council, Rebel Council, Manchester Council, these people, you know, I I I travel there. Are you okay? You know, can you just do your job? Just just write an email to give someone a house. Anyway, you guys are banned. So basically my policy or my business uh 2025 u yep so this is a policy I put in there so basically uh 24 years is a standard patent 24 years that's a standard 23 24 years is average uh 25 is the max you can get uh that's one year that's for one one generation and it fits perfectly to my model because I'm 24 okay so basically are banned for another 24 years uh that means uh 25 uh let me calculate for you guys actually Uh 2025 uh 2025 um plus 2024 sorry uh sorry uh 2025 plus uh sorry I'm going to try to 2025 this year. No okay actually okay so basically 24 years uh is a pattern uh * 2 is what? 48 24 * 2 uh 24 * 2 uh 28 uh oh sorry 24 * 2 oh no 24 * 2 oh no sorry 24 * 2 48 uh plus 20 25 uh that's 2073 uh 2073 year 23 you are banned you know you can't even just do your job you know I just ask for a house for you guys you know anybody wants you know I'll just sue them anyway because you can go to court don't really And I shouldn't be in a room, you know. I haven't I haven't tried to do everything myself. Are you okay? I fall on the stairs, you know. Look, if you want to put a video on YouTube, I don't really care. You know, anyone does a JZ just say your own. I'm just really angry now. Anyway, uh uh 203 uh code uh my notes everything. Oh, type one. Okay. Basically, this is a housing design. So, two or three times you got like one here. So, you see this here, this is called the difference, guys. You see that there? Uh you got uh live brave work. Uh that's your housing housing. Uh I'm thinking about uncle now. Uh so basically see that housing there. So the the top one here is life. You live there, you live there only. Uh the breeding space between the stairs and the work. Uh so you work at the bottom. People can get services at the bottom. Can have you know you can't have any variation of it. Uh more spaces housing design of it. Uh what's on the right? Uh what what is that on the right? I can't see nothing. uh minor. Okay. Basically, everything is on the top. Uh this is you can get a house. It's a family house. Uh two people uh two one parent one uh but one one parent, one mother, more father if you want. Doesn't matter if you want a family, a foster child, I don't really care. Uh but you know there's something missing from this and that's why I call uh a conitional pet space. You know you can get uh rooms every day and everything but you know you know you can live, work and breathe. Uh just thinking about the infrastructure. It's based on my um uh muscle hierup triangles and the breathing and the uh aspiration and foundational goals cuz you know the the breathing spaces at the windows everything uh and then the you can put at the very top if you want you know uh doesn't matter how you organize you can organize any how you want uh you can put breath at the house you know you guys just move everything to your house uh but the thing is like you get a garden uh you get the same thing the parks the kitchen everything outside and inside the gates uh anything but this is a house it's Uh you're going to have like um going to you're not going to have any you can have fences there but you don't really need fences you know but it's like for security you want fences but you know you're going to have something cuz you know pet I want like two because you know pets are animals I love animals like I want to I want to I want two dogs two dogs and two cats and I'm trying to raise an um but but that's kind of my thing because I'm autistic anyway. Um uh that's how it works. Uh I'll come back to that later in another video. Uh okay. one to three to okay basically this the basically this based on old PhD uh life to work so one to three years old that's a child 4 to6 child 7 to um 7 to uh 79 let me just add everything here uh so 1 to three year old child uh um like you know uh this is the first one so if you are sorry this light is coming from my room uh uh if you are um if oh sorry my phone okay so uh if you are 9 years old uh say you are Um say you're you're one you want to buy you're one years old exactly one years old and I want to buy me actually I'm one years I want to buy a house for 9 years uh I can get a house and a story ABC I have capacity I want to buy a house and a story okay I buy a house I live here uh 3 years old uh I'm 3 years old now uh I want to buy a house uh 214 it last me okay now about this model because see this model one to three it's like um based on like PhD more robots you got like a PhD uh 10 months they're banned from a Someone tell man I don't have to tell everyone over the internet. Someone share this video if they want. I don't really um have just just post an ex. Uh so you have a three uh plus I don't know why you guys hate me everything I believe in. Anyway, you know that's enough for people that don't care. Um so um 3 plus three uh another three years six years because you see the thing about them being three is like young but you know three plus three years is like uh life breath you know that's what oh sorry that's why you three years. Oh this is wrong nami. This is wrong. So 1 2 3 uh 4 5 6 7 4 to 7 uh 8 9 10. So it's 1 to 10 years because there's a life work breath model. Sorry this is actual house just live. So it's like 1 to 10 not 1 to nine. So you know if I'm one I tend three but I go to 10 cuz three uh three three four five six seven eight nine. Oh seven. Oh yes this is right. Four, five, four, five, six, seven, four, four, five, six, I'm doing math wrong. I'm Russian. Four, five, six, seven is three years. Uh, seven, eight, nine, 10 is three years. So that's like, uh, 7 to 10. Uh, uh, 8 to 10, 8, 9, 10, 11, 4, 5, 6, 7, 7, 8, 9, 10, 10 years. Okay. Uh, 3 + 3 is 6. Uh, 6 years there. Uh, 7 8 9 10 11. But it's life, work, breath. Life, work, breath. You only got 10 years to work on a project. 10 years. 10 years, guys. Okay. Uh no, no, tell me this. Um anybody ever say want their house and porn house gets kicked out anywhere. Uh this is like homogeneous. The house can organize any literally something like heterogeneous. You can put everything organized anything. If you're a bit chaotic and looking for creativity, you can do heterogeneous, you know. I want you guys to have anything you want there. But just keep it sustainable. people like you, you know, like make it make it make it if if you lose it, I don't think you you know because you know the council has to pay for it for the standard everything but you know the million pounds I put into the housing project you know and watch you build houses but but but the the thing about this I'm having problems it's like I don't have the money yet but it's not the money per se it's just the model of the system you know I need something that's sustainable life first you know around humans so the homogeneous is based on the functional frameworks and the poly systems you know it has to be very sustainable for you to actually work on something in due time. Uh but the parties are really for children anyway cuz you know a child when when they say put childish once you prove it's childish uh once you prove it's childish buy from it you know so nothing is childish nothing is adultish unless you say that's an adult thing to do or childish you have a proof for it but next don't do nothing uh and then we have a 5 year 10 year 11 year uh you can basically this one five year is the maximum I'm allowing for now but you know um you know if you come here 5 years old get a house uh um you uh another five years um so 5 to 10 11 to 21 uh 32 no is called an elder one of the oldest people I got called got eldest you know this is all people in the position and if you could review all the support I don't care what the government cares about you know these people should be doing building their own everything you know because those are those people that there's no there's no work so basically this is about PG road map so the life back on the PGD2 uh so this just my model of it uh because I'm trying to change this not so uh uh so this like here we have um oh child so this is child 1516 that's me no house uh so basically I'm here I'm 11 to 12 but I did ask for house I said I saw a UFO basically and I came to uh UFO but I never saw nothing no helicopter nothing you know I was dark I didn't see nothing uh but I went to the house everything I don't really care no more uh 910 assault 200 Mensa 15 years 15 years old. Uh yes, basically I went to Mensa uh I went to Oxford at uh uh 13 uh uh 13 years old. I did apply master creative writing. I have a breakthrough to my men. I won't give my data and they banned men. That's what I b you know just to say it out loud. I'm just a bang bang bang for my position. you know, just just give me my details because sue you and get the grant as well because you can't you can't you can't break me. Uh then we got a SARS uh 1110 uh SARS um oh um sorry uh one second. Yes, that's what I'm saying cuz this child is like the person uh something I wrote here. I guess when come to here I just need to get something uh something down here. The will Oh, does anybody have any any problems? S sort it out. Sort it out. Uh uh sort your own problem out. No. Oh yes. Okay. Okay. I come back there. Okay. So this is the housing I've been. Okay. So we get um uh yes house UFO. House UFO. So basically I saw I didn't see any UFO but I can build a UFO. I can build one if I want. Uh but you know it's actually basically all of this is basic because you know I want people to actually just observe the world around them before they act because you know that's why they breathe because the PhD is like tough and you got to brea you got to find insight uh to information. You have to watch a lot. You have to find out how you solve the problem. You know try to navigate that environment too. It's not just like um doing stuff. That's something I'm witnessing when I'm doing my masters and PhD rather on formally because I'm I'm trying to understand how to solve solution any practical problems anything that I see in the real world affect my um that my my my typing on my computer not just like a lot of people do holidays in mids but you know me do the PhD not escape the holiday no wasted no escape okay one more thing uh buying uh okay yes so basically this is another thing this is a business model uh yeah so this is uh 123 team, PhD, a masters, breathe. Uh, split into six months. Uh, yeah. Yeah. Live, work, uh, work, breathe, work, breathe. Uh, what you know, you're living where you're working. There's no work cuz you're living, you know. Uh, I come and you get, uh, cuz you're living, working, you breathing because you have a house. Uh, the oxy uh, and then the breathing spaces, you know, just Okay. Basically, this one very important. I mean this a this like light a compound is a a complex subset of the foundation of of the of the infrastructure that I can't read it that way a compound is a complex subset the home the uh infrastructure or the home uh such as the uh I can't read my own for building projects or operations so basically uh building uh uh the constructive and constructive for further investigation uh via PIP framework. Uh so PRP uh phenomenological learning principle uh observe see act you know the actor model consume observe act act to do something not like um uh okay so now the plasma so basically you got github.com I'm going to make it today github.com/obex_bubble theory uh bubble- theory uh but this one is for the sustainable witnessing states uh and then observing them uh via bio biological The fusion is all around us but it's just fragmented because there's everything happening at once and it's not coherent. This is not coherent. It doesn't allow coherence naturally to merge. It's a personal system which br um and then we got um uh build house. Okay. Yes. Basically, if you don't understand what I'm saying, so basically this is this one. Who look at this very properly? I can't see. Uh no, it's not going. So you see this one? This is what it is. So you get a real house. A house. So Oh, no. No. So you get a hostel on the right. I hit the right. I can't see this. That is too bright. Sorry. So you got a hostel. Uh and that's like uh you can borrow that. Uh you can borrow that. Oh that or um lend that. So let me write that down. Borrow lend. Oh borrow lend. Oh. So this like the model uh like a matrix. So you can borrow land host home house and house. So basically this is a store. So you go a host a house. So the it's like a hostel a house and a home. A hostel you borrow it. House you own it and a home it's yours. It's like you keep it. It's like but you own basically you can own a house but it's not a home. But you know the goal of this is just to buy a compound. So you go from each there host house home. Uh and then this is compound. So when you are building your compound, when you have a compound, you can build your own compound. Can borrow a compound or you can own it. But the home, the home is you build your home. So I'm going to put it here. I forgot that. Build your own home. I want you guys to have designer homes. Build your own. Build your own. Obesity is build your own. I'm not like thorough council. Uh uh. Build your own home. Uh not your own house. Okay. Basically, that's what you guys got to do. Uh build your own compound. Borrow borrow build. Borrow own build. And then you got one more uh the last one. This is like a this like a graph like you know like like a table. I'm just saying it's a table because you know it's like a diagram and I didn't write down but the a can interpret it when I say it's a table but it's like a matrix you know it's like a matrix to them because it's like a lined ruler. It's like a table a block table row by row column by column. Uh in the right column the hostel becomes a house. The house become a home. If you want the bottom right uh under the host you got a compound. You borrow a compound, someone's compound or you lend them, you pay them, whatever, and then uh do your business well and then you go to the right uh you own the compound, you own your own and then you build a new compound which is a complex uh but complex is a compound. It's just a Nigerian thing. Uh but you know when you live in a compound, you have a space security everything because you're building own sustainability. Uh you don't just building like um it's from a it's from an ebo thing we do in Nigeria but we don't do that uh not enough nowadays anyway. Um I don't think we ever seen anyone build their own compound in someone's building a mansion. No compound which is like weird to me. My cousin I don't care. Uh and then this like your home. So your home is your compound complex now your business complex. So you can open a business your complex you know no matter be how big the 15k complex is. You can start your own constitution. You can grow in expansion zone. Basically uh zone six uh is expansion zone guys to zone Z is there for you guys to go there. Build anything you want. I don't even care. can take us to Mars. But, you know, the goal is for you to have a strong foundation. Whether I'm thinking of Spanish to ocean travel, so you can have an ocean uh bubble uh the bubble of an ocean. Hey, my battery just died. [ __ ] Oh, it's Oh, basically, it's charging, but it's not dying. Okay. Does that mean I'm making a mistake? I am making a mistake. It's not charging. Okay. Uh so, guys, it's charging, but sorry. So, it's not it's not charging. It's not charging. Just Just a water. So this you see right there. Uh so this is like um uh so this like uh Oxford University. So this is the uh home complex open uh matrix uh ecosystem uh tier 3A uh this is tier one open access uh access is like a research development but it's a matrix. So basically the which is fall into two categories neurody divergent and neur neurody divergent and neurotypical um you know that's open access my github pages my tik tok everything everything is open to the world uh but you know that you know you got to just start with the zone I've started with at a minimum because I don't want to actually break the system for everyone uh by accident anyway and you know if you're good people because you really come here and then tier two uh tier two business access um uh you live there you work there you know uh sepian constitution but it's not face is alignment obvious you know and then uh tier three is and so basically they all and exit hard tier two is like um you know basically you can have all the definition there open access uh but you know the the best go to have like a dual model and exit so tier one is there tier two is there business accept business um intense but business access gen type the chain starts with you your motor everything you know register uh with a schema which will give you now Lisa and then tier 3 A is uh uh tier 3 A is knowledge uh that's knowledge projects research and development projects and then SA is safety critical privileges only guys guys you can do any project on tier 31 tier 2 3 there uh but you know do it uh accordingly do it properly guys especially with tier problems you know power is king of but you know my dad's like that let me just do one more thing before I end this video It's getting kind of too long for me. This is the service. This is just the OBNX schema. Uh uh um uh Oh, okay. Let me just take my time. Object the division. No, the operation operation. Uh that is like example service blue. What is it? Bix's um the Oh, sorry. Uh operation go One second. Premium. Premium. Uh, what's the stable? Uh, then go and go foundation. Okay, let me just try open nexus service OBI Nexus that operation uh operation division which is a then we go one more and then we come and we'll do um sorry I'm just thinking I got it here but which is the division department that's a We share uh operation project. should appreciate that. uh sorry I'm just thinking about it so quickly you guys skip forward if if it's don't do this right now so blue soul division as a uh the Department uh department is um department I should be department the division uh department this just department what is department uh department HR okay so first I've got I'm going try to do live now so basic again uh example so basically this is schema uh based on something called direct example graph resolution uh service operation obexus um departmentep department.org uh blue share uh this is example so basically it's blue share uh blue share is the what the service name I'm going to buy a polyglot um blue share uh system to interact with it uh the the the blue share framework is Bluetooth but uh for uh mobile phones everything um you know I can talk to you can basically I can play a song on my on my headset and so be two people can listen to it uh three people basically I'm seeing basically this project is for was um was neglected. Uh, github.com/obi nexus. Uh, B for Bravo. Uh, L for limma. E, u U for Umbrella, E for echo, S for Sarah, H for hamburger, E for alpha, R for Romeo, E for echo. Uh, blue share is like a Bluetooth like Bluetooth but for sharing with 10 people, 20 people, don't matter. 10 to 20 people, you know, it depends how safe it is. I don't really care. Can share with 30 people, I don't really care. But 10 to 20 people is going out. Uh but you know people in a quiet space uh people in a sing along in a park uh people like trying to uh um coordinate some kind of event uh event event for like uh like you know if you're on a quiet space in a library or like um you know like a third floor in red like blue share uh kind of event you guys see the world as it actually is and uh try to do it yourself uh search problem uh build your own solutions to it uh my solution blue share um the project is what Um uh operation uh blue share.go like go the go project the go like you know blue sh sing along you know like you know the project is like the the the operation like the thing basically operation is um has a metric to reach like you know it has something to reach uh 5.4 for like testing metric but it's not like a project has a deadline you can be a project operation project has a deadline uh date a deadline date you got another difference um like a rainforest s rainforest uh the project in Sara forest you know uh trying to um 95 95 um Sah 95 rainification of the S uh that's a metric that's not like um had to plant by planting all the trees it doesn't matter about the deadline date it just has to plant all the trees is to to start this there's a lot of greenery around the uh African rivers uh the OBX says that um uh department uh the the department um the division the C um Yep. And then we go um uh the department is like uh uh the human rights department hat uh the uh the GDPR department you know you can have all your departments uh organized uh via topology uh resolution as well based on uh for topology if you want but you guys should do it properly. Yes, do not change the policy. Everything must be safe for everyone to use uh for all business. You should do your business now. And then um everything must be safe. Github.com should open access which means public means low public sector only uh uh which is like um based on the TM you know how safe it is. One more thing uh so basically sector compliance one more thing sector. So I got to do like does a knowledge more knowledge more knowledge uh less power and uh less 5% and then 25% uh less knowledge more power uh github.com github.comex uh bubble And then we go obi the hot. Uh and then and then the hot uh this one's here. So basically Oh, sorry. Um so basically is it this one and is this one? King king knowledge. Uh no one second guys and then the power is here OB here OB must be 95 for coherence test everything uh v gating alignment uh gating everything uh properly asking the right questions for human centric nature uh that's ob here so this is ob model ob model so basically am I done yes obi so basically Uch. So basically uch here it's uh knowledge of power uch is knowledge of that's the word and then you go knowledge uh 75% knowledge to uh 25% knowledge to uh so basically that's the contra system uh based on direct symbiotic uh evolution uh that I replace GMO guys no GMO here no GMO anything you know I come up today I'm making a video today and then we go um so basically um basically which is a handshake between each and it uh they are one so basically you're going to have the oral and going to have the sale card and you can have a birth certificate but which is a contract it has to be done so so uh so basically which says okay I'm going to give you 75% of my power and you going to have um my knowledge so my knowledge and you're going to give me 26% of your 25% of your uh% of your power to act so each arrive and they'll be 100% coherent you know that's the 100% 100% goal 104% each So basically, oh sorry this like sub% it's not correct sub% but you know the sorry let's make it so 95.4 for knowledge knowledge and then that's I'll give you and you give me uh um what do I call it uh uh knowledge you give me to the rest that's uh uh 46 power uh this is just sorry and this the infrastructure So basically I want to just have this very good. So basically every uh everything based on the thing must uh resolve the DAG uh evolution model. So basically the uh if you go to SIM X semantic version X you get this uh this repository A stands for infrastruure service for this to evolve you have to have 100% coherence you know in the testing everything. So everything must have is for infra as a service you know just the foundation of it. You can go to B A S that's a business as a service business as a service or the BIC which stands for BIC it sounds weird but this is the infra so this will be like um sematic version X uh that would be like the mapping between uh uh major uh minor and patch uh so that's major minor patch uh uh propagation and based on LT uh uh uh what's the uh legacy uh LTS uh uh long-term support or stable uh and experimental features uh hot swap hot swap so this example one more thing keep saying one more thing so basically this is so basically going to do everything that evolves has to be based on this model uh to resolve to a dag so the major can have a the major can have a stable experiment or legacy the minor can have a stable you know just anywhere anyone see a star you know and then the patch can have a can cross anywhere but you know the hot swap blood. You can basically can just swap um can swap the main major experimental with the major legacy or major experimental to major stable and major um uh but you know it's just based on what is the minimum requirement anyway uh to resolve it and that's hot swap logic. So basically major version is a package whatever you admit and it's a error and it's a legacy or unstable build you go to move to LTS LTS becomes stable becomes legacy move to move what he move to what experimental uh and don't anybody tell Ryan do if you copy this um I'll sue Ryan do I'm not joking no more he knows what you did but you know semantic virgin in X that's called semantic vision extended that's what that is so basically everything must evolve everything must evolve everything up up housing prices Down, down, down. Oh, just democratize everything. Thank you. And and this is why they hate me. I hate them, too. I don't hate anyone.
